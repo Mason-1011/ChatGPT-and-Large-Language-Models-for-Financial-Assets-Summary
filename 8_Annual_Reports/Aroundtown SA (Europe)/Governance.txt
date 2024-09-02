@@ -1,0 +1,8272 @@
+70
+
+Management  Policy  and  Procedure  were  established  to  unite  and  improve  water 
+
+Metrics: Water Management
+
+management  efforts  at  operationally  controlled  and  owned  assets,  outlining  our 
+
+current water strategy, water management, and water-related procedure principles. 
+
+The Water Management Procedure also provides further information to Asset and 
+
+Property Managers on improving sustainable water usage at assets in our portfolio.
+
+Our water management strategy is described in the section above. In order to track 
+
+the progress of our approach, we collect water consumption data from our assets 
+
+and  monitor  this year  on year  as  shown  in  tables  5  and  6.  Due  to  restrictions  on 
+
+tenant data sharing, we include tenant submeters in our landlord-obtained water 
+
+consumption figures.
+
+TABLE 5
+
+Absolute water consumption for managed assets
+
+Water reported in m3
+
+EPRA Code
+
+Metric
+
+TOTAL
+
+OFFICE
+
+RETAIL
+
+OTHERS INCL. LOGISTICS
+
+GCP
+
+Total landlord-obtained water consumed (including tenant submeters)
+
+3,203,245
+
+3,125,639
+
+343,800
+
+362,113
+
+Water-Abs
+
+Proportion of landlord-obtained water consumption data that is 
+estimated (including tenant submeters)
+
+29%
+
+14%
+
+26%
+
+100%
+
+2%
+
+2023
+
+2022
+
+2023
+
+2022
+
+2023
+
+26,272
+
+2022
+
+42,501
+
+100%
+
+2023
+
+43,704
+
+20%
+
+2022
+
+2023
+
+2022
+
+26,212
+
+2,789,468
+
+2,694,813
+
+100%
+
+29%
+
+0%
+
+Total water consumption data coverage, by area (sqm)
+
+3,670,113
+
+2,548,011
+
+1,502,344
+
+999,057
+
+56,449
+
+163,776
+
+158,541
+
+108,068
+
+1,952,779
+
+1,277,110
+
+Absolute building water intensity (m3/m2*year)
+
+Building water intensity for all water consumed
+
+0.87
+
+1.23
+
+0.23
+
+0.36
+
+0.47
+
+0.26
+
+0.28
+
+0.24
+
+1.43
+
+2.11
+
+Water-Int 
+(Abs)
+
+TABLE 6
+
+Like-for-like water consumption for managed assets
+
+Water reported in m3
+
+EPRA Code
+
+Metric
+
+TOTAL
+
+OFFICE
+
+RETAIL
+
+OTHERS INCL. LOGISTICS
+
+GCP
+
+2023
+
+2022
+
+2023
+
+2022
+
+2023
+
+2022
+
+2023
+
+2022
+
+2023
+
+2022
+
+Total landlord-obtained water consumed (including tenant submeters)
+
+2,979,843  
+
+  2,658,191
+
+194,035  
+
+  191,142
+
+  15,039
+
+  11,565
+
+ 35,439
+
+ 35,982
+
+2,735,329 
+
+ 2,419,501
+
+Water-LfL
+
+Proportion of landlord-obtained water consumption data that is 
+estimated (including tenant submeters)
+
+30% 
+
+15%
+
+37%
+
+80%
+
+ 3%
+
+ 80%
+
+24% 
+
+ 80%
+
+30% 
+
+5%
+
+Total water consumption data coverage, by area (sqm)
+
+2,919,577  
+
+2,915,869
+
+ 871,423
+
+871,423
+
+25,094
+
+25,094
+
+116,953
+
+116,953
+
+1,906,107 
+
+ 1,902,399
+
+Like-for-like building water intensity (m3/m2*year)
+
+Water-Int 
+(LfL)
+
+Building water intensity for all water consumed
+
+1.02 
+
+ 0.91
+
+ 0.22
+
+0.22
+
+0.60 
+
+ 0.46
+
+0.30
+
+ 0.31
+
+1.44 
+
+1.27
+
+AROUNDTOWN SA   |    Board of Directors‘ ReportBiodiversity and Ecosystems
+
+Pollution 
+
+While  biodiversity  and  ecosystems  was  not  identified  as  a  material  topic  in  our 
+
+While pollution was not deemed to be a material topic during our DMA conducted 
+
+DMA, we remain cognizant of the need to and benefits of contributing positively to 
+
+earlier this year, it is nevertheless a topic that we consider in our construction and 
+
+biodiversity at our sites. We have therefore established a clear, public Biodiversity 
+
+refurbishment projects, as well as in the operation of our assets.  As described in 
+
+Commitment which details our approach to biodiversity protection and enhancement, 
+
+more detail in our EU Taxonomy section of this report, we for instance require our 
+
+which  is  planned  to  be  updated  in  2024  to  include  a  more  specific  strategy  and 
+
+suppliers  and  contractors  of  Taxonomy-relevant  projects  to  sign  a  questionnaire 
+
+related goals considering EU Taxonomy aspects.  
+
+that confirms their non-usage of pollutants and prohibited chemical substances by 
+
+71
+
+In 2023, we continued to conduct biodiversity studies at our sites to assess the types 
+
+and extent of species we have onsite and to identify opportunities for biodiversity 
+
+enhancement  on  and  around  our  assets.  In  Germany,  as  part  of  our  employee 
+
+engagement  program,  ‘Activate  the  Base’,  some  colleagues  formed  a  biodiversity 
+
+taskforce  aiming  to  kick-off  the  biodiversity  studies  in  Germany  after  they  were 
+
+piloted  in  the  Netherlands  in  2022.  Four  assets  were  assessed  in  Berlin  in  2023, 
+
+for which implementation projects of the identified improvement measures will be 
+
+rolled out in 2024.  
+
+Meanwhile,  our  Dutch  operations  conducted  17  biodiversity  studies  across  eight 
+
+cities,  compared  to  seven  studies  conducted  in  2022.  Following  the  results,  and 
+
+carefully  considering  both  the  urban  landscape  of  the  corresponding  assets  and 
+
+the  practical  feasibility  of  the  identified  possible  measures,  three  biodiversity 
+
+enhancement projects took place in the Netherlands in 2023. These included the 
+
+installation  of  bat,  hedgehog,  squirrel  and  bird  houses,  insect  hotels,  green  roofs, 
+
+and the planting of local flora and fauna. For 2024, further biodiversity studies have 
+
+already been planned for the Netherlands.
+
+Finally, we continued to expand our ‘Aroundtown buzzes’ program to protect urban 
+
+bee populations in and around our assets. The program was initiated in 2020 with 
+
+15  rooftop  beehives  across  our  commercial  properties.  By  2023,  we  had  43  bee 
+
+colonies across 11 roofs in our portfolio. These also include four roofs in our hotel 
+
+portfolio which we added to this program, in collaboration with the hotel tenants. 
+
+The bees are looked after by our very own registered beekeeper.
+
+In  addition,  to  further  engage  our  staff  with  these  biodiversity  programs,  our 
+
+employees receive gifts produced by our bee colonies, including beeswax candles, 
+
+and honey.
+
+the European Union.
+
+Aroundtown‘s beekeeper at work
+
+AROUNDTOWN SA   |    Board of Directors‘ Report72
+
+EU TAXONOMY
+
+Introduction
+
+The  EU  Taxonomy  is  a  classification  system  for  the  identification  of  sustainable 
+
+economic  activities  established  by  the  European  Commission.  Its  purpose  is  to 
+
+offer companies, investors and policymakers a standard set of definitions for which 
+
+economic activities can be considered environmentally sustainable in order to create 
+
+security  for  investors,  protect  against  greenwashing  and  encourage  investment 
+
+into  more  sustainable  activities.  The  EU  Taxonomy  is  currently  comprised  of  six 
+
+environmental objectives: Climate Change Mitigation; Climate Change Adaptation; 
+
+Sustainable Use and Protection of Water and Marine Resources; Transition to Circular 
+
+Economy; Pollution Prevention and Control; and the Protection and Restoration of 
+
+Biodiversity and Ecosystems. The technical screening criteria for the six EU Taxonomy 
+
+environmental  objectives  were  scheduled  for  release  over  a  multiyear  timeframe. 
+
+The Climate Delegated Act covering the technical screening criteria for a substantial 
+
+contribution to Climate Change Mitigation and Climate Change Adaptation and the 
+
+Do No Significant Harm (DNSH) criteria for the remaining environmental objectives 
+
+was  approved  in  2021  and  applied  as  of  January  2022.  The  final  Environmental 
+
+and  its  reporting  requirements,  several  training  sessions  were  conducted  with  the 
+
+Construction  and  Operation  Departments  in  Germany,  as  well  as  the  Netherlands, 
+
+Greece  and  Cyprus  throughout  2023.  At  Aroundtown,  the  standard  construction 
+
+contract was also recently revised to ensure the accessibility of information necessary 
+
+for EU Taxonomy compliance, incorporating provisions for contractors to deliver data 
+
+pertinent to EU Taxonomy reporting. The updated contract includes the EU Taxonomy 
+
+pollution  prevention  questionnaire  (to  be  signed  by  contractors)  which  covers  the 
+
+DNSH criteria on Pollution Prevention and Control, and integrates explicit provisions 
+
+for  waste  disposal  and  recycling  data,  covering  the  Circular  Economy  requirements 
+
+under  the  DNSH  criteria  for  Climate  Change  Mitigation.  It  also  covers  the  DNSH 
+
+technical specifications for water appliances so that in the future all refurbishment 
+
+activities that affect water appliances must align – if economically possible – to the 
+
+specifications of the EU Taxonomy. The new contract has taken effect from January 
+
+2024 for Aroundtown, while GCP is currently undertaking the contract update check, 
+
+which is also expected to be rolled out during 2024.
+
+Delegate  Act  adding  the  substantial  contribution  criteria  for  the  remaining  four 
+
+As  a  long-term  target,  Aroundtown  aims  to  optimize  its  Enterprise  Resource 
+
+environmental objectives was approved in 2023 and will apply as of January 2024.
+
+Planning  (ERP)  system  for  the  comprehensive  collection  of  EU Taxonomy  data.  In 
+
+In 2022, Aroundtown undertook for the first time an assessment of the Group’s EU 
+
+Taxonomy-aligned  turnover  (see Turnover  KPI  further  below),  capital  expenditure 
+
+(CapEx) and operating expenses (OpEx) relating to the EU Taxonomy environmental 
+
+2024,  ongoing  training  sessions  will  continue  in  conjunction  with  EU  Taxonomy 
+
+updates  for  the  Construction  and  Operation  Departments  and  the  Business  and 
+
+Group Controlling teams.
+
+objectives  Climate  Change  Mitigation  and  Climate  Change  Adaptation  for  the 
+
+Following  strategies  are  in  place  to  continuously  improve  the  eligibility  and/or 
+
+financial  year  ending  31st  December  2022.  Since  then,  Aroundtown  has  made 
+
+alignment with the EU Taxonomy:
+
+further progress in implementing and adapting processes to gather critical data for 
+
+EU Taxonomy reporting. For instance, in 2023, a mid-year EU Taxonomy alignment 
+
+exercise was performed, covering eligible CapEx under the environmental objective 
+
+ ● Take substantial contribution and DNSH criteria of the EU Taxonomy into consideration 
+
+when making decisions regarding renovations and new development projects. 
+
+Climate  Change  Mitigation. This  allowed  an  earlier  assessment  of  the  status  quo 
+
+and  provided  an  opportunity  to  enhance  process-optimization  for  the  final  EU 
+
+ ● The emphasis is on Taxonomy-alignment of larger CapEx projects under 7.1 
+‘Construction of New Buildings’ and 7.2. ‘Renovation of Existing Buildings’ due to 
+
+Taxonomy alignment assessment. This exercise was performed by the Sustainability 
+
+their materiality over smaller projects.
+
+Department, together with the Construction and Operation Departments, as well as 
+
+the Business and Group Controlling teams.
+
+Furthermore,  to  deepen  the  knowledge  and  understanding  of  the  EU  Taxonomy 
+
+ ● Data collection improvements through better utilization of our ERP System and 
+
+closer collaboration with our suppliers.
+
+AROUNDTOWN SA   |    Board of Directors‘ Report73
+
+Methodology
+
+Approach Taken to Determine Taxonomy-Eligible Activities
+
+In order to determine EU Taxonomy eligibility,  Aroundtown first identified all activities 
+
+undertaken by the Group during an initial assessment conducted in 2021 involving 
+
+multiple  departments.  Subsequently,  the  Sustainability  Department  has  reviewed 
+
+remaining environmental objectives - Sustainable Use and Protection of Water and 
+
+Marine Resources; Transition to Circular Economy; Pollution Prevention and Control; 
+
+and the Protection and Restoration of Biodiversity and Ecosystems – in June 2023, 
+
+clarified that only Circular Economy provided additional economic activities for the 
+
+real estate and construction sector. These new activities are:
+
+the activities to determine whether the list was still up to date. In 2022, we changed 
+
+ ● Construction of new buildings (3.1)
+
+our reporting of photovoltaic systems, which were previously reported under activity 
+
+ ● Renovation of existing buildings (3.2)
+
+4.1 (electricity generation using solar photovoltaic technology) to reporting under 
+
+activity  7.6  (installation,  maintenance  and  repair  of  renewable  energy  systems) 
+
+following further clarification published by the European Commission in December 
+
+2022. In 2023, Aroundtown continued to follow the established methodology.
+
+ ● Demolition and wrecking of buildings and other structures (3.3)
+
+ ● Maintenance of roads and motorways (3.4)
+
+ ● Use of concrete in civil engineering (3.5)
+
+Hence,  the  following  seven  EU  Taxonomy-eligible  activities  were  determined  as 
+
+Of these activities, only 3.1, 3.2 and 3.5 apply to Aroundtown and are considered as 
+
+relevant for Climate Change Mitigation and Climate Change Adaptation: 
+
+eligible in 2023. However, data availability of recycling data from waste disposal and 
+
+ ● Construction of new buildings (7.1)
+
+ ● Renovation of existing buildings (7.2)
+
+management sites is still a challenge for reporting with regards to DNSH Circular 
+
+Economy under Climate Change Mitigation. Aroundtown therefore chose to continue 
+
+improving  fulfilment  of  the  DNSH  criteria  for  Circular  Economy  under  Climate 
+
+ ● Installation, maintenance and repair of energy efficient equipment (7.3)
+
+Change Mitigation first before potentially reporting on the substantial contribution 
+
+ ● Installation, maintenance and repair of charging stations for electric vehicles in 
+
+under Circular Economy in the future. In 2024, Aroundtown will continue to work 
+
+buildings (and parking spaces attached to buildings) (7.4)
+
+ ● Installation, maintenance and repair of instruments and devices for measuring, 
+
+regulation and controlling energy performance of buildings (7.5)
+
+ ● Installation, maintenance and repair of renewable energy systems (7.6)
+
+ ● Acquisition and ownership of buildings (7.7). 
+
+Despite the activities’ contribution to both objectives, Aroundtown considers itself 
+
+with suppliers to provide better recycling data, which has already been added as a 
+
+data delivery requirement to Aroundtown’s construction contract template in 2023. 
+
+Attributing Data to Economic Activities
+
+Although  our  Construction  and  Operations  Departments  started  to  put  into  place 
+
+processes in 2022 that allow for the allocation of projects or activities to the relevant 
+
+economic  activities,  the  majority  of  invoices  had  to  be  analyzed  and  evaluated 
+
+as contributing more to Climate Change Mitigation than Climate Change Adaptation 
+
+manually for eligibility and alignment.  Using determined commodity codes relevant 
+
+through the energy efficiency improving renovations of its assets. As a consequence, 
+
+to  each  identified  economic  activity  based  on  information  provided  in  guidelines 
+
+the  EU  Taxonomy  Key  Performance  Indicators  (KPIs)  are  reported  with  regard  to 
+
+and resources by the European Commission, the invoices could be allocated to the 
+
+Climate  Change  Mitigation  only.  Nevertheless,  with  the  refurbishment  of  our 
+
+correct eligible economic activity. This attribution process was necessary for CapEx 
+
+properties, they also become more climate resilient. Aroundtown has also adopted 
+
+mostly.
+
+several  specific  adaptation  solutions  which  will  increase  the  contribution  to  the 
+
+second environmental objective in the upcoming years. 
+
+The  majority  of  turnover  is  generated  in  relation  to  the  activity ‘Acquisition  and 
+
+Ownership of Buildings (7.7)’, in the form of rental income. The Group also derives a 
+
+Furthermore, with the publication of the substantial contribution criteria for the four 
+
+comparatively small amount of other income that is not related to eligible economic 
+
+AROUNDTOWN SA   |    Board of Directors‘ Report74
+
+activities. Additionally, OpEx is reported as relating to activity 7.7, since it corresponds 
+
+recognized by the European Commission and several real estate associations, that 
+
+to the maintenance measures at Aroundtown’s properties. 
+
+the lack of an energy class labelling based on letters (A-G) for commercial assets in 
+
+Assessment of Aligned Activities
+
+For an economic activity to be aligned with the EU Taxonomy, three requirements 
+
+need to be fulfilled:
+
+1.  
+
+it must make a substantial contribution to the achievement of one or more EU 
+
+environmental objectives (“substantial contribution”)
+
+2.  
+
+it  does  not  significantly  harm  any  other  EU  environmental  objective  (“do  no 
+
+significant harm / DNSH”)
+
+3.  
+
+it is in compliance with minimum social standards on topics such as Human 
+
+Rights, Labor Standards and Anti-Corruption (“minimum social safeguards”)
+
+Germany has created an issue for reporting. Aroundtown closely follows the sector’s 
+
+debate on the topic and has reviewed and assessed several methodologies presented 
+
+by industry organizations and an external service provider to the real estate sector. 
+
+After thorough review of the available methodologies, Aroundtown has adopted the 
+
+15%  benchmark  approach  based  on  data  published  by  a  publicly  available  index, 
+
+that  has  been  endorsed  by  the  German  Sustainable  Building  Council  (DGNB),  a 
+
+non-profit focused on making buildings more sustainable. The index uses average 
+
+yearly  primary  energy  consumption  data  per  asset  type  from  its vast  database  of 
+
+European clients’ consumption data to establish top 15% and top 30% benchmarks 
+
+for Germany, the UK, Benelux and other countries. We note that this approach was 
+
+adopted for the German portfolio only, whereas for the Dutch and London portfolios 
+
+Based on these requirements, checks for EU Taxonomy alignment relate to different 
+
+for which EPC ratings were readily available, the EPC rating approach was followed.
+
+business levels at Aroundtown. Whereas substantial contribution to Climate Change 
+
+Mitigation  is  assessed  at  the  individual  asset  or  project  level,  the  DNSH  criteria 
+
+apply rather to the economic activity itself. The DNSH criteria for Climate Change 
+
+Adaptation and Circular Economy was conducted for Aroundtown as a whole. 
+
+Hence, aligned turnover and OpEx was only calculated in relation to the properties 
+
+that  fall  within  the  top  15%  of  building  stock  (German  portfolio)  or  have  an  EPC 
+
+rating  A  and  above  (Dutch  and  UK  portfolio).  However,  due  to  issues  with  data 
+
+availability  on  energy  performance  for  our  hotel  portfolio,  these  are  not  fully 
+
+Compliance with minimum social safeguards was also evaluated for Aroundtown Group.
+
+captured in the turnover and OpEx calculations and it is therefore likely that our 
+
+Substantial Contribution Assessments
+
+This section outlines the checks conducted for substantial contribution to Climate 
+
+Change Mitigation relevant to Aroundtown’s eligible economic activities. 
+
+aligned percentages are actually higher than presented. 
+
+As  for  the  substantial  contribution  criteria  for  the  activity ‘Construction  of  new 
+
+buildings’  (7.1),  the  relevant  building  has  to  show  a  primary  energy  demand 
+
+that  is  at  least  ten  percent  below  the  national  standard  for  nearly  zero-energy 
+
+Starting with ‘Acquisition and ownership of buildings’ (7.7), this is the only activity for 
+
+buildings.  In  addition,  for  buildings  larger  than  5,000m²  further  criteria  have  to 
+
+which Aroundtown reports turnover and OpEx. Turnover is only considered as making 
+
+be  fulfilled  upon  completion  in  order  to  be  aligned:  tests  for  airtightness  and 
+
+a  substantial  contribution  to  activity  7.7  if  the  relevant  buildings –  provided  they 
+
+thermal integrity, as well as a life-cycle Global Warming Potential of the building. 
+
+were constructed before 31 December 2020 – have been assigned energy efficiency 
+
+At Aroundtown Group, new constructions constitute a very small percentage of its 
+
+class A (or better) or are among the top 15% of regional or national housing stock in 
+
+business activities. The few development projects in 2023 are currently mostly in 
+
+terms of primary energy demand. For buildings constructed after 31 December 2020, 
+
+the planning phase and therefore not able to produce all necessary documentation 
+
+the same criteria for significant contribution to Climate Change Mitigation apply as 
+
+for the fulfillment of substantial contribution criteria (Climate Change Mitigation) 
+
+for ‘Construction of new buildings’ (7.1).
+
+for  ‘Construction  of  new  buildings’  (7.1)  or  the  various  DNSH  criteria.  They  are 
+
+As Aroundtown Group acquires existing buildings, they are mostly built before 31 
+
+therefore reported as eligible only in this year’s report.
+
+December  2020.  With  regard  to  the  energy  class  and  building  stock  it  has  been 
+
+The substantial contribution criteria to Climate Change Mitigation for ‘Renovation 
+
+AROUNDTOWN SA   |    Board of Directors‘ Report75
+
+of  existing  buildings’  (7.2)  dictate  that  refurbishment  results  in  at  least  a  30% 
+
+our 7.1 (Construction of new buildings) projects, most of which are currently in the 
+
+reduction  in  primary  energy  demand  within  three  years  or  qualifies  as  a  major 
+
+planning phase, no further DNSH checks were conducted for this activity and is 
+
+renovation.  Aroundtown  checked  compliance  with  these  criteria  by  assessing 
+
+therefore reported as eligible only in this year’s report. 
+
+whether the renovation project touches 25% of the building envelope or more and 
+
+meets the cost-optimal minimum energy performance requirements as laid out in 
+
+the  German  buildings  energy  act,  Gebäudeenergiegesetz  (GEG)  or  other  national 
+
+legislation,  implementing  the  EU  Directive  2010/31/EU3.  If  this  was  the  case,  the 
+
+CapEx   was considered as meeting the substantial contribution criteria. If this was 
+
+not the case, the CapEx was assessed under for the business activity for individual 
+
+energy efficiency measures as described in 7.3 (Installation, maintenance and repair 
+
+of  energy  efficient  equipment).  Depending  on  the  individual  measure  that  was 
+
+conducted,  compliance  with  the  relevant  technical  criteria  laid  out  in  the  GEG  or 
+
+other national legislation is evaluated. Only if these were met, CapEx allocated to 7.3 
+
+(Installation, maintenance and repair of energy efficient equipment) is considered as 
+
+meeting the substantial contribution criteria.
+
+There  are  no  additional  technical  screening  criteria  for  activities  7.4  (Installation, 
+
+maintenance and repair of charging stations for electric vehicles in buildings (and 
+
+parking  spaces  attached  to  buildings)),  7.5  (Installation,  maintenance  and  repair 
+
+of  instruments  and  devices  for  measuring,  regulation  and  controlling  energy 
+
+performance of buildings) and 7.6 (Installation, maintenance and repair of renewable 
+
+energy systems) beyond the list of individual measures described for each activity.
+
+Do No Significant Harm Assessments
+
+As mentioned above, in order for an economic activity to be aligned, the EU Taxonomy 
+
+Regarding  activity  7.2  (Renovation  of  existing  buildings),  substantial  contribution 
+
+criteria  to  Climate  Change  Mitigation  were  met,  however,  not  all  DNSH  could  be 
+
+fulfilled, in particular the criteria for Protection of Water and Marine Resources. This 
+
+stems  to  a  great  degree  from  a  lack  of  relevant  data  available  for  both  areas – 
+
+areas in which Aroundtown Group is highly dependent on information provided by 
+
+contractors and suppliers. The Group mainly faced challenges regarding the lack of 
+
+readily available technical information of bathroom and kitchen appliances, which 
+
+is oftentimes not indicated in contracts or invoices by contractors. 
+
+Despite  these  challenges,  Aroundtown  has  worked  consistently  on  setting  up 
+
+processes and gathering the necessary data for relevant DNSH criteria, in particular 
+
+those for the environmental objectives of Protection of Water and Marine Resources. 
+
+Aroundtown  is  committed  to  improving  access  to  data  relevant  for  EU Taxonomy 
+
+reporting through continued engagement with contractors and suppliers. We note 
+
+that this DNSH criteria does not apply to residential properties and can therefore be 
+
+omitted in alignment checks of our residential portfolio held by our subsidiary GCP.
+
+The other DNSH criteria related to the environmental objectives of Climate Change 
+
+Adaptation, Circular Economy, and Pollution Prevention were met for 7.2 (Renovation 
+
+of  existing  buildings),  the  assessments  of  which  are  described  further  below.  We 
+
+note that the activity 7.2 (Renovation of existing buildings) can only be reported as 
+
+aligned in 2023 for our residential properties held by GCP.
+
+employs  the  principle  of ‘do  no  significant  harm’. As  such,  in  addition  to  making  a 
+
+For activity 7.3 (Installation, maintenance and repair of energy efficient equipment), 
+
+substantial contribution to one of the environmental objectives, it must be shown that 
+
+DNSH criteria exist for the environmental objectives of Climate Change Adaptation 
+
+each activity does not significantly harm any of the other objectives, as defined by the 
+
+and  Pollution  Prevention,  whereas  for  the  activities  7.4  (Installation,  maintenance 
+
+Technical Screening Criteria in the First Delegated Act to the EU Taxonomy.
+
+and repair of charging stations for electric vehicles in buildings (and parking spaces 
+
+Since all eligible activities were assessed for making a substantial contribution to 
+
+Climate Change Mitigation, the DNSH assessments were performed only for those 
+
+that met the technical criteria for substantial contribution. As data with regard to 
+
+the  fulfillment  of  substantial  contribution  criteria  was  not  readily  available  for 
+
+attached to buildings)), 7.5 (Installation, maintenance and repair of instruments and 
+
+devices for measuring, regulation and controlling energy performance of buildings) 
+
+and  7.6  (Installation,  maintenance  and  repair  of  renewable  energy  systems)  only 
+
+Climate Change Adaptation applies.
+
+The assessments performed against these different DNSH criteria are discussed in 
+
+3.  https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010L0031
+
+turn below.
+
+AROUNDTOWN SA   |    Board of Directors‘ Report76
+
+ ● Climate Change Adaptation: All economic activities in category 7 (construction 
+and real estate), require that a robust climate risk and vulnerability assessment 
+is conducted following the steps laid out in Appendix A of the Delegated Act.4 
+Please refer to the section on Climate Change Adaptation in this report for further 
+information on this assessment and the adoption of relevant adaptation solutions. 
+
+ ● Protection of Water and Marine Resources: Water appliances for bathrooms and 
+kitchens need to follow specifications on maximum water flow and flush volume 
+outlined in Appendix E of the EU Taxonomy Regulation5. As this DNSH is not fulfilled 
+for 7.2 (Renovation of existing buildings) for AT in 2023 due to lack of data on 
+installed appliances, the activity is only reported as aligned for our residential 
+portfolio GCP, for which this DNSH does not apply. 
+
+ ● Transition to a Circular Economy: At least 70% by weight of non-hazardous 
+construction and demolition waste generated on the construction site are prepared 
+for reuse, recycling and other material recovery. Aroundtown complies with national 
+legislation on recycling requirements, and so do its renovation projects in Germany. 
+The German Circular Economy Act Kreislaufwirtschaftsgesetz (KrWG), which implements 
+EU Directive 2008/98/EC on waste, as well as its amending Directive 2018/851/EU6 
+stipulates a recycling rate of 70% by weight for construction and demolition waste.   
+
+ ● Pollution Prevention and Control: In order to prevent pollution through toxic and 
+environmentally harming chemicals, non-financial undertakings are required to 
+confirm that a number of chemical substances mentioned in Appendix C of the EU 
+Taxonomy Regulation7 are not manufactured, placed on the market or being used 
+in any economic activity. As this DNSH criteria is relevant for three of our economic 
+activities – 7.1 (Construction of new buildings), 7.2 (Renovation of existing buildings) 
+and 7.3 (Installation, maintenance and repair of energy efficient equipment) – the 
+Group has created a questionnaire outlining the specifications of Appendix C which 
+has been sent to our largest contractors to confirm non-usage of these chemicals 
+in our building materials and at our construction sites. It has been made clear in 
+the European Commission’s FAQ document from December 20228 that such proof 
+must come from the supplier itself.
+
+4.  https://ec.europa.eu/sustainable-finance-taxonomy/assets/documents/CCM%20Appendix%20A.pdf
+5.  https://ec.europa.eu/sustainable-finance-taxonomy/assets/documents/CCM%20Appendix%20E.pdf
+6.  https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018L0851
+7. 
+8.  https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C_202300267
+9.  https://finance.ec.europa.eu/system/files/2022-10/221011-sustainable-finance-platform-finance-report-minimum-safeguards_en.pdf
+
+https://ec.europa.eu/sustainable-finance-taxonomy/assets/documents/CCM%20Appendix%20C.pdf
+
+Minimum Social Safeguards
+
+The EU Taxonomy states that activities may not qualify as environmentally sustainable 
+unless they comply with minimum social safeguards. This requires alignment with 
+the OECD Guidelines for Multinational Enterprises and the UN Guiding Principles 
+on  Business  and  Human  Rights,  as  well  as  the  fundamental  conventions  of  the 
+International Labor Organization (ILO) and the International Bill of Human Rights.
+
+Aroundtown  has  several  corporate  policies  in  place  that  refer  to  these  international 
+standards and frameworks to ensure alignment with these social minimum safeguards. 
+These policies include our Human Rights Policy, the Business Partner Code of Conduct 
+and Employee Code of Conduct, as well as the Anti-Corruption Policy. Further, the Group’s 
+compliance trainings for employees include topics of corruption and fair business.
+
+To assess the alignment of this framework to the required minimum safeguards, in 
+particular on the topic of human rights, the Group has made reference to the report 
+of the Platform on Sustainable Finance9 of October 2022, in which two criteria to 
+determine compliance with the safeguards were established. These are:
+
+1.   That the company has established adequate human rights due diligence (HRDD) 
+
+processes,  as  outlined  in  the  UNGPs  and  OECD  Guidelines  for  Multi-national 
+
+Enterprises (MNE).
+
+2.   That there are no indications that the company does not adequately implement 
+
+HRDD, resulting in human rights abuses.
+
+Demonstrating adequate HRDD for the purposes of the first criterion requires that 
+the following six key steps have been implemented:
+
+Six-Steps of Human Rights Due Diligence
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+Adopting and embedding a commitment to Human Rights Due Diligence into 
+policies and procedures
+
+Identification and assessment of adverse impacts, including through stakeholder 
+engagement
+
+Taking actions to cease, prevent, mitigate and remediate adverse impacts
+
+Tracking the implementation of these actions and its results
+
+Communicating publicly on the approach of HRDD and actions taken to avoid and 
+address adverse impacts
+
+Providing or cooperating in remediation, incl. establishing or participating in 
+grievance mechanisms where individuals and groups  
+can raise concerns about adverse impacts
+
+AROUNDTOWN SA   |    Board of Directors‘ Report77
+
+Aroundtown has addressed and implemented these six steps through embedding 
+
+published  on  6  July  2021  and  updated  by  Commission  Delegated  Regulation 
+
+the  topic  of  Human  Rights  in  its  policies,  including  the  Human  Rights  Policy,  as 
+
+2023/2486 of 27 June 2023. In general, all three Key Performance Indicators (KPIs) 
+
+well as Employee and Business Partner Codes of Conduct and by conducting annual 
+
+are calculated in accordance with IFRS in line with our consolidated annual report.
+
+human rights online trainings with its employees.
+
+Double  accounting  is  avoided  by  direct  allocation  of  eligible  and  aligned  KPIs  to 
+
+Taking  into  account  adverse  impacts  on  human  rights  in  the  Group’s  materiality 
+
+a specific economic activity, as well as a clear separation in our accounting system 
+
+assessments  and  risk  management,  Aroundtown  has  identified  and  addressed 
+
+of CapEx and OpEx accounts. This division is further aggravated through separate 
+
+potential risks in the areas of construction and refurbishment/maintenance of the 
+
+bookkeeping systems at Aroundtown’s various business entities. 
+
+business through a number of measures and processes. For instance, based on their 
+
+contract  volume  with  Aroundtown,  their  region  of  business  operation  and  other 
+
+criteria, suppliers are categorized as low, medium or high-risk. Depending on their 
+
+The Turnover, OpEx and CapEx KPIs for aligned activities are determined according 
+
+to the following calculations:
+
+risk level, an adequate due diligence process is conducted utilizing different sources 
+
+Turnover KPI
+
+of information. Besides our desk-based due diligence checks, our construction and 
+
+operation  managers  are  fulfilling  their  legal  monitoring  obligation  during  the 
+
+execution of the project according to the national law of the project location. Finally, 
+
+through Aroundtown’s whistle-blowing system that is accessible to employees and 
+
+externals, potential human rights violations may be reported. 
+
+Any reports are tracked and investigated by our Compliance Department. Following 
+
+an internal investigation procedure as documented in our Investigation Policy for 
+
+handling  potential  violations,  employees  or  business  partners  receive  a  warning, 
+
+are fined, or banned from doing further business with the Group, should the claim 
+
+be confirmed. Aroundtown may also decide to consult with authorities if necessary.
+
+Please  also  see  the  section  ‘Fair  Business  and  Compliance’  and  the  subsection 
+
+‘Management of Supplier Relationships’ in the Governance part of this report, which 
+
+provide  further  information  on  compliance  with  social  minimum  safeguards  on 
+
+corruption and fair business. 
+
+None of the negative indicators described by the Platform on Sustainable Finance 
+
+report  with  regard  to  human  rights,  corruption,  fair  business  and  taxation  for 
+
+the  second  criterion  are  applicable  to  AT.  We  therefore  assess  that  this  criterion 
+
+The definition of the Turnover KPI pursuant to the EU Taxonomy Regulation:
+
+Numerator
+
+Share of turnover derived from products and services associated 
+with EU Taxonomy-aligned activities.
+
+Denominator
+
+Total net turnover, calculated in accordance with “IAS 1.82 a) 
+Revenue” and consistent with the accounting principles applied 
+to the preparation of the Group’s financial statement. 
+
+Please see the consolidated financial statements starting page 
+158 of this report.
+
+The only activity from which revenue is derived that is deemed to be EU Taxonomy-
+
+eligible  is  activity  7.7  (Acquisition  and  ownership  of  buildings).  Aroundtown’s 
+
+turnover consists to a great degree of revenue generated from rental income and 
+
+operating income. The Group also derives a comparatively small amount of other 
+
+income that is not related to eligible economic activities, which is not counted in 
+
+the numerator but is included in the denominator. Other revenue includes mainly 
+
+management fee, consulting fees as well as income from loans in connection with 
+
+is  also  met  for Aroundtown,  and  thus  that  the  required  minimum  safeguards  are 
+
+real estate transactions.
+
+implemented as required by Article 18 of the EU Taxonomy.
+
+Calculation of Key Performance Indicators
+
+Aroundtown’s denominator is taken from “revenue” from the Consolidated Statement 
+
+of Profit or Loss.
+
+Based on the determination above of EU Taxonomy-eligible activities, Aroundtown 
+calculated the proportions of eligible and non-eligible activities, and the proportion 
+of  these  eligible  activities  which  is  aligned,  in  accordance  with  the  calculation 
+methodologies  defined  in  the  Commission  Delegated  Regulation  2021/2178 
+
+Aligned  turnover  is  calculated  as  the  sum  of  turnover  generated  firstly,  from 
+
+Aroundtown  Group’s  properties  that  fall  within  the  15%  top  building  stock  in 
+
+Germany based on the previously described method and index and secondly, from 
+
+Dutch and UK assets that have an EPC label A or higher.
+
+AROUNDTOWN SA   |    Board of Directors‘ Report78
+
+OpEx KPI
+
+The definition of the OpEx KPI pursuant to the EU Taxonomy Regulation:
+
+properties that fall within the 15% top building stock in Germany or are labeled with 
+
+an EPC A or higher in the Netherlands and the UK. 
+
+OpEx  linked  to  research  and  development  cannot  be  allocated  to  individual 
+
+Share of operating expenditure that is: 
+
+properties as would be required for alignment.
+
+1.  Related to assets or processes associated with EU 
+Taxonomy-aligned economic activities, including:
+
+CapEx KPI
+
+•  training and other human resources adaptation needs
+
+The definition of the CapEx KPI pursuant to the EU Taxonomy Regulation:
+
+Numerator
+
+•  direct non-capitalized costs that represent research and 
+
+development
+
+2.  Part of the CapEx plan (expand / upgrade of activities)
+
+3.  Related to the purchase of output from EU Taxonomy-
+
+aligned economic activities 
+
+4.  Related to measures allowing activities to be carried out 
+in a low-carbon manner or with reduced greenhouse gas 
+emissions and individual building renovation measures
+
+5.  Part of OpEx for the adaptation of economic activities to 
+
+climate change
+
+Total operating expenditure, as the sum of direct non-
+capitalized costs, including:
+
+1.  Research and development
+
+2.  Building renovation measures
+
+3.  Short-term lease
+
+4.  Maintenance and repair
+
+Denominator
+
+5.  Any other direct expenditures relating to the day-to-day 
+
+servicing of assets of property, plant and equipment by the 
+undertaking or third party.
+
+Please see the consolidated financial statements starting page 
+158 of this report.   
+
+As such the denominator of the OpEx KPI is defined differently and is comprised 
+
+of  specific  expenses  summarized  in  “property  operating  expenses”  disclosed  in 
+
+the Consolidated Statement of Profit or Loss of this report. The OpEx denominator 
+amount is therefore not mentioned as such in the financial statement.
+
+OpEx  is  considered  as  overall  operating  expenses  that  is  linked  to  activitiy  7.7 
+
+(Acquisition and ownership of buildings) and therefore to the overall maintenance 
+
+and day-to-day servicing of properties.
+
+Hence, the calculation of the aligned OpEx is linked, to the extent possible, to the 
+
+Numerator
+
+Denominator
+
+Share of capital expenditure that is:
+
+1.  Related to assets or processes that are associated with EU 
+
+Taxonomy-aligned economic activities
+
+2.  Part of a CapEx plan (expand / upgrade of activities)
+
+3.  Related to the purchase of output from EU Taxonomy-
+
+aligned economic activities 
+
+4.  Related to measures allowing activities to be carried out 
+in a low-carbon manner or with reduced greenhouse gas 
+emissions
+
+5.  Part of the CapEx for adaptation of economic activities to 
+
+climate change
+
+Total capital expenditure, as the sum of: 
+
+1.  Additions to tangible and intangible assets during the 
+
+financial year considered before depreciation, amortization 
+and any re-measurements, including:
+
+•  IAS 16.73 e) i) and iii) Property, Plant and Equipment
+
+•  IAS 38.118 e) i) Intangible Assets
+
+•  IAS 40.76 a) and b) Investment Property (for the fair 
+
+value model)
+
+•  IAS 40.79 d) i) and ii) Investment Property (for the cost 
+
+model)
+
+•  IAS 41.50 b) and e) Agriculture
+
+•  IFRS 16.53 h) Leases (leases that do not lead to the 
+
+recognition of a right-of-use over the asset shall not be 
+counted as CapEx)  
+
+2.  Revaluations and impairments, additions resulting from 
+business combinations and excluding fair value change
+
+Please see the consolidated financial statements starting page 
+158 of this report.
+
+AROUNDTOWN SA   |    Board of Directors‘ ReportThe CapEx denominator is composed of “net additions”  from note 15 (property and 
+
+Taxonomy-aligned, eligible and non-eligible percentages of Aroundtown‘s KPIs
+
+79
+
+Eligible
+
+Aligned
+
+Non-eligible
+
+equipment) as well as capital expenditure on investment property and acquisition 
+
+on investment property both from note 13 (investment property).  
+
+The  EU  Taxonomy-aligned  CapEx  comprises  costs  incurred  from  economic 
+
+activities 7.2, 7.3, 7.4, 7.5 and 7.6. Where refurbishment, energy efficiency projects 
+
+or renewable energy projects last for several years, only those expenses that were 
+
+capitalized in the relevant reporting year are calculated as EU Taxonomy-eligible 
+
+or aligned CapEx.
+
+CapEx  linked  to  activities  7.4  and  7.6  mostly  relates  to  infrastructure  costs  of 
+
+necessary modernization, upgrades or technical equipment of the properties prior 
+
+to the installation of EV charging stations or PV systems respectively. The majority 
+
+of CapEx is currently invested by our partner company. CapEx linked to activity 7.7 
+
+represents acquisitions of new assets in 2023. The CapEx numerator did not include 
+
+CapEx as part of a CapEx plan.
+
+Presentation  of the  Performance  Indicators Relating to EU Taxonomy-Aligned 
+and EU Taxonomy-Eligible Economic Activities 
+
+In  line  with  the  regulatory  requirements  for  EU  Taxonomy  reporting  in  2023, 
+
+Aroundtown is disclosing the performance indicators in the table template provided 
+
+by the European Commission.
+
+72.7%
+
+24.5%
+
+2.8%
+
+85.2%
+
+9.9%
+
+4.9%
+
+71.9%
+
+28.1%
+
+Turnover
+
+Capex
+
+Opex
+
+Reviewed by auditor
+
+AROUNDTOWN SA   |    Board of Directors‘ Report80
+
+Metrics: EU Taxonomy
+
+Proportion of Turnover from products or services associated with Taxonomy-aligned economic activities – disclosure covering year 2023
+
+Financial year 2023
+
+Year
+
+Substantial contribution criteria
+
+DNSH criteria (“Does Not Significantly Harm”)
+
+Economic activities
+
+3
+2
+0
+2
+r
+e
+v
+o
+n
+r
+u
+t
+
+f
+o
+
+n
+o
+i
+t
+r
+o
+p
+o
+r
+P
+
+%
+
+)
+s
+(
+e
+d
+o
+C
+
+r
+e
+v
+o
+n
+r
+u
+t
+
+e
+t
+u
+l
+o
+s
+b
+A
+
+€
+millions
+
+n
+o
+i
+t
+a
+g
+i
+t
+i
+
+m
+e
+g
+n
+a
+h
+c
+
+e
+t
+a
+m
+
+i
+l
+C
+
+n
+o
+i
+t
+a
+t
+p
+a
+d
+a
+
+e
+g
+n
+a
+h
+c
+
+e
+t
+a
+m
+
+i
+l
+C
+
+s
+e
+c
+r
+u
+o
+s
+e
+r
+
+e
+n
+
+i
+r
+a
+m
+d
+n
+a
+
+r
+e
+t
+a
+W
+
+y
+m
+o
+n
+o
+c
+e
+
+r
+a
+l
+u
+c
+r
+i
+
+C
+
+n
+o
+i
+t
+u
+l
+l
+o
+P
+
+s
+m
+e
+t
+s
+y
+s
+o
+c
+e
+
+d
+n
+a
+y
+t
+i
+s
+r
+e
+v
+i
+
+d
+o
+i
+B
+
+n
+o
+i
+t
+a
+r
+g
+i
+m
+e
+g
+n
+a
+h
+c
+
+e
+t
+a
+m
+
+i
+l
+C
+
+n
+o
+i
+t
+p
+a
+d
+a
+
+e
+g
+n
+a
+h
+c
+
+e
+t
+a
+m
+
+i
+l
+C
+
+s
+e
+c
+r
+u
+o
+s
+e
+r
+
+e
+n
+
+i
+r
+a
+m
+d
+n
+a
+
+r
+e
+t
+a
+W
+
+y
+m
+o
+n
+o
+c
+e
+
+r
+a
+l
+u
+c
+r
+i
+
+C
+
+n
+o
+i
+t
+u
+l
+l
+o
+P
+
+s
+m
+e
+t
+s
+y
+s
+o
+c
+e
+
+d
+n
+a
+y
+t
+i
+s
+r
+e
+v
+i
+
+d
+o
+i
+B
+
+s
+d
+r
+a
+u
+g
+e
+f
+a
+s
+m
+u
+m
+n
+M
+
+i
+
+i
+
+Proportion of 
+Taxonomy-
+aligned (A.1) 
+or -eligible 
+(A.2) turnover, 
+2022
+
+Category 
+enabling 
+activity
+
+Category 
+transi-
+tional 
+activity
+
+Y; N; 
+N/EL
+
+Y; N; 
+N/EL
+
+Y; N; 
+N/EL
+
+Y; N; 
+N/EL
+
+Y; N; 
+N/EL
+
+Y; N; 
+N/EL
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+%
+
+E
+
+T
+
+A. TAXONOMY-ELIGIBLE ACTIVITIES                                            
+
+A.1. Environmentally sustainable activities (Taxonomy-aligned)
+
+Acquisition and ownership of buildings
+
+CCM 7.7
+
+392.6
+
+24.5%
+
+Y
+
+N
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+Turnover of environmentally sustainable activities 
+(Taxonomy-aligned) (A.1)
+
+392.6
+
+24.5%
+
+24.5%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+Of which enabling
+
+Of which transitional
+
+ -   
+
+ -   
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+Y
+
+N
+
+N
+
+A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)
+
+Acquisition and ownership of buildings
+
+CCM 7.7
+
+1,164.8
+
+72.7%
+
+EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+EL; N/EL
+
+EL; N/EL
+
+EL; N/EL
+
+EL; N/EL
+
+EL; N/EL
+
+EL; N/EL
+
+Turnover of Taxonomy- eligible but not 
+environmentally sustainable activities
+(not Taxonomy-aligned activities) (A.2)
+
+A. Turnover of Taxonomy-eligible activities (A.1 + 
+A.2)16.7
+
+B. TAXONOMY-NON-ELIGIBLE ACTIVITIES
+
+1,164.8
+
+72.7%
+
+72.7%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+ 1,557.4 
+
+97.2%
+
+97.2%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+Turnover of Taxonomy- non-eligible activities
+
+ 45.3 
+
+2.8%
+
+TOTAL (A + B)
+
+ 1,602.8 
+
+100.0%
+
+2023 figures reviewed by auditor
+
+Y
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+Y
+
+16.7%
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+E
+
+T
+
+16.7%
+
+0.0%
+
+0.0%
+
+80.6%
+
+80.6%
+
+97.3%
+
+AROUNDTOWN SA   |    Board of Directors‘ Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Proportion of OpEx from products or services associated with Taxonomy-aligned economic activities – disclosure covering year 2023
+
+Financial year 2023
+
+Year
+
+Substantial contribution criteria
+
+DNSH criteria (“Does Not Significantly Harm”) (h)
+
+81
+
+Economic activities
+
+3
+2
+0
+2
+x
+E
+p
+O
+
+f
+o
+
+n
+o
+i
+t
+r
+o
+p
+o
+r
+P
+
+%
+
+)
+s
+(
+e
+d
+o
+C
+
+x
+E
+p
+O
+e
+t
+u
+l
+o
+s
+b
+A
+
+€
+millions
+
+A. TAXONOMY-ELIGIBLE ACTIVITIES                                            
+
+A.1. Environmentally sustainable activities (Taxonomy-aligned)
+
+n
+o
+i
+t
+a
+g
+i
+t
+i
+
+m
+e
+g
+n
+a
+h
+c
+
+e
+t
+a
+m
+
+i
+l
+C
+
+n
+o
+i
+t
+a
+t
+p
+a
+d
+a
+
+e
+g
+n
+a
+h
+c
+
+e
+t
+a
+m
+
+i
+l
+C
+
+s
+e
+c
+r
+u
+o
+s
+e
+r
+
+e
+n
+
+i
+r
+a
+m
+d
+n
+a
+
+r
+e
+t
+a
+W
+
+y
+m
+o
+n
+o
+c
+e
+
+r
+a
+l
+u
+c
+r
+i
+
+C
+
+n
+o
+i
+t
+u
+l
+l
+o
+P
+
+s
+m
+e
+t
+s
+y
+s
+o
+c
+e
+
+d
+n
+a
+y
+t
+i
+s
+r
+e
+v
+i
+
+d
+o
+i
+B
+
+n
+o
+i
+t
+a
+r
+g
+i
+m
+e
+g
+n
+a
+h
+c
+
+e
+t
+a
+m
+
+i
+l
+C
+
+n
+o
+i
+t
+p
+a
+d
+a
+
+e
+g
+n
+a
+h
+c
+
+e
+t
+a
+m
+
+i
+l
+C
+
+s
+e
+c
+r
+u
+o
+s
+e
+r
+
+e
+n
+
+i
+r
+a
+m
+d
+n
+a
+
+r
+e
+t
+a
+W
+
+y
+m
+o
+n
+o
+c
+e
+
+r
+a
+l
+u
+c
+r
+i
+
+C
+
+n
+o
+i
+t
+u
+l
+l
+o
+P
+
+s
+m
+e
+t
+s
+y
+s
+o
+c
+e
+
+d
+n
+a
+y
+t
+i
+s
+r
+e
+v
+i
+
+d
+o
+i
+B
+
+s
+d
+r
+a
+u
+g
+e
+f
+a
+s
+m
+u
+m
+n
+M
+
+i
+
+i
+
+Proportion 
+of 
+Taxonomy-
+aligned 
+(A.1) or 
+-eligible 
+(A.2) OpEx, 
+2022
+
+Category 
+enabling 
+activity
+
+Category 
+transi-
+tional 
+activity
+
+Y; N; 
+N/EL
+
+Y; N; 
+N/EL
+
+Y; N; 
+N/EL
+
+Y; N; 
+N/EL
+
+Y; N; 
+N/EL
+
+Y; N; 
+N/EL
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+%
+
+E
+
+T
+
+Acquisition and ownership of buildings
+
+CCM 7.7
+
+ 144.1 
+
+28.1%
+
+Y
+
+N
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+Y
+
+Y
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+Y
+
+19.0%
+
+OpEx of environmentally sustainable activities  
+(Taxonomy-aligned) (A.1)
+
+Of which enabling
+
+Of which transitional
+
+ 144.1 
+
+28.1%
+
+28.1%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+ -   
+
+ -   
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+A.2. Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)
+
+Acquisition and ownership of buildings
+
+CCM 7.7
+
+ 369.4 
+
+71.9%
+
+EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+OpEx of Taxonomy- eligible but not environmentally 
+sustainable activities (not Taxonomy-aligned activities) (A.2)
+
+ 369.4 
+
+71.9%
+
+71.9%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+A.   OpEx of Taxonomy-eligible activities (A.1+A.2)
+
+ 513.5 
+
+100.0%
+
+100.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+EL; N/EL
+
+EL; N/EL
+
+EL; N/EL
+
+EL; N/EL
+
+EL; N/EL
+
+EL; N/EL
+
+B. TAXONOMY-NON-ELIGIBLE ACTIVITIES
+
+OpEx of Taxonomy- non-eligible activities
+
+TOTAL(A + B)
+
+ -   
+
+0.0%
+
+ 513.5 
+
+100.0%
+
+2023 figures reviewed by auditor
+
+E
+
+T
+
+19.0%
+
+0.0%
+
+0.0%
+
+81.0%
+
+81.0%
+
+100.0%
+
+AROUNDTOWN SA   |    Board of Directors‘ Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+82
+
+Proportion of CapEx from products or services associated with Taxonomy-aligned economic activities – disclosure covering year 2023
+
+Financial year 2023
+
+Year
+
+Substantial contribution criteria
+
+DNSH criteria (“Does Not Significantly Harm”)
+
+Economic activities
+
+)
+s
+(
+e
+d
+o
+C
+
+x
+E
+p
+a
+C
+
+e
+t
+u
+l
+o
+s
+b
+A
+
+€
+millions
+
+A. TAXONOMY-ELIGIBLE ACTIVITIES                                            
+
+A.1. Environmentally sustainable activities (Taxonomy-aligned)
+
+Renovation of existing buildings
+
+CCM 7.2
+
+Installation, maintenance and repair of energy efficiency equipment
+
+CCM 7.3
+
+Installation, maintenance and repair of charging stations for electric 
+vehicles in buildings (and parking spaces attached to buildings)
+
+Installation, maintenance and repair of instruments and devices for 
+measuring, regulation and controlling energy performance of buildings
+
+CCM 7.4
+
+CCM 7.5
+
+Installation, maintenance and repair of renewable energy technologies
+
+CCM 7.6
+
+Acquisition and ownership of buildings
+
+CCM 7.7
+
+CapEx of environmentally sustainable activities (Taxonomy-aligned) (A.1)
+
+Of which enabling
+
+Of which transitional
+
+2.7 
+
+3.0 
+
+0.4 
+
+1.4 
+
+1.3 
+
+48.1 
+
+56.9 
+
+5.7 
+
+2.7 
+
+3
+2
+0
+2
+x
+E
+p
+a
+C
+f
+o
+
+n
+o
+i
+t
+r
+o
+p
+o
+r
+P
+
+%
+
+0.48%
+
+0.52%
+
+0.07%
+
+0.24%
+
+0.23%
+
+8.38%
+
+n
+o
+i
+t
+a
+g
+i
+t
+i
+
+m
+e
+g
+n
+a
+h
+c
+
+e
+t
+a
+m
+
+i
+l
+C
+
+n
+o
+i
+t
+a
+t
+p
+a
+d
+a
+
+e
+g
+n
+a
+h
+c
+
+e
+t
+a
+m
+
+i
+l
+C
+
+s
+e
+c
+r
+u
+o
+s
+e
+r
+
+e
+n
+
+i
+r
+a
+m
+d
+n
+a
+
+r
+e
+t
+a
+W
+
+y
+m
+o
+n
+o
+c
+e
+
+r
+a
+l
+u
+c
+r
+i
+
+C
+
+n
+o
+i
+t
+u
+l
+l
+o
+P
+
+s
+m
+e
+t
+s
+y
+s
+o
+c
+e
+
+d
+n
+a
+y
+t
+i
+s
+r
+e
+v
+i
+
+d
+o
+i
+B
+
+n
+o
+i
+t
+a
+r
+g
+i
+m
+e
+g
+n
+a
+h
+c
+
+e
+t
+a
+m
+
+i
+l
+C
+
+n
+o
+i
+t
+p
+a
+d
+a
+
+e
+g
+n
+a
+h
+c
+
+e
+t
+a
+m
+
+i
+l
+C
+
+s
+e
+c
+r
+u
+o
+s
+e
+r
+
+e
+n
+
+i
+r
+a
+m
+d
+n
+a
+
+r
+e
+t
+a
+W
+
+s
+m
+e
+t
+s
+y
+s
+o
+c
+e
+
+d
+n
+a
+y
+t
+i
+s
+r
+e
+v
+i
+
+d
+o
+i
+B
+
+y
+m
+o
+n
+o
+c
+e
+
+r
+a
+l
+u
+c
+r
+i
+
+C
+
+n
+o
+i
+t
+u
+l
+l
+o
+P
+
+s
+d
+r
+a
+u
+g
+e
+f
+a
+s
+m
+u
+m
+n
+M
+
+i
+
+i
+
+Proportion 
+of 
+Taxonomy-
+aligned 
+(A.1)
+or eligible 
+(A.2) CapEx, 
+2022
+
+Category
+enabling
+activity
+
+Category
+transi-
+tional
+activity
+
+Y; N; 
+N/EL
+
+Y; N; 
+N/EL
+
+Y; N; 
+N/EL
+
+Y; N; 
+N/EL
+
+Y; N; 
+N/EL
+
+Y; N; 
+N/EL
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+Y/N
+
+%
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+0.0%
+
+0.0%
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+0.0%
+
+0.0%
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+0.0%
+
+0.0%
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+0.0%
+
+0.0%
+
+N/EL
+
+N/EL
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+N/EL
+
+N/EL
+
+Y
+
+Y
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+Y
+
+Y
+
+Y
+
+N/EL
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+9.92%
+
+9.92%
+
+0.99%
+
+0.99%
+
+0.48%
+
+0.48%
+
+0.0%
+
+0.0%
+
+A.2 Taxonomy-eligible but not environmentally sustainable activities (not Taxonomy-aligned activities)
+
+Construction of new buildings
+
+Renovation of existing buildings
+
+Installation, maintenance and repair of energy efficiency equipment
+
+Installation, maintenance and repair of instruments and devices for 
+measuring, regulation and controlling energy performance of buildings
+
+CCM 7.1
+
+CCM 7.2
+
+CCM 7.3
+
+CCM 7.5
+
+Installation, maintenance and repair of renewable energy technologies
+
+CCM 7.6
+
+11.8 
+
+12.4 
+
+9.4
+
+0.0 
+
+0.0 
+
+2.06%
+
+2.16%
+
+1.63%
+
+0.00%
+
+0.00%
+
+Acquisition and ownership of buildings
+
+CCM 7.7
+
+455.6
+
+79.35%
+
+EL; N/EL
+
+EL; N/EL
+
+EL; N/EL
+
+EL; N/EL
+
+EL; N/EL
+
+EL; N/EL
+
+EL
+
+EL
+
+EL
+
+EL
+
+EL
+
+EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+N/EL
+
+CapEx of Taxonomy- eligible but not environmentally sustainable activities (not 
+Taxonomy-aligned activities) (A.2)
+
+489.2 
+
+85.21%
+
+85.2%
+
+0
+
+0
+
+0
+
+0
+
+0
+
+A.   CapEx of Taxonomy-eligible activities (A.1+A.2)
+
+546.1 
+
+95.12%
+
+95.12%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+B. TAXONOMY-NON-ELIGIBLE ACTIVITIES
+
+CapEx of Taxonomy- non-eligible activities
+
+TOTAL(A + B)
+
+2023 figures reviewed by auditor
+
+28.0 
+
+574 
+
+4.88%
+
+100.0%
+
+E
+
+E
+
+E
+
+E
+
+E
+
+T
+
+T
+
+T
+
+1.3%
+
+0.5%
+
+0.0%
+
+0.1%
+
+0.2%
+
+8.7%
+
+10.8%
+
+0.8%
+
+1.3%
+
+0.25%
+
+0.89%
+
+2.35%
+
+0.00%
+
+0.00%
+
+82.89%
+
+86.37%
+
+97.18%
+
+AROUNDTOWN SA   |    Board of Directors‘ Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+83
+
+Frankfurt
+
+AROUNDTOWN SA   |    Board of Directors‘ Report84
+
+Social Information
+
+OUR WORKFORCE:
+LABOR STANDARDS AND EMPLOYEE TOPICS
+
+Long-term Targets
+
+ ● Be among the top ten most attractive employers in the commercial real estate 
+
+sector by 2030
+
+ ● Maintain zero incidents of discrimination
+
+ ● Offer a minimum of 12hrs of training and development opportunities per FTE 
+
+per year
+
+2024 Goals
+
+ ● Continue to offer volunteering  program organized as a company-wide Social Day 
+
+for employees
+
+ ● Implement a second round of our ‘Activate the Base’ program, encouraging 
+employees to implement their own sustainability projects while receiving 
+
+guidance from an external coach
+
+ ● Introduce and conduct 180-degree surveys to encourage self-development among 
+
+employees
+
+ ● Implement our newly developed staff career path to create more transparency on 
+
+development opportunities
+
+Policy, Anti-Discrimination Policy, Human Rights Policy, Anti-Corruption Policy and 
+
+Whistleblowing Policy – all allow us to manage impacts, risks and opportunities 
+
+relating to our workforce. These policies cover all of our own employees and were 
+
+developed with the interests of our employees in mind. Our social policies detail 
+
+our  commitments  to  the  protection  of  our  employees’  human  rights,  health  and 
+
+safety,  and  protection  against  discrimination  and  harassment.  They  also  detail 
+
+how  our  employees  should  keep  us  safe  in  relation  to  corruption  and  bribery 
+
+prevention. The centralization of our HR Department ensures that processes and 
+
+policies are standardized across the Group, meaning that knowledge and talents 
+
+are effectively used across the board.  
+
+Following the request from our employees, in 2023, we developed staff career 
+
+paths, including specific KPIs, which intend to create a clear structure and more 
+
+transparency  regarding  career  and  development  opportunities  at  Aroundtown. 
+
+These career paths are expected to be communicated and applied from spring 
+
+2024. We  also  ensure  all  our  employees  are  paid  adequate  wages  in  line  with 
+
+applicable benchmarks.
+
+It is fundamental for a responsible business that everyone should feel safe and 
+
+Employee Satisfaction
+
+protected,  and  we  take  significant  steps  to  ensure  that  our  work  environment 
+
+has a positive impact on the health and well-being of our people. Beyond this 
+
+foundation, we seek to excel in factors such as career development, education, 
+
+work-life balance, well-being, and diversity and inclusion, which are required to 
+
+attract and retain today’s top talent. The interests, views and rights of our own 
+
+employees primarily relate to human rights and health and safety. Our approach 
+
+to the protection of our workforce is explained in the following section.  
+
+We engage with our employees in a number of ways, primarily through our annual 
+
+employee engagement survey which allows us to obtain direct feedback from all 
+
+employees. We also conduct regular HR Roundtables during which our employees 
+
+and managers have the opportunity to ask questions and engage directly with our 
+
+HR Department. Our Group Head of HR is responsible for overseeing our annual 
+
+employee  satisfaction  survey,  as  well  as  our  HR  Roundtables  and  we  use  the 
+
+results of both to inform decisions or activities that will help manage actual and 
+
+Our  suite  of  social  policies  including  our  Employee  Code  of  Conduct,  Diversity 
+
+potential impacts.
+
+AROUNDTOWN SA   |    Board of Directors‘ Report85
+
+To  ensure  straightforward  communication  with  staff  across  the  Group,  we  have 
+implemented an HR software as an employee engagement tool. Through this platform, 
+employees can manage personal data, holiday and home office requests, sick leave, 
+and book training and participation at other company events. We are continuing to roll 
+out new features to make the system more user-friendly. Our goal is for this software 
+to serve as a centralized HR system across all our locations of operation, so that all our 
+employees have easy and consistent access to the information they need, and to make 
+the employees and the HR Department more agile.
+
+In 2023, we conducted a survey with our employees, the results of which will guide 
+our strategy to improve workplace satisfaction. The results were a clear indication 
+of the engagement of our employees, with a 63% response rate across the Group. 
+From  this,  we  have  identified  priority  areas  for  improvement  in  our  HR  policies, 
+and we formulated an action plan for 2023 and 2024 to act on this feedback. This 
+included further employee surveys to provide more opportunities for feedback and 
+communication,  furthering  information  about  career  progression,  and  increased 
+communication about Aroundtown’s overall strategy and vision, and the promotion 
+path opportunities which employees can pursue within our organization. 
+
+This  year,  our  commitment  to  a  positive  work  environment  was  reflected  by  two 
+key milestones. Aroundtown was awarded ‘Top Company 2024’ by Kununu, a leading 
+platform  for  employer  reviews  and  feedback  on  corporate  culture,  compensation 
+schemes,  and  overall  employee  satisfaction.  This  placed  us  among  the  top  5% 
+of  all  employer  profiles  in  the  platform  in  2023 –  a  confirmation  of  our  strong 
+engagement for a great working environment and the satisfaction of our employees. 
+Our subsidiary, GCP, was chosen as ‘Most Wanted Start 2024’ by the newspaper, Die 
+Zeit, and Kununu, demonstrating GCP’s position as a leading apprenticeship company 
+in Germany, highlighting our commitment to employee development. 
+
+As  part  of  our  ongoing  efforts  to  enhance  workforce  satisfaction  and  well-being, 
+our collaboration with a work-life platform in Germany continued throughout 2023. 
+The  platform  extends  comprehensive  support  to  our  employees,  which  includes 
+family-oriented  services  like  childcare  for  holidays,  emergencies,  daily  needs,  and 
+elderly  care.  The  platform  further  enriches  the  employee  experience  by  offering 
+programs  for  expecting  parents,  promoting  a  healthy  work-life  balance  through 
+virtual sports courses and mental health prevention programs, and providing access 
+to diverse consultations and talks on leading a healthy life, diversity and inclusion, 
+and addressing discrimination concerns. These offerings align with our commitment 
+
+Training and Development
+
+We place great importance on delivering a broad learning and development program 
+
+to our staff to provide them with the skills required to prosper in today’s business 
+
+environment and further their careers. Our training is targeted to individual needs 
+
+and  delivered  flexibly  to  meet  the  needs  of  all  our  employees. We  utilize  our  in-
+
+house  expertise,  as  well  as  external  specialists,  to  deliver  training  ranging  from 
+
+construction and property management to business skills and leadership training. 
+
+Training  is  delivered  in  person,  through  online  webinars,  or  via  our  self-directed 
+
+learning  portal,  the  Contemporary  Real  Estate  Academy  (CREA).  This  platform 
+
+enables a unified presentation of our mandatory training content and learning and 
+
+development material, which is accessible to all staff across our business. In 2023, 
+
+additional features were added that allow for better communication with employees 
+
+on training opportunities and advanced tracking of training data and the creation of 
+
+reports for content owners and admin users from our HR Department.
+
+We have also continued to implement performance reviews digitally through our 
+
+HR software. Managers receive training on using the tool to provide performance 
+
+feedback  and  can  then  provide  ratings  and  reviews  digitally.  In  2024,  we  plan 
+
+to  relaunch  the  performance  review  tool  across  the  Aroundtown  departments 
+
+in  Germany,  with  a  new  career  development  plan,  aiming  to  deliver  60%  of 
+
+performance  reviews  using  this  method.  Streamlining  this  review  process  will 
+
+allow  our  employees  to  receive  personal  feedback  more  simply  and  regularly, 
+
+helping them to improve and progress towards their own goals.
+
+In 2023, we also continued to expand our leadership training program, delivering 
+
+2,430 hours of training for upcoming leaders within our organization. In addition, 
+
+we  maintained  our  mentoring  scheme,  enabling  our  employees  to  receive 
+
+professional  coaching  support  from  more  senior  team  members. These  programs 
+
+sought  to  boost  individual  employee  performance  while  securing  our  long-term 
+
+viability. The  leadership  program  is  designed  to  equip  the  company’s  current  and 
+
+potential leaders with the fundamental critical thinking and problem-solving skills 
+
+essential for making sound decisions. It aims to improve communication and team 
+
+management skills, conflict resolution, as well as innovativeness and productivity. 
+
+Employees who participate in this program are provided with the skills necessary to 
+
+to fostering a positive and supportive work culture. 
+
+effectively manage change, ensuring the company remains resilient and adaptable.
+
+AROUNDTOWN SA   |    Board of Directors‘ Report86
+
+In 2023, we also saw through the first round of our ‘Activate the Base’ program, which 
+
+Health  and  Safety  policy.  Furthermore,  we  are  in  the  process  of  expanding  our 
+
+offered employees the opportunity to develop a project idea related to several topics 
+
+mentoring  and  coaching  program  in  collaboration  with  one  employee  who  will 
+
+ranging  from  resource  reduction  and  biodiversity  to  neighborhood  engagement. 
+
+transition to the roll of our full-time internal Business Coach starting in 2024. This 
+
+Together with an external consultancy, which guided the participants throughout the 
+
+employee has received training in the matter and began offering coaching in the 
+
+project period, the employees also reflected on their values and personal development.
+
+last quarter of 2023 already.
+
+As an international company representing more than 60 nationalities, headquartered 
+
+in  Germany,  we  also  support  our  employees  with  language  classes  in  English  and 
+
+German. In 2023, we continued to pursue our intensive focus on language learning, 
+
+partnering with a well-known language school to offer advanced German courses for 
+
+non-native speakers and English for German speakers, with 3,557 hours of training 
+
+To  contribute  further  to  the  well-being  of  our  employees,  we  offer  a  flexible 
+
+package of benefits and working provisions, such as hybrid working arrangements 
+
+to  support  working  from  home,  and  flexible  working  hours.  Part-time  working 
+
+options  also  grant  greater  flexibility  for  our  employees  to  balance  their  work 
+
+around their lives and families. Such part-time arrangements are specific to the 
+
+provided. The language program is targeted at promoting effective communication 
+
+employee’s needs.
+
+and collaboration amongst employees and other stakeholders. It enhances operational 
+
+efficiency, tears down cultural barriers, reduces misunderstandings, builds trust, and 
+
+fosters a more inclusive workplace environment.
+
+Occupational Health and Safety
+
+We take our responsibility to provide a safe work environment seriously and ensure 
+
+that  tasks  do  not  pose  undue  health  risks.  Our  Occupational  Health  and  Safety 
+
+Policy  ensures  strict  compliance  with  all  workplace  health  and  safety  regulations 
+
+at  national  and  EU  level.  We  are  jointly  responsible  for  occupational  health  and 
+
+safety through the avoidance of risks to ourselves and our employees by identifying 
+
+and reporting any unsafe working conditions, violations of safety requirements, and 
+
+accidents  in  the  workplace. The  implementation  of  this  policy  is  overseen  by  our 
+
+dedicated internal Office Health and Safety Manager and by the internal inspections 
+
+of  the  occupational  safety  standards  in  our  workplaces.  We  also  undergo  ad  hoc 
+
+external audits by state officers, but none have taken place in 2023. 
+
+In order to manage material risks, impacts and opportunities to our workforce, we 
+
+set targets to help mitigate these risks and maximize opportunities. In 2023, we 
+
+increased  our  internal  budget  for  employee  training,  including  for  occupational 
+
+health  and  safety,  with  some  employees  being  identified  as  knowledge  owners 
+
+The wider health and well-being benefits provided include eye examinations and 
+
+health checks carried by our company physician, access to our company gym for 
+
+employees  at  our  Berlin  headquarters  with  courses  and  personalized  training, 
+
+and  mental  health  appointments  available  for  all  employees  with  our  in-house 
+
+consultant.
+
+Furthermore,  our  collaboration  with  a  work-life  platform  mentioned  under  the 
+
+Employee Satisfaction section also contributes to fostering a secure and supportive 
+
+workplace environment. Offerings underpinning our commitment to occupational 
+
+health and safety include hundreds of virtual sports and mental health prevention 
+
+courses  covering  topics  from  mindfulness  to  resilience,  and  numerous  talks 
+
+and  consultation  offers  promoting  a  healthy  lifestyle. Additionally,  the  platform 
+
+provides  access  to  a  24/7  emergency  hotline  staffed  by  qualified  psychologists 
+
+and coaches, ensuring prompt psychological support during critical situations. To 
+
+help manage stress, specific trainings, coaching and other methods such as Open 
+
+Space are also available.
+
+Equal Treatment and Opportunities for All
+
+We  are  committed  to  promoting  equal  treatment  and  opportunities  for  all 
+
+within  our  workforce.  Our  Anti-Discrimination  Policy  specifically  addresses  the 
+
+who then delivered training sessions themselves. The 169 certified first-aiders in 
+
+following  grounds  for  discrimination:  race  or  ethnic  origin,  gender,  religion  or 
+
+the Group have been trained, within the scope of first aid assistance, to respond 
+
+ideology,  disability,  age,  sexual  identity.  Discrimination  on  the  basis  of  any  of 
+
+effectively to emergency occupational health and safety situations. Work-related 
+
+these  characteristics  constitutes  an  infringement  of  basic  human  rights  and  is 
+
+injuries,  ill-health  and  incidents  are  investigated  according  to  our  Occupational 
+
+explicitly prohibited by us. The Anti-discrimination Policy explains our employees’ 
+
+AROUNDTOWN SA   |    Board of Directors‘ Reportobligation  and  right  to  lodge  a  complaint  should  they  believe  they  have  been 
+
+We monitor our employee numbers by both geographical area and contract type as 
+
+subject to any kind of discrimination. These complaints are taken seriously and are 
+duly investigated. Further, our Diversity Policy details the diversity initiatives that 
+
+seen in tables 7 and 8 below which allows us to monitor further information and 
+understand trends in employee-related data. These figures include employees who 
+
+we implement, including the promotion of talent development, the recognition of 
+
+are subject to the material impacts identified during our DMA. 
+
+87
+
+(cid:27)(cid:31)(cid:30)(cid:29)(cid:31)(cid:28)(cid:27)(cid:26)(cid:27)(cid:25)(cid:24)(cid:23)(cid:22)(cid:21)(cid:20)(cid:19)(cid:18)
+(cid:17)(cid:30)(cid:29)(cid:31)(cid:16)
+2023
+M(cid:31)(cid:30)(cid:29)(cid:31)(cid:28)
+
+life experience, and the offering of cultural support. 
+
+In  2023,  as  a  result  of  the  ‘Activate  the  Base’  initiative,  a  Diversity  Committee 
+
+comprising  employee  representatives  from  different  organizational  levels  was 
+
+established with the aim of overseeing our commitments to diversity, inclusion and 
+
+anti-discrimination. A dedicated site is now available in our intranet containing up-
+
+to-date topics and information, and comprehensive diversity training is now provided 
+
+to all employees upon joining the organization. To strengthen our commitment, the 
+
+position of Chief Diversity Officer was also established during 2023, and is currently 
+
+held by the Group Head of HR.
+
+Work-Related Rights
+
+We respect and promote human rights throughout our organization with the help of 
+
+stringent policies and procedures. Should we operate in areas at risk of human rights 
+
+violations,  we  have  committed  to  undertake  human  rights  due  diligence  and  risk 
+
+assessments. We regard every person as unique, and recognize people‘s individual 
+
+differences  such  as  ethnic  origin,  gender,  religion  or  belief,  experience,  physical 
+
+and mental abilities, age, and sexual identity. In this way, we ensure our employees, 
+tenants, and business partners, including our suppliers, respect the shared human 
+
+rights of all people, in line with international regulations such as the International 
+
+Labor  Organization‘s  Core  Labor  Standards,  and  the  UN  Guiding  Principles  on 
+
+Business and Human Rights. Our policies concerning our employee’s work-related 
+
+rights refer to forced or compulsory labor, and child labor. However, they currently do 
+
+not explicitly refer to trafficking in human beings. We commit to duly consider this 
+
+aspect during our policy reviews.
+
+Metrics: Our Workforce 
+
+As part of our commitment to improving employee satisfaction, maintaining high 
+
+standards of health and safety, and ensuring all employees receive equal treatment 
+
+and opportunities, we monitor and measure a series of metrics to help understand 
+
+our progress in areas relating to our workforce. Employee data disclosed below is 
+
+representative of the figures at the end of the reporting period and are reported in 
+
+full-time equivalent. 
+
+AROUNDTOWN SA   |    Board of Directors‘ Report88
+
+TABLE 7
+
+TABLE 8
+
+Employee headcount by geographical area
+
+Employee head count by contract type
+
+2023
+
+2022
+
+Number
+
+Percentage
+
+Number
+
+Percentage
+
+EPRA 
+Code
+
+Units of 
+Measure
+
+Metric
+
+2023
+
+2022
+
+Number
+
+Percentage
+
+Number
+
+Percentage
+
+EPRA 
+Code
+
+Units of 
+Measure
+
+N/A
+
+Total 
+numbers and 
+percentages
+
+Metric
+
+Total
+
+Germany
+
+Cyprus
+
+Netherlands
+
+United 
+Kingdom
+
+Other
+
+Employee breakdown by nationality
+
+1706
+
+1356
+
+149
+
+70
+
+65
+
+66
+
+100%
+
+79.5%
+
+8.7%
+
+4.1%
+
+3.8%
+
+3.9%
+
+Share 
+in total 
+workforce 
+(as % 
+of total 
+workforce)
+
+Share in all 
+managerial 
+positions (as 
+% of total 
+managerial 
+workforce)
+
+Germany
+
+61.9%
+
+N/A
+
+Percentages
+
+Cyprus
+
+Netherlands
+
+Romania
+
+United 
+Kingdom
+
+Israel
+
+Others
+
+8.2%
+
+3.7%
+
+3.7%
+
+3.4%
+
+3.2%
+
+54.2%
+
+13.9%
+
+5.9%
+
+0.4%
+
+5.1%
+
+9.2%
+
+15.9%
+
+11.3%
+
+1705
+
+1414
+
+147
+
+79
+
+40
+
+25
+
+Share 
+in total 
+workforce 
+(as % 
+of total 
+workforce)
+
+64.2%
+
+8.0%
+
+3.8%
+
+4.8%
+
+1.7%
+
+3.6%
+
+13.9%
+
+100% 
+
+82.9%
+
+8.6%
+
+4.6%
+
+2.4%
+
+1.5%
+
+Share in all 
+managerial 
+positions (as 
+% of total 
+managerial 
+workforce)
+
+56.9%
+
+14.1%
+
+4.6%
+
+0.7%
+
+2.8%
+
+9.9%
+
+11%
+
+No. of nationalities  
+(incl. Germany)
+
+#
+
+67
+
+63
+
+N/A
+
+Total 
+numbers 
+and 
+percentages
+
+Permanent 
+employees 
+who identify as 
+female
+
+Permanent 
+employees who 
+identify as male
+
+Permanent 
+employees who 
+identify as 'other' 
+
+Temporary 
+employees 
+who identify as 
+female
+
+Temporary 
+employees who 
+identify as male
+
+Temporary 
+employees 
+which identify as 
+'other'
+
+Non-guaranteed 
+hours employees 
+who identify as 
+female
+
+Non-guaranteed 
+hours employees 
+who identify as 
+male
+
+Non-guaranteed 
+hours employees 
+who identify as 
+'other'
+
+677
+
+50%
+
+656
+
+49%
+
+670
+
+50%
+
+670
+
+51%
+
+0
+
+0%
+
+N/A
+
+N/A
+
+156
+
+43%
+
+148
+
+39%
+
+203
+
+57%
+
+231
+
+61%
+
+0
+
+9
+
+8
+
+0
+
+0%
+
+N/A
+
+N/A
+
+53%
+
+N/A
+
+N/A
+
+47%
+
+N/A
+
+N/A
+
+0%
+
+N/A
+
+N/A
+
+AROUNDTOWN SA   |    Board of Directors‘ ReportDue  to  our  efforts  to  enhance  and  maintain  employee  satisfaction,  we  monitor 
+turnover and retention rates of our employees as well as track key hiring KPIs as 
+shown in table 9. 
+
+Training metrics are monitored as shown in table 10, including the percentage of our 
+employees who receive performance and career development reviews.
+
+89
+
+TABLE 9
+
+Hiring and Turnover 
+
+EPRA 
+Code
+
+Units of 
+Measure
+
+Metric
+
+Emp-
+Turn-
+over
+
+New employee hires
+
+Female
+
+Male
+
+Age group <30
+
+Age group
+≥ 30 - < 50
+
+Age group >50
+
+Total 
+number 
+and rate 
+of new 
+employee 
+hires 
+
+Open positions 
+filled by internal 
+candidates (internal 
+hires)
+
+Average 
+amount (€)
+
+Average hiring cost/
+FTE
+
+Employee turnover
+
+Female
+
+Male
+
+Age group <30
+
+Age group
+≥ 30 - < 50
+
+Total 
+number 
+and rate of 
+employee 
+turnover
+
+Age group ≥ 50
+
+Employee initiated 
+turnover
+
+Female
+
+Male
+
+Age group <30
+
+Age group
+≥ 30 - < 50
+
+Age group ≥ 50
+
+2023 figures reviewed by auditor
+
+2023
+
+Number
+
+397
+
+194
+
+203
+
+154
+
+189
+
+54
+
+Rate
+
+23.3%
+
+48.9%
+
+51.1%
+
+38.8%
+
+47.6%
+
+13.6%
+
+2022
+
+Number
+
+486
+
+196
+
+290
+
+155
+
+264
+
+67
+
+Rate
+
+29%
+
+40%
+
+60%
+
+31.9%
+
+54.3%
+
+13.8%
+
+165
+
+29.4%
+
+189
+
+28.0%
+
+536.9
+
+N/A
+
+1068.7
+
+N/A
+
+380
+
+161
+
+219
+
+89
+
+212
+
+79
+
+264
+
+115
+
+149
+
+60
+
+158
+
+46
+
+18.3%
+
+42.4%
+
+57.6%
+
+23.4%
+
+55.8%
+
+20.8%
+
+12.7%
+
+43.6%
+
+56.4%
+
+22.7%
+
+59.8%
+
+17.4%
+
+422
+
+190
+
+232
+
+98
+
+233
+
+91
+
+288
+
+135
+
+153
+
+72
+
+165
+
+51
+
+19.9%
+
+45.0%
+
+55.0%
+
+23.2%
+
+55.2%
+
+21.6%
+
+13.6%
+
+46.9%
+
+53.1%
+
+25.0%
+
+57.3%
+
+17.7%
+
+TABLE 10
+
+Training and Development
+
+EPRA 
+Code
+
+Units of 
+Measure
+
+Metric
+
+Emp-Dev
+
+% of total 
+workforce
+
+% of total employees who received regular 
+performance and career development reviews 
+during the reporting period
+
+Emp-
+Training
+
+Average 
+number of 
+training 
+hours
+
+All employees
+
+Female
+
+Male
+
+Management
+
+Female
+
+Male
+
+Non-management
+
+Female
+
+Male
+
+Part-time employees
+
+FTE employees
+
+2023
+
+2022
+
+26.6
+
+16.0
+
+18.7
+
+13.6
+
+26.6
+
+38.3
+
+20.3
+
+18.1
+
+20.2
+
+15.9
+
+19.3
+
+20.6
+
+28.5
+
+12.5
+
+13.2
+
+11.9
+
+19.8
+
+25.2
+
+17.2
+
+14.7
+
+15.3
+
+14.2
+
+N/A
+
+17.0
+
+N/A
+
+Average 
+amount 
+(€)
+
+Percentage 
+(%)
+
+Average investment in training per FTE
+
+696.3
+
+539.7
+
+Percentage of FTEs that participated in 
+leadership development program
+
+Percentage of FTEs that participated in 
+language program
+
+1.9%
+
+18.1%
+
+N/A
+
+N/A
+
+2023 figures reviewed by auditor
+
+AROUNDTOWN SA   |    Board of Directors‘ Report90
+
+Our commitment to the health, safety and well-being of our employees is measured 
+using health and safety metrics, shown in table 11. 
+
+We  monitor  and  measure  the  diversity  of  our  employees  in  table  12,  where  we 
+
+collect  data  regarding  the  representation  of  male/female/other  employees,  and 
+
+TABLE 11
+
+Employee Health and Safety
+
+EPRA 
+Code
+
+Units of Measure
+
+Metric
+
+2023
+
+2022
+
+Number of injuries/
+accidents per total time 
+worked
+
+Injury / accident rate10
+
+0.000004
+
+0.00000511
+
+Number of injuries per 
+million hours worked
+
+Lost-Time Injury 
+Frequency Rate (LTIFR)
+
+4.0
+
+4.6
+
+H&S-
+Emp
+
+Number of days lost per 
+total time worked
+
+Lost day rate
+
+0.0006
+
+0.0003
+
+Number of days lost per 
+total days scheduled to 
+be worked by employees
+
+Absentee rate
+
+Number of fatalities
+
+Work-related fatalities
+
+N/A
+
+Number of injuries/
+accidents
+
+Recordable work-
+related injuries/
+accidents for own 
+workforce
+
+7.4
+
+0
+
+12
+
+8.0
+
+0
+
+13
+
+10. 
+
+2022 figure for Injury Rate has been restated due to an error in last year’s reporting, where an internal metric using 
+
+number of Full-Time Employees (FTEs) as the denominator was reported. In 2023, we updated the methodology as 
+
+prescribed by the EPRA sBPR guidelines, which uses total number of working hours as the denominator.
+
+employee with disabilities.
+
+TABLE 12
+
+Diversity
+
+EPRA 
+Code
+
+Units of 
+Measure
+
+Number
+% of total 
+employees 
+who 
+identify
+
+Metric
+
+Female
+
+Male
+
+Other
+
+Diversity-
+Emp
+
+N/A
+
+% of  
+employees 
+who 
+identify
+
+Female (Board of Directors) 
+
+Male (Board of Directors)
+
+Female (top management)
+
+Male (top management)
+
+Female (senior management)
+
+Male (senior management)
+
+Female (junior management)
+
+Male (junior management)
+
+Female (all management)
+
+Male (all management)
+
+Female (revenue generating  
+management functions)
+
+Male (revenue generating  
+management functions)
+
+Female (STEM-related positions)
+
+Male (STEM-related positions)
+
+Number
+
+Employees with disabilities
+
+2023
+
+2022
+
+49%
+
+51%
+
+0%
+
+29%
+
+71%
+
+22%
+
+78%
+
+34%
+
+66%
+
+39%
+
+61%
+
+35%
+
+65%
+
+32%
+
+68%
+
+23%
+
+77%
+
+37
+
+50%
+
+50%
+
+0%
+
+33%
+
+67%
+
+12%
+
+88%
+
+25%
+
+75%
+
+41%
+
+59%
+
+32%
+
+68%
+
+29%
+
+71%
+
+18%
+
+82%
+
+31
+
+11. 
+
+Accidents and injuries are tracked as the same metric internally, therefore accident rate is considered as the same 
+
+metric as injury rate. 
+
+2023 figures reviewed by auditor
+
+AROUNDTOWN SA   |    Board of Directors‘ Report91
+
+Table 13 presents the gender pay gap within our employees. This indicator measures 
+the disparity in earnings between women and men, calculated as the average gross 
+hourly earnings of female employees divided in the average gross hourly earnings 
+of male employees. We closely monitor and report this difference based on various 
+levels of aggregation in an effort to increase transparency and conform to widely 
+accepted standards. The data is split based on employee remuneration (salary and 
+bonus) and basic salary in relation to employee level. 
+
+TABLE 13
+
+Gender Pay Gap
+
+EPRA 
+Code
+
+Diversity-
+Pay
+
+Units of Measure
+
+Metric
+
+2023
+
+2022
+
+Executive
+
+Management
+
+Non-management
+
+All employees 
+
+Executive
+
+Management
+
+Non-management
+
+All employees
+
+Ratio of remuneration  
+(salary and bonus) of women to 
+men
+
+Ratio of salary of women to men
+
+0.46
+
+0.69
+
+0.82
+
+0.67
+
+0.47
+
+0.71
+
+0.83
+
+0.70
+
+0.41
+
+0.8012
+
+0.86
+
+0.68
+
+0.47
+
+0.78
+
+0.85
+
+0.71
+
+N/A
+
+Total  
+compensation 
+ratio
+
+Ratio of the highest paid individual 
+to the median annual total 
+compensation for all employees 
+(excluding the highest paid 
+individual)
+
+33.27
+
+N/A
+
+2023 figures reviewed by auditor
+
+The  Work-Related  Rights  section  of  this  report  describes  our  approach  to  our 
+employees’ human rights. Part of this approach entails the monitoring of issues and 
+incidents relating to these rights, as shown in table 14.
+
+TABLE 14
+
+Issues and Incidents
+
+EPRA 
+Code
+
+N/A
+
+Units of Measure
+
+Metric
+
+2023
+
+2022
+
+Incidents of discrimination (including 
+harassment)
+
+013
+
+0
+
+Total number
+
+Amount (€)
+
+Complaints filed through channels 
+for people in own workforce to raise 
+concerns
+
+Complaints filed to National Contact 
+Points for OECD Multinational 
+Enterprises
+
+Severe human rights issues and 
+incidents connected to own workforce
+
+Severe human rights issues and 
+incidents connected to own 
+workforce that are cases of non 
+respect of UN Guiding Principles and 
+OECD Guidelines for Multinational 
+Enterprises
+
+Material fines, penalties, and 
+compensation for damages as result 
+of violations regarding social and 
+human rights factors
+
+Material fines, penalties, and 
+compensation for severe human rights 
+issues and incidents connected to own 
+workforce
+
+014 
+
+N/A
+
+0
+
+0
+
+0
+
+0
+
+0
+
+N/A
+
+0
+
+0
+
+0
+
+0
+
+12. 
+
+The Management remuneration ratio for 2022 has been restated, as the ratio disclosed in 2022 was calculated based 
+
+on employees in Germany only. The updated figure reflects all locations.
+
+13. 
+
+14. 
+
+Only those discrimination cases that resulted in sanctions or actions towards the accused person are reported.
+
+Only if a complaint led to a confirmed compliance case, it is reported here.
+
+AROUNDTOWN SA   |    Board of Directors‘ Report92
+
+WORKERS IN THE VALUE CHAIN
+
+Long-term Targets
+
+commitments  to  act  in  accordance  with  internationally  recognized  standards  of 
+
+ ● Maintain zero human rights violations in the supply chain
+
+human rights and includes our expectations of our suppliers to ensure our value 
+
+ ● Maintain our high standard of business partner scrutiny
+
+2024 Goals
+
+chain  workers  are  protected  to  the  same  standards  we  hold  ourselves. Any  and 
+
+all  reported  violations  of  human  rights  are  reported  directly  to  our  CEO  and  a 
+
+member  of  the  Board  of  Directors.  These  are  also  recorded  by  our  Compliance 
+
+ ● Continuing the distribution of our new Business Partner Questionnaire relating 
+
+Department. We are committed to reporting human rights violations and include 
+
+to our Business Partner Code of Conduct
+
+this risk within our risk management process.
+
+ ● Ensure the voluntary alignment of our Group policies to the new Supply Chain Act 
+
+in Germany (LkSG) and initiate possible changes accordingly
+
+While  the  topic  of  workers  in  the  value  chain  was  not  identified  as  material 
+
+during  our  DMA,  AT  believes  that  respect  for  human  rights  is  a  non-negotiable 
+
+foundation  for  any  business. As  such, AT’s  commitment  to  maintaining  stringent 
+
+standards  of  ethical  behavior  extends  throughout  our value  chain  as  well  as  to 
+
+In our regions of operation, human rights are protected by the strict legal framework 
+
+of  the  European  Union  and  the  United  Kingdom,  meaning  that  concrete  human 
+
+rights  violations  are  not  a  substantial  risk.  This  means  that  the  most  material 
+
+business  impact  of  this  topic  is  as  a  compliance  issue,  so  our  comprehensive 
+
+controls on human rights throughout our value chain are managed through our 
+
+compliance framework.
+
+our own operations, and we operate in accordance with the UN Guiding Principles 
+
+Since  our  business  model  includes  the  refurbishment  of  properties,  much  of  our 
+
+on  Business  and  Human  Rights.  We  do  this  through  the  expectations  and 
+
+supply chain consists of building work carried out by construction companies and 
+
+requirements outlined in our Business Partners Code of Conduct which includes 
+
+their  subcontractors.  Since  these  sub-contractors  do  not  operate  under  our  direct 
+
+expectations  and  requirements  around  human  rights  protection. This  document 
+
+oversight, this introduces a risk area for human rights violations, for which specific 
+
+contains matters such as respecting and recognizing employees’ rights pertaining 
+
+controls are in place. Prior to contracting our business partners, we conduct checks 
+
+to  freedom  of  association  and  the  exercise  of  collective  bargaining,  providing 
+
+regarding their reputation, ability to provide the proposed work and their compliance 
+
+fair remuneration, refraining from child, forced and compulsory labor, respecting 
+
+with  the  respective  local  laws. The  signing  of Aroundtown’s  Code  of  Conduct  for 
+
+minimum  age  requirements  and  providing  a  workplace  free  of  harassment  and 
+
+Business Partners is a binding requirement for our business partners with an annual 
+
+discrimination  of  any  kind.  We  identified  the  need  to  engage  with  the  workers 
+
+contractual volume  above  €5,000  with  the  exception  of  large  corporations  which 
+
+in  our  value  chain  and  will  do  so  by  using  the  Business  Partner  Questionnaire 
+
+have their own code of conduct – provided it is in line with our standards – and with 
+
+developed in 2023 which assesses compliance with our Code of Conduct.  
+
+the exception of organizations that operate in heavily-regulated sectors. To ensure 
+
+The principal interests, views and rights of our value chain workers relate to human 
+
+rights protection and fair labor standards. We believe respect for, and protection 
+
+of  human  rights  is  a  non-negotiable  for  any  business,  so  our  commitment  to 
+
+maintaining effective, diligent standards of ethical behavior extend from not only 
+
+our  own  operations,  but  across  our  value  chain.  We  have  ensured  the  interests, 
+
+views and rights of our value chain workers are taken into account in our updated 
+
+that  our  requirements  are  both  practical  and  thorough,  we  worked  closely  with 
+
+leading experts to develop a robust system for reporting and monitoring which can 
+
+also be integrated into their operations smoothly. The code requires a commitment 
+
+to the core principles of the agreement of the governing body of the ILO, the Ten 
+
+Principles of the UN Global Compact, and the OECD Guidelines for Multi-national 
+
+Enterprises on Responsible Business Conduct.
+
+Business  Partner  Code  of  Conduct  which  reduces  risk  to  ourselves  as  well  as 
+
+Each construction undertaking is managed by a dedicated AT project manager, who 
+
+our  value  chain  workers.  Furthermore,  our  Human  Rights  Policy  sets  out  our 
+
+engages  directly  with  the  onsite  contractors  and  sub-contractors. These  project 
+
+AROUNDTOWN SA   |    Board of Directors‘ Reportmanagers evaluate compliance with the Code of Conduct during their site visits, 
+
+Our  property  management  business  also  outsources  facilities  management 
+
+such  as  inspections  and  acceptance  of  partial  deliveries.  We  also  conduct  spot 
+
+services. These companies are required to have their own human rights guidelines 
+
+checks  of  business  partners’  compliance  through  our  operational  departments. 
+
+in  place  and  are  also  subject  to  the  Code  of  Conduct  for  Business  Partners.  Our 
+
+This supplements our standard systems for auditing the activities of our business 
+
+facilities  managers  are  required  to  complete  questionnaires  regarding  their 
+
+partners to control for the different risk potential.
+
+compliance practices, in which they must confirm that they have conducted their 
+
+own  human  rights  checks  on  any  sub-contractors  and  that  they  comply  with  all 
+
+relevant human rights laws.
+
+93
+
+Urban gardening project Cologne
+
+AROUNDTOWN SA   |    Board of Directors‘ Report94
+
+CONSUMERS AND END-USERS
+
+Long-term Targets
+
+ ● Retain strong performance in tenant orientated customer service
+
+ ● Continually increase tenant satisfaction
+
+ ● Guarantee relevant health and safety standards and ensure compliance with all 
+statutory norms and safety requirements in Aroundtown’s countries of operation
+
+deliver long-term cash flows, which are central to our business model, it is crucial that 
+
+we build positive, long-term tenant relationships. This drives our objectives for this 
+
+area: to continually increase the satisfaction of our tenants with their experience of 
+
+our properties; and to offer industry-leading, tenant-oriented customer service. 
+
+Our tenant base is very diverse, comprising mainly governments, multi-national 
+
+and large domestic corporations, granular residential tenants and strong third-
+
+party  hotel  operators.  Additionally,  Aroundtown  has  a  small  share  of  small  to 
+
+ ● Ensure the highest health and safety standards following national laws
+
+medium enterprises as tenants. This diverse range of tenants brings a different 
+
+ ● Improve the monitoring of compliance with safety measures through the ongoing 
+
+set of needs, which we aim to identify and support from the first site visit.
+
+centralization and standardization of management processes
+
+2024 Goals
+
+ ● Conduct our annual tenant satisfaction survey
+
+ ● Continue the installation of renewable energy projects and electric vehicle charging 
+
+facilities
+
+ ● Further rollout the Tenant Retention project that started in 2023 aimed at expanding 
+
+the services at our properties e.g., through the creation of coworking spaces
+
+Our tenants are supported by a three-tier management approach. At the regional 
+
+level,  our  asset  managers  work  to  enhance  asset  value  by  delivering  excellent 
+
+customer service and targeted asset re-positioning. They serve as the first point of 
+
+contact for our prospective tenants and engage with them on longer-term aspects 
+
+of the assets, the lease agreements, and tenant satisfaction. Our property managers 
+
+are responsible for ongoing customer care. They make regular site visits, prepare 
+
+budgets,  plan  technical  improvements  and  maintenance  works,  and  ensure  that 
+
+refurbishment  and  management  activities  are  aligned  to  tenants’  needs. At  site 
+
+ ● Create opportunity for our tenants to source green electricity produced onsite
+
+level,  facility  managers  provide  day-to-day  technical  support  and  maintenance, 
+
+ ● Further implementation of framework agreements across the portfolio to create 
+
+accommodating  the  needs  of  our  tenants  with  an  accessible,  flexible  approach. 
+
+uniformly high standards
+
+ ● Digitalize the template for our mandatory property inspections, which starting in 
+
+2024 will be conducted twice a year per property
+
+Whenever facility managers are unavailable, tenants can also report issues directly 
+
+to property managers, who can then raise them with facility managers for action.
+
+The  process  of  establishing  a  professional  customer  relationship  management 
+
+ ● Centralization of internal processes and structures in our Quality and Projects team 
+
+(CRM) system was initiated in 2021. The CRM system assists the efficiency of our 
+
+to ensure compliance with the necessary safety standards at all levels
+
+customer engagement process including letting, tracking leads, response times, and 
+
+Tenant Satisfaction
+
+the status of customer requests. Digitizing these internal workflows improves the 
+
+pace of our communications with tenants, providing vital and accessible customer 
+
+Our  business  has  been  built  on  the  premise  of  exceptional  customer  service, 
+
+care in a competitive and continuously changing market. Both our commercial and 
+
+emphasizing  responsiveness,  diligence,  and  reliability.  We  aim  to  build  long-
+
+residential tenant service centers were also certified with TÜV and ISO 9001:2015 
+
+term  tenant  relationships  by  striving  for  high  standards  in  our  properties  and 
+
+in 2022, which put us in a unique position compared to our peers.
+
+customizing  our  management  approach  to  cater  for  each  tenant’s  needs.  When 
+
+considering  our  consumers  and  end-users,  we  include  all  tenants  who  can  be 
+
+materially impacted by our activities. 
+
+Our focus in 2024 will be on continue to harness opportunities for further digitalization 
+
+through our SAP management system, for example by integrating the CRM solution 
+
+and a letting support tool to improve accessibility for tenants, potential tenants and 
+
+Long-term tenant relationships are the cornerstone of our business model. In order to 
+
+service  providers. We  have  trialed  solutions  to  provide  tailored  experiences  for  our 
+
+AROUNDTOWN SA   |    Board of Directors‘ Report95
+
+tenants, including booking systems, services and amenities, and to track satisfaction 
+
+Environmental  measures  also  benefit  tenants  through  reduced  service  charge 
+
+and support resolution time. The ability to customize these systems will allow us to 
+
+costs, through energy and water efficiency improvements. This trend was reflected 
+
+respond more efficiently to our tenants‘ needs. Additionally, by examining the facility 
+
+in the results of our 2022 commercial tenant survey which showed a clear desire 
+
+management costs and concepts of our properties, we aim to identify optimization 
+
+for improvement in the environmentally friendly services available and the energy 
+
+potential to buffer the current price increases of operational costs.
+
+In  2023,  we  launched  several  projects  to  improve  tenant  satisfaction,  including  a 
+
+fitness studio installed at a discounted price for tenants, which is an offer we plan to 
+
+continue expanding in 2024. A tenant lounge at one of our properties, a discounted 
+
+co-working  space,  and  discounts  on  hotel  accommodation  for  tenants  are  other 
+
+examples of projects aimed to improve the overall tenant satisfaction that we plan 
+
+to continue implementing in the coming years.
+
+efficiency of our buildings. Consequently, our plans for 2024 include the development 
+
+of  scooter  and  bicycle  rental  programs  for  our  tenants  as  well  as  an  improved 
+
+parking scheme, and the installation of solar panels onsite. The renewable electricity 
+
+generated with these panels will be made available for sale to our tenants, aiding 
+
+them  in  reducing  their  individual  carbon  impact.  Within  our  residential  portfolio, 
+
+awareness raising initiatives such as information videos or leaflets advice tenants 
+
+on sustainable practices including efficient heating and ventilation.
+
+In order to align our investments with our tenants’ needs, we tailor ongoing analysis 
+
+Tenant Survey
+
+into  each  tenant’s  industry  segment  and  individual  success  factors.  Investments 
+
+in  environmental  efficiency  measures  are  an  integral  part  of  this  strategy.  Larger 
+
+corporate  tenants  often  have  sustainability  policies  which  give  preference  to 
+
+buildings  with  higher  environmental  standards,  as  well  as  buildings  which  offer 
+
+additional  benefits  to  employee  health  and  well-being.  To  evidence  the  green 
+
+credentials  of  our  assets,  we  continue  to  pursue  BREEAM  certification  across  our 
+
+commercial portfolio as shown in table 15. During 2023, we successfully certified 
+
+100% of our Dutch office portfolio. In addition, we certified the first German offices 
+
+during 2023, utilizing the knowledge transferred from our Dutch office certifications. 
+
+Further certifications in German offices are ongoing and we are analyzing certification 
+
+options in the hotel portfolio.
+
+TABLE 15
+
+Type and number of ESG-certified owned assets15
+
+At the end of 2022, we carried out a tenant satisfaction survey for the commercial 
+
+portfolio in which we asked tenants to rate their satisfaction across several areas 
+
+such  as  rental  property  features  including  parking  and  safety,  sustainability-
+
+related features including green space and energy efficiency, fit-outs, cost, property 
+
+management, and onsite service. The survey showed high overall satisfaction, with 
+
+64% of those who consented and took part answering that they were partially or 
+
+completely  satisfied  with Aroundtown’s  service. This  rate  was  even  higher  among 
+
+our  larger  tenants  (those  with  over  400m²  rented)  and  tenants  with  longer-term 
+
+contracts  (those  with  7+  years’  contract  duration).  The  results  also  demonstrated 
+
+good  satisfaction  with  our  external  service  providers,  with  the  average  ratings 
+
+for  friendliness,  accessibility,  competence,  responsiveness  and  service  orientation 
+
+all indicating positive satisfaction. However, in our pursuit of conducting a tenant 
+
+survey in compliance with GDPR regulations, the scope of participation was limited, 
+
+as we needed to acquire signed consent from each tenant to use their data. 
+
+Units of Measure
+
+Metric
+
+2023
+
+2022
+
+To address this challenge and enhance participation, we took proactive measures 
+
+EPRA 
+Code
+
+Cert-Tot
+
+15. Group portfolio, excluding GCP.
+
+Percentage of certified 
+assets with BREEAM-
+In-Use
+
+Office Portfolio
+
+Commercial Portfolio
+
+36%
+
+21%
+
+15%
+
+9%
+
+in 2023, for which we paused the survey and focused on establishing a streamlined 
+
+process for including consent forms in new lease contracts and amendments  of 
+
+existing  ones.  Simultaneously,  we  initiated  the  integration  of  consent  data  into 
+
+our  SAP  System  for  a  more  efficient  and  secure  approach.  In  parallel  to  this,  as 
+
+the  survey  highlighted  some  areas  for  improvement,  we  rolled-out  action  plans 
+
+informed  by  the  results,  which  will  also  guide  much  of  our  work  in  2024.  For 
+
+AROUNDTOWN SA   |    Board of Directors‘ Report96
+
+example,  there  was  higher  dissatisfaction  with  the  accessibility,  response  time 
+
+with  which  our  tenants  are  satisfied.  When  considering  our  consumers  and  end-
+
+and  service  orientation  of  our  property  management  teams.  To  act  on  this, 
+
+users, we include all tenants who can be materially impacted by our activities.
+
+Aroundtown  now  offers  a  24/7  hotline  for  our  commercial  tenants  through  the 
+
+Service  Center  to  provide  a  point  of  contact  outside  normal  service  hours.  We 
+
+also started the process of developing an online service portal, in which tenants 
+
+will be able to send requests directly into our CRM system, which speeds up the 
+
+service process. This will be implemented in 2024 alongside a website for tenant 
+
+services containing relevant information and features. Furthermore, we have been 
+
+developing a Tenant Retention program in the form of a modular set of measures 
+
+for  expanding  the  service  offerings  in  our  properties,  for  example  by  creating 
+
+coworking  spaces,  conference  areas  or  gym  facilities.  Our  efforts  align  with  our 
+
+dedication to providing a more dynamic tenant-centric experience, which we hope 
+
+will be reflected in the results of future surveys.
+
+For our properties in the Netherlands, we sent out the annual satisfaction survey 
+
+by  email  in August,  in  cooperation  with  an  external  agency. The  survey  covered 
+
+various aspects, including the service provided by the Service Desk, the condition 
+
+of  the  building  and  its  surroundings,  general  sustainability  matters,  and  overall 
+
+satisfaction.  In  2023,  the  sustainability  satisfaction  score  showed  a  significant 
+
+improvement of 9.5% compared to 2022, while tenant involvement in sustainability 
+
+continued  to  increase,  evidenced  through  and  facilitated  by  discussions  during 
+
+tenant meetings. 
+
+The overall service satisfaction has also seen a positive increase of 7.1%. To enhance 
+
+performance further, KPIs for this department have been adjusted for the upcoming 
+
+year,  with  the  aim  of  achieving  a  yearly  improvement  of  at  least  3%.  Across  all 
+
+measured areas, scores have surpassed those of 2022 and it is our overall goal to 
+
+continue to improve performance.
+
+Tenant Health and Safety
+
+Guaranteeing  high  standards  of  health  and  safety  within  our  buildings  is  a 
+
+fundamental  obligation  to  our  tenants,  and  a  prerequisite  to  ensuring  their 
+
+satisfaction with our service. Through the dedication of our property management 
+
+teams, we work continually to instill a positive health and safety culture across our 
+
+operations. Our ultimate goal is to protect tenants and third parties from health and 
+
+safety  risks,  and  to  deliver  an  environment  which  is  healthy,  safe  and  motivating, 
+
+Health and safety are central to our asset management approach at every stage of 
+
+a  property’s  life  cycle.  At  acquisition,  we  conduct  a  comprehensive  due  diligence 
+
+risk  assessment  which  enables  us  to  identify  risks  and  implement  preventative 
+
+maintenance  solutions.  We  assess  the  building’s  structural  characteristics  and 
+
+establish which refurbishment activities should be targeted, looking for opportunities 
+
+to improve the quality and accessibility of the property. Various measures are then 
+
+implemented to support tenants’ well-being, easier movement around the building, 
+
+and additional communal space and services. 
+
+The  Aroundtown  Tenant  Health  and  Safety  Policy  sets  out  our  commitment  to 
+
+protecting the well-being of our tenants and the processes we apply through the 
+
+asset  lifecycle,  including  hazard  assessment,  training,  fire  safety,  and  reporting. 
+
+The  policy  details  a  three-tier  management  approach,  with  distinct  roles  and 
+
+responsibilities assigned to our facility, property and asset management teams, and 
+
+is in compliance with all statutory norms and safety requirements in the countries 
+
+where we are operational.
+
+During the operational phase, we conduct technical reviews of our properties on an 
+
+ongoing basis, to ensure alignment with regulations and to guide future investment 
+
+planning. Our external facility managers are tasked with operational responsibility 
+
+for  providing  the  information  and  carrying  out  the  necessary  tasks  to  maintain 
+
+the  technical  condition  of  our  assets.  This  encompasses  documenting  all  checks 
+
+performed on technical installations and building structures. Reports are forwarded 
+
+to Aroundtown, and any identified remedial works are incorporated into our annual 
+
+budget planning for each property or addressed promptly if required. In 2023, we 
+
+advanced  in  this  domain  by  strategically  aligning  with  two  contractors  that  are 
+
+required to adhere to stringent health and safety reporting standards.
+
+Our standard operating procedures for all assets guarantee complete compliance 
+
+with  fire  and  safety  regulations.  This  involves  investigating  and  documenting 
+
+safety incidents. We regularly commission the legally required assessments from 
+
+external fire safety specialists as well as conduct statutory checks with the regional 
+
+fire brigade. If deficits are identified, these are documented and reported to the 
+
+Head of Technical Property Management, who is then responsible for seeing that 
+
+AROUNDTOWN SA   |    Board of Directors‘ Report97
+
+the required work is carried out. The proper implementation of these corrections is 
+
+confirmed by appropriate follow-up processes, which include an onsite inspection 
+
+and  subsequent  clearance  report  to  the  authorities  after  the  deficits  have  been 
+
+processed. Our objective is to safeguard tenants and third parties from health and 
+
+safety hazards while providing a healthy, secure, and inspiring work environment 
+
+that satisfies our tenants. 
+
+Besides the Tenant Health and Safety Policy, our Human Rights Policy also details 
+
+our commitment to protecting the human rights of our tenants. Although this policy 
+
+is  currently  confidential,  it  has  been  written  in  accordance  with  the  UN  Guiding 
+
+Principles on Business and Human Rights and in particular respects the privacy of 
+
+our  tenants  through  data  protection  measures. Any  and  all  reported violations  of 
+
+human rights are recorded by our Compliance Department and reported directly to 
+
+our CEO and a member of the board of Directors. We are committed to reporting 
+
+human rights violations and include this risk within our risk management process.  
+
+Metrics: Consumers and End-Users
+
+Our diligent approach to maintaining the highest standard of tenant health and 
+safety is described above, and the metrics we use to monitor the success of our 
+approach are shown below in table 16. 
+
+TABLE 16
+
+Asset Health and Safety 16
+
+EPRA 
+Code
+
+H&S-Asset
+
+Units of Measure
+
+Metric
+
+2023
+
+2022
+
+Percentage of assets for which 
+health and safety impacts 
+are assessed or reviewed for 
+compliance/improvement
+
+Percentage  
+of assets
+
+ 95%
+
+ 100%
+
+H&S-Comp
+
+Number of incidents of non-
+compliance with regulations and/or 
+voluntary standards
+
+Number of 
+incidents
+
+ 6
+
+0
+
+16. This metric is reported regarding the German portfolio only.
+
+SOS-Kinderdorf e.V. - Program ‘Education for All in Germany’
+
+AROUNDTOWN SA   |    Board of Directors‘ Report98
+
+AFFECTED COMMUNITIES AND  
+NEIGHBORHOOD DEVELOPMENT
+
+Investors  in  the  built  environment  are  expected  to  think  beyond  their  commercial 
+interest,  to  create  long-term  socio-economic  benefit  in  the  communities  they 
+operate  in.  By  building  productive  relationships  with  the  local  community,  we  can 
+contribute  to  the  development  of  prosperous  neighborhoods,  which  in  turn  will 
+benefit  our  properties  and  their  tenants.  The  principal  interests,  views  and  rights 
+of our local communities relate to affordability, engagement and human rights. We 
+actively engage with the wider communities surrounding and within our properties 
+to promote neighborliness and connection. Our approach to meeting the needs of our 
+communities is underpinned by our Community Involvement and Development Policy.
+
+Long-Term Targets
+
+ ● Invest up to €1 million p.a. in community projects via the Aroundtown and GCP 
+
+Foundations
+
+ ● Build partnerships with local stakeholders to achieve targeted impact with 
+
+communities around Group assets
+
+local communities’ needs. This includes the projects sponsored by the Aroundtown 
+
+and  GCP  Foundations,  and  open  and  meaningful  engagement  and  consultation 
+
+opportunities  with  external  stakeholders.  Thus,  active  community  contributions 
+
+are one of our key priorities moving into 2024. 
+
+Our  investment  approach  of  targeting  properties  with  value-add  potential  sees 
+
+us  invest  in  properties  in  need  of  retrofitting  with  broader  opportunities  for 
+
+ESG  improvements.  These  types  of  assets  provide  significant  potential  to  deliver 
+
+improvements for the properties’ tenants and nearby residents through investment 
+
+in  building  systems  and  facilities,  shared  services,  aesthetics  of  external  facades 
+
+and  improved  maintenance. We  strive  to  create  spaces  for  dialogue  with  existing 
+
+tenants  and  local  authorities  as  soon  as  an  asset  is  acquired,  to  determine  how 
+
+the needs and concerns of the community can be addressed through the long-term 
+
+asset strategy. These community consultations are usually in the form of meetings 
+
+and workshops. 
+
+ ● Support measures that aim to achieve several of the United Nations Sustainable 
+
+Neighborhood Development and Community Engagement
+
+Development Goals (UN SDGs)
+
+2024 Goals
+
+ ● Achieve a level of community investment through the Aroundtown and GCP 
+
+Foundations of at least €500 thousand p.a. 
+
+ ● Continue supporting employee volunteering through the company-wide ‘Social 
+
+Day’, extending this to further regions to engage more employees
+
+ ● Organization of our annual blood drive and donation day at the Berlin office
+
+While  affected  communities  was  not  identified  as  a  material  topic  in  our  DMA, 
+
+we  are  aware  of  the  important  role  we  play  in  our  local  communities  and  take 
+
+this responsibility very seriously. Our approach is underpinned by our Community 
+
+Involvement and Development Policy, which sets out our commitment to positively 
+
+The  opportunities  for  community  engagement  programs  differ  greatly  across  the 
+
+sectors represented by our assets. Shopping centers, which represents a small part 
+
+of the portfolio, for instance, hold regular community events, host liaison activities 
+
+with schools, and provide support to local charities, for example by providing spaces 
+
+free of charge to promote and raise funds for their cause. Our subsidiary, GCP, takes a 
+
+proactive approach to engagement in the communities surrounding the residential 
+
+properties they invest in. This year their activities/events have included:
+
+ ● Neighborhood gardening: Kick-off of two urban gardening projects in a high-rise 
+
+quartier in Cologne and a property in Braunschweig
+
+ ● Easter Week: Digital Easter week campaign with daily interactive activities (1,972 
+
+participants)
+
+impact  the  local  communities  where  we  operate  and  to  improve  the  well-
+
+ ● Cinema Summer: Live open-air cinema at 8 locations, plus additional 700 cinema 
+
+being  of  our  tenants  and  local  stakeholders.  In  addition  to  outlining  reporting, 
+
+boxes for a home movie night (2,052 participants)
+
+responsibility,  and  planning  requirements  for  active  community  relationship 
+
+ ● Halloween World: Digital Halloween craft activity with daily interactive tasks on 
+
+management, the policy highlights the importance of key activities for addressing 
+
+the GCP website and app (1,321 participants)
+
+AROUNDTOWN SA   |    Board of Directors‘ Report99
+
+ ● Advent Calendar: Interactive calendar from December 1st to 24th with games, 
+
+The  projects  funded  by  the  Grand  City  Properties  Foundation  included  the  support 
+
+quizzes and surprises (16,583 participants).
+
+Some  of  these  events  have  been  a  tradition  for  many  years  and  always  include  a 
+
+call  for  participation  through  multiple  channels  to  foster  engagement.  The  high 
+
+participation numbers and the high tenant satisfaction rate on the initiatives of 97% 
+
+reflect the great reception from the tenants, and we are proud to continue building up 
+
+our efforts for community engagement in 2024.
+
+Charitable Contributions
+
+of a women‘s advice center in the city of Kiel offering counseling options for women 
+
+in vulnerable situations such as in cases of domestic violence or for migrant women. 
+
+Our donation funded an artistic redesign of the passageway leading to the counseling 
+
+center with the aim of creating a space that feels safe and friendly for the women 
+
+visiting the center, but that also enhances the neighborhood aesthetics and helps break 
+
+spatial barriers. The foundation also supported lebensnah e.V., an association providing 
+
+support for people with disabilities, in developing a new individualized German sign 
+
+language course and an urban gardening project by the Caritas Association of Cologne.
+
+The Aroundtown Foundation exists to channel funding into projects which enrich 
+
+Social Day
+
+the communities in which the Group operates. This includes charitable organizations 
+
+In 2023, we continued to deliver our Social Days to our employees. We delivered three 
+
+and  initiatives  which  support youth  and  elderly  welfare,  education,  poverty  relief, 
+
+in total which involve volunteering for an organization during a paid working day. 
+
+national and vocational training including student aid, development coordination, 
+
+These were a combination of self-organized, and organized through Lebenshilfe e.V., 
+
+sports, art and culture. In autumn 2023, the purpose of the foundation was expanded 
+
+which sees itself as a self-help and support association for people with intellectual 
+
+to include welfare and the assistance of people in special need linked to disasters, 
+
+disabilities  and  their  families,  helping  people  with  disabilities  to  participate  in 
+
+war,  and  prosecution  on  the  grounds  of  discrimination  related  to  political,  racial, 
+
+society on an equal footing.
+
+religious and gender reasons. The Foundation is run by a Committee of Aroundtown 
+
+We hope to continue these successful Social Days into 2024 and aim to expand this 
+
+managers and overseen by the Foundation Board, and all employees are encouraged 
+
+engagement opportunity to employees in other regions. In addition to organizing 
+
+to propose projects for consideration.
+
+the  Social  Day,  our  annual  employee  blood  drive  and  donation  day  took  place  in 
+
+In  2023,  the Aroundtown  and  Grand  City  Properties  Foundations  supported  a  total 
+
+of 93 projects and donated approx. €1 million to charitable organizations. One such 
+
+donation  went  to  the  non-profit  association  SOS-Kinderdorf  e.V.,  which  works  to 
+
+provide  children  and  young  people  a  safe  home.  With  our  donation,  we  supported 
+
+the  program  ‘Education  for  All  in  Germany’,  which  rolled-out  various  educational 
+
+measures aimed at building equitable opportunities for disadvantaged young people 
+
+in different phases of life, reducing discrimination and strengthening social inclusion. 
+
+Also,  with  our  donation  to  ShelterBox  e.V.,  an  organization  helping  and  supporting 
+
+the world‘s most vulnerable people to regain their strength and rebuild their homes 
+
+after a disaster, we contributed to providing humanitarian aid to affected countries 
+
+after disasters, or in complex emergencies such as wars and conflicts. Further, with the 
+
+support of the Aroundtown Foundation, 20 young people (15 to 16 years old) were 
+
+able to attend a summer camp from the apropolis e.V., an association with the aim to 
+
+encourage young people to form their own political values and opinions. 
+
+October 2023 in Berlin.
+
+Affordable Housing
+
+Much  of  our  community  impact  comes  from  our  residential  properties,  owned 
+
+through  our  subsidiary,  GCP.  GCP’s  tenants  represent  a  wide  range  of  social, 
+
+economic  and  cultural  backgrounds.  To  provide  properties  which  serve  these 
+
+communities, we are committed to providing affordable housing, so to monitor our 
+
+performance in this regard, the Group has developed a “rental cost portion” metric 
+
+modeled on Eurostat’s housing cost overburden rate. This metric compares GCP’s 
+
+median rent for residential units against the net minimum wage, reflecting salary 
+
+after taxes and social security contributions, which  we believe is a conservative 
+
+benchmark focusing on those most sensitive to rent affordability.  
+
+The housing cost portion based on the median warm rent of GCP’s residential properties 
+
+in Germany in 2023 was 39% of this benchmark, up from 38% in 2022. The warm rent 
+
+AROUNDTOWN SA   |    Board of Directors‘ Report100
+
+incorporates various costs of living including energy costs, and housing services, which 
+
+Metrics: Affected Communities
+
+GCP has no control over. The rental cost portion based on median cold rent in 2023 
+
+for our German residential properties, excluding these factors, remained at 24% of the 
+
+net minimum wage salary in 2023. These figures show that increased housing costs 
+
+in 2023 were driven by utility and service cost inflation rather than increasing rental 
+
+costs,  along  with  observations  that  wage  growth  lagged  in  the  current  inflationary 
+
+environment. Germany has already acted to increase the minimum wage as of January 
+
+1st, 2024, along with another increase set for 2025, which should improve housing 
+
+affordability if the trend of a decreasing rate of inflation continues. These results are 
+
+testament  to  the  Group’s  commitment  to  ensuring  that  our  high-quality  residential 
+
+properties are priced affordably for all our tenants.
+
+Modernization Rent Increases
+
+Our subsidiary GCP launched its modernization program for its residential properties 
+
+and is carrying a relatively small program, targeted to where it can make a significant 
+
+impact.  As  part  of  our  commitment  to  providing  affordable  housing,  GCP  works  to 
+
+ensure  that  modernization  cost  allocation  to  tenants  is  done  in  a  way  that  keeps 
+
+housing affordable. To determine these cost allocations, the Rent Control and Increase 
+
+Department analyses the current market situation and relevant regulations on cost 
+
+allocations, to decide whether to enact rental increase waivers on the modernization 
+
+costs. The average modernization cost allocation for our German residential properties 
+
+in 2023 was €0.53/sqm, which is 16% lower than the legally possible cost allocation 
+
+set out in German law.
+
+In cases of significant rent increases, tenants can object to the cost allocation in what 
+
+is  known  as  a  financial  hardship  case.  These  can  be  resolved  through  a  complete 
+
+or partial waiver of the entitled rent increase for a given number of years. In 2023, 
+
+however, zero  hardship  cases  were  received  out  of  the  1,349  units  modernized. We 
+
+believe this low number of hardship case applications reflects the targeted approach 
+
+to conducting modernization projects, and the careful consideration that is put into 
+
+rent  increases  which  in  many  cases  is  partially  waived  based  on  the  company’s 
+
+understanding  of  the  local  market  situation.  Recognizing  the  importance  of  not 
+
+placing pressure on our tenants in cases of financial hardship, we ensure that any and 
+
+all  changes  are  discussed  with  our  tenants  beforehand. This  transparent  and  open 
+
+approach allows security and trusted relationships with our tenants. 
+
+Our  dedication  to  maintaining  strong  community  connections  and  developing 
+
+longstanding  relationships  is  demonstrated  by  our  Community  Involvement 
+
+and  Development  Policy,  which  guides  our  efforts  towards  tenant  engagement. 
+
+Particularly for our residential portfolio, a range of community events are organized 
+
+such as seasonal tenant festivals and campaigns throughout the year, on site and/or 
+
+digitally. By organizing various tenant events also digitally, our residential tenants at 
+
+all locations have the opportunity to participate. This is enhanced by complementary 
+
+tenant benefits, such as an additional incentive for the residential tenants loyalty 
+
+program  or  embedding  the  digital  campaigns  in  the  GCP  app.  These  initiatives 
+
+impact the wider community and are considered stakeholder engagement programs. 
+
+For 2024, we strive to set up an effective tracking system that allows us to better 
+
+measure  the  reach  of  the  initiatives  in  terms  of  actual  impact  generated  in  the 
+
+communities -  such  as  actual  participation  rates  and  satisfaction  levels  with  the 
+
+various programs. 
+
+TABLE 17
+
+Community Engagement
+
+EPRA 
+Code
+
+Comty-Eng
+
+Units of Measure
+
+Metric
+
+2023
+
+2022
+
+% of assets under operational 
+control that have implemented 
+local community engagement, 
+impact assessments,
+ and/or development programs
+
+Percentage  
+of assets
+
+75%17
+
+N/A
+
+17. 
+
+This metric is reported regarding the GCP portfolio only.
+
+AROUNDTOWN SA   |    Board of Directors‘ Report101
+
+Governance Information
+
+CORPORATE GOVERNANCE
+
+The Group places a strong emphasis on corporate governance, executed responsibly 
+
+Board of Directors
+
+by the Board of Directors and the management teams. The Group is proud of the 
+
+high confidence of its investors, which is reflected in the impressive placement of 
+
+funds by major global investment banks. Among our shareholders and bondholders 
+
+are large international leading institutional investors and major global investment 
+
+and sovereign funds.  
+
+The  Board  of  Directors  makes  decisions  solely  in  the  Group’s  best  interest, 
+
+independently of any conflict of interest. The Group is administered by a Board of 
+
+Directors vested with the broadest powers to perform in the Group’s interests. All 
+
+powers not expressly reserved by the Luxembourg Companies Act or by the articles 
+
+of association to the general meeting of the shareholders fall within the competence 
+
+Aroundtown  follows  very  strict  Code  of  Conducts  which  apply  to  its  employees 
+
+of the Board of Directors. 
+
+and business partners, and include policies for Anti-Bribery, Anti-Corruption, Anti-
+
+Discrimination, Conflict of Interest and others.
+
+On a regular basis, the Board of Directors evaluates the effective fulfilment of their 
+
+remit  and  compliance  with  corporate  governance  procedures  implemented  by  the 
+
+Aroundtown is not subject to any compulsory corporate governance code of conduct 
+
+Group.  This  evaluation  is  also  performed  by  the  Audit  and  Risk  Committees.  The 
+
+or respective statutory legal provisions. In particular, Aroundtown is not required 
+
+Board of Directors currently consists of a total of seven members, of which four are 
+
+to adhere to the ‘Ten Principles of Corporate Governance’ of the Luxembourg Stock 
+
+independent  and  one  is  non-executive.  The  members  are  elected  by  the  general 
+
+Exchange or to the German Corporate Governance Code, which are only applicable 
+
+meeting  of  shareholders  and  resolve  matters  on  the  basis  of  a  simple  majority,  in 
+
+to  listed  companies  incorporated  in  Germany,  apart  for  recommendations  C.10 
+
+accordance  with  the  articles  of  association.  The  number  of  directors,  their  terms 
+
+(with sole reference to its applicability to the Chair of the Audit Committee), D.8 and 
+
+and the principles of their remuneration are determined by the general meeting of 
+
+D.9 of the German Corporate Governance Code (Deutscher Corporate Governance 
+
+shareholders and the maximum term of directors’ appointment per election is six years 
+
+Kodex). Aroundtown  has  therefore  issued  a  declaration  that  it  does  not  deviate 
+
+according to Luxembourg law, however directors may be re-appointed after such term. 
+
+from the aforementioned recommendations of the German Corporate Governance 
+
+Code.  In  general, Aroundtown  already  complies  with  most  of  the  principles  and 
+
+continues to take steps to implement ESG best practices throughout the business. 
+
+The  Group’s  efforts  support  the  United  Nations  Sustainable  Development  Goals 
+
+(UN  SDGs),  particularly  those  relating  to  Peace,  Justice  and  Strong  Institutions 
+
+(#16) and Partnerships for the Goals (#17).
+
+The  Group  is  a  founding  member  of  the  United  Nations  Global  Compact  (UNGC) 
+
+The Board of Directors is supported by five committees of the Board, these being 
+
+the ESG, Audit, Risk, Remuneration and Nomination Committees. Additional support 
+
+is  provided  by  the  Advisory  Board.  The  Board  of  Directors  is  also  provided  with 
+
+regular training on regulatory and legal updates, sector-specific and capital markets 
+
+subjects and ESG matters. 
+
+Annual General Meeting
+
+Network Germany, one of the largest corporate sustainability initiatives, signaling the 
+
+The next Annual General Meeting (AGM) of the shareholders is intended to take 
+
+Group’s commitment to strong corporate governance through adherence to the UNGC 
+
+place on June 26th, 2024, in Luxembourg. 
+
+Ten Principles. In 2023 we submitted our first disclosure to the UN Global Compact.
+
+AROUNDTOWN SA   |    Board of Directors‘ Report102
+
+Members of the Board of Directors
+
+The composition of our highest governance body is summarized in table 18.
+
+Name
+
+Position
+
+Mr Frank Roseen
+
+Executive Director
+
+Ms Jelena Afxentiou
+
+Executive Director
+
+Mr Ran Laufer
+
+Non-Executive Director
+
+Mr Markus Leininger
+
+Independent Director
+
+Ms Simone Runge-Brandner
+
+Independent Director
+
+Mr Markus Kreuter
+
+Independent Director
+
+Mr Daniel Malkin
+
+Independent Director
+
+The Annual General Meeting in 2023 approved the renewal of the mandates of all 
+
+the directors until the Annual General Meeting 2027 and newly appointed Daniel 
+
+Malkin to the Board of Directors until the Annual General Meeting 2027.
+
+Gov-Board
+
+Total  
+numbers 
+and  
+percentages
+
+In 2023, the Board of Directors conducted 31 meetings. The below table shows the 
+
+attendance of board members, as well as the average attendance rate:
+
+Name
+
+Meetings attended
+
+Percentage attended
+
+Mr Frank Roseen
+
+Ms Jelena Afxentiou
+
+Mr Ran Laufer
+
+Mr Markus Leininger
+
+Ms Simone Runge-Brandner
+
+Mr Markus Kreuter
+
+Mr Daniel Malkin  
+(elected June 28th, 2023)
+
+Board average
+
+30/31
+
+29/31
+
+30/31
+
+28/31
+
+28/31
+
+30/31
+
+12 (/12)18 
+
+29/31
+
+97%
+
+94%
+
+97%
+
+90%
+
+90%
+
+97%
+
+100%
+
+95%
+
+18. 
+
+Since Mr. Daniel Malkin was elected in June, his attendance is assessed solely based on the meetings held after his 
+appointment to the Board by the Annual General Meeting. In calculating averages, his attendance is recorded as 100%, 
+reflecting his full participation in all meetings following his appointment.
+
+TABLE 18
+
+Composition of the Highest Governance Body
+
+EPRA 
+Code
+
+Units of 
+Measure
+
+Metric
+
+2023
+
+2022
+
+Number
+
+Percentage
+
+Number
+
+Percentage
+
+Executive 
+board members
+
+Independent 
+board members
+
+Non-executive 
+board members
+
+Independent / 
+non-executive 
+board members 
+with competen-
+cies relating to 
+environmental 
+and social 
+topics
+
+Average tenure 
+(years) on 
+the Board of 
+Directors 
+
+2
+
+4 
+
+1
+
+29%
+
+ 57%
+
+14%
+
+ 5
+
+100%
+
+2
+
+3
+
+1
+
+4
+
+33%
+
+ 50%
+
+17%
+
+100% 
+
+ 6.2
+
+N/A
+
+5.2 
+
+N/A
+
+Senior and Key Management
+
+Name
+
+Position
+
+Mr Barak Bar-Hen
+
+Co-CEO and COO
+
+My Eyal Ben David
+
+CFO
+
+Mr Oschrie Massatschi
+
+CCMO (Chief Capital Markets Officer)
+
+AROUNDTOWN SA   |    Board of Directors‘ Report103
+
+Advisory Board
+
+ESG Committee and ESG Management
+
+The Board of Directors established an Advisory Board to provide expert advice 
+
+The  Group’s  governance  incorporates  consideration  of  sustainability  issues 
+
+and assistance to the Board of Directors. The Board of Directors decides on the 
+
+at  both  the  Board  of  Directors  and  management  levels.  The  operational  ESG 
+
+composition, tasks and term of the Advisory Board as well as the appointment 
+
+strategy has been established and is managed by the Board of Directors, which 
+
+and dismissal of its members. The Advisory Board has no statutory powers under 
+
+has  ultimate  oversight  of  the  overall  ESG  performance. The  Board  of  Directors 
+
+the  Luxembourg  law  or  the  articles  of  association  with  the  Group,  but  applies 
+
+established an ESG Committee to supervise the company´s ESG processes and to 
+
+rules  adopted  by  the  Board  of  Directors.  The  Advisory  Board  is  an  important 
+
+review and assess the Group’s contribution to sustainable development. 
+
+source of guidance for the Board of Directors when making strategic decisions. 
+
+Name
+
+Position
+
+Dr Gerhard Cromme
+
+Chairman of the Advisory Board
+
+Mr Yakir Gabay
+
+Advisory Board Deputy Chairman 
+
+Mr Claudio Jarczyk
+
+Advisory Board Member
+
+Mr David Maimon
+
+Advisory Board Member
+
+Audit Committee
+
+The  Board  of  Directors  has  established  an  Audit  Committee  and  decides  on  the 
+
+composition, tasks and term of the Audit Committee as well as the appointment and 
+
+dismissal  of  its  members.  The  responsibilities  of  the  Audit  Committee  relate  to  the 
+
+integrity of the financial statements, including reporting to the Board of Directors on 
+
+its activities and the adequacy of internal systems controlling the financial reporting 
+
+processes  and  monitoring  the  accounting  processes,  including  reviewing  accounting 
+
+policies and updating them regularly. 
+
+The ESG Committee is chaired by Mr. Markus Leininger, an independent member 
+
+of the Board of Directors, and includes as voting members independent director 
+
+Mr. Markus Kreuter and executive director Mr. Frank Roseen, as well as advisory 
+
+members including the Group’s Head of the Sustainability Department, Head of 
+
+the  Energy  Department  and  Head  of  Human  Resources  Department  as  well  as 
+
+the Chief Operating Officer of a key Group company. The ESG Committee oversees 
+
+strategic guidance on ESG topics and is responsible for reviewing and assessing 
+
+Aroundtown’s responsible business strategy, policies and practices with respect 
+
+to ESG. The Committee meets at least quarterly, with additional meetings called 
+
+as required, and sets the direction for the work of the Sustainability Department. 
+
+The  Sustainability  Department  acts  as  a  cross-departmental  interface,  working 
+
+across the Group to implement and monitor sustainability programs and initiatives 
+
+at an operational level. It is led by the Head of Sustainability and reports directly 
+
+to the CEO and to the Chairperson of the Board of Directors. The Department also 
+
+prepares the Group’s materiality analysis and ESG reporting, as well as responds to 
+
+enquiries by investors and rating agencies on ESG topics. It collaborates closely with 
+
+the Energy Department, which applies its engineering expertise to implement the 
+
+technical elements of our sustainability strategy. There are constant exchanges of 
+
+information between departments around ESG-related aspects. 
+
+The  Audit  Committee  recommends  to  the  Board  of  Directors  the  appointment  and 
+
+replacement of the approved independent auditor and provides guidance to the Board 
+
+Risk Committee and Chief Risk Officer
+
+of  Directors  on  the  auditing  of  the  annual  financial  statements  of  the  Group  and,  in 
+
+The  Board  of  Directors  has  established  a  Risk  Committee  tasked  with  assisting 
+
+particular,  shall  monitor  the  independence  of  the  approved  independent  auditor,  the 
+
+and  providing  expert  advice  to  the  Board  of  Directors  in  fulfilling  its  oversight 
+
+additional services rendered by such auditor, the issuing of the audit mandate to the 
+
+responsibilities,  relating  to  the  different  types  of  risks,  recommending  on  a  risk 
+
+auditor,  the  determination  of  auditing  focal  points  and  the  fee  agreement  with  the 
+
+management structure and its processes, as well as assessing and monitoring the 
+
+auditor. The Audit Committee consists of the independent directors: Mr. Markus Kreuter 
+
+effectiveness  of  the  risk  management  system. The  Risk  Committee  is  supported 
+
+(Chairperson), Mr. Markus Leininger, Ms. Simone Runge-Brandner, and Mr. Daniel Malkin. 
+
+by the Chief Risk Officer (CRO) who brings a systematic and disciplined approach 
+
+AROUNDTOWN SA   |    Board of Directors‘ Report104
+
+to evaluate and improve the risk management culture, capabilities and practices 
+
+and contract. A payment exceeding a certain set threshold amount requires an 
+
+integrated within the strategy-setting and execution. The CRO’s responsibilities are 
+
+additional approval as a condition for payment. 
+
+determined and monitored by the Risk Committee, whose oversight is established 
+
+pursuant  to  the  Rules  of  Procedure  of  the  Risk  Committee. The  Risk  Committee 
+
+provides  advice  on  actions  of  risk  management,  in  particular  by  reviewing  the 
+
+Group’s  risk  management  procedures  established  by  the  management  and 
+
+their  effectiveness  for  risk  detection,  assessment,  prioritization,  mitigation  and 
+
+monitoring, as well as its internal control system. The Board of Directors decides 
+
+on  the  composition,  tasks  and  terms  of  the  Risk  Committee  members  and  the 
+
+appointment and dismissal of its members, and of the CRO. Members of the Risk 
+
+Committee are Mr. Markus Kreuter (Chairperson), Mr. Markus Leininger, Ms. Simone 
+
+Runge Brandner, Mr. Daniel Malkin, Mr. Frank Roseen and Mr. Ran Laufer. 
+
+Internal Controls and Risk Management Systems
+
+The Group closely monitors and manages any potential risks and sets appropriate 
+
+measures  to  mitigate  the  occurrence  and/or  impact  of  any  possible  failure  to  an 
+
+acceptable level. The risk management supervision is led by the Risk Committee, which 
+
+reviews the risk management structure, organization, processes and coordinates risk-
+
+related training. The Group categorizes the risk management systems into two main 
+
+categories: internal risk mitigation and external risk mitigation. The internal controls 
+
+system and compliance of the Group is monitored by the Compliance Department.
+
+Internal Risk Mitigation
+
+Internal controls are constructed from five main elements: 
+
+ ● Risk management – set by the Risk Committee and guided by an ongoing analysis 
+of the organizational structure and by identifying potential weaknesses. Further, 
+
+the committee assesses control deficiencies impacting the risk management 
+
+framework in the organization, supported by CCO and CRO. 
+
+ ● Control discipline – based on the organizational structure and supported by 
+employee and management commitments. The discipline is erected on the 
+
+foundations of integrity and ethical values.
+
+ ● Control features – the Group sets physical controls, compliance checks and 
+verifications such as cross departmental checks. The Group puts strong emphasis 
+
+ ● Monitoring procedures – the Group monitors and tests unusual entries, mainly 
+through a detailed monthly Actual vs. Budget analysis and additional checks. 
+
+Strong and sustainable internal control system significantly reduces the probability 
+
+and materiality of errors. The management sees high importance in constantly 
+
+improving all measures, adjusting to market changes and organizational dynamics. 
+
+ ● ESG risk-related expenditures – the Group has included the identification of 
+potential financial liabilities and future expenditures linked to ESG risks in the 
+
+enterprise risk management. Potential future expenditures on ESG matters and 
+
+opportunities are included in the financial budget. 
+
+The Group has established procedures to protect the confidentiality and integrity 
+
+of management information and data across all business processes. Furthermore, 
+
+we implemented a wide range of guidelines and provisions, with the ratification 
+
+of  the  EU  General  Data  Protection  Regulation  (GDPR),  including  enhanced 
+
+mandatory awareness training on GDPR. The Group has implemented Standard 
+
+Operating Procedures (SOP) to ensure that all personal data stored and processed 
+
+in  the  course  of  the  Group’s  operations  is  safe  from  manipulation  and  misuse. 
+
+Additionally, the Group adopted an information security and privacy strategy in 
+
+order to maintain a high level of controls to help minimize the potential risks. 
+
+The diligence of the Group with regards to all compliance issues presents itself 
+
+in  the  level  of  zero  compliance-related  tolerance.  Both  our  Business  Partners 
+
+Code of Conduct and Employee Code of Conduct can be found on our website.  
+
+External Risk Mitigation 
+
+Through its ordinary course of business, the Group is exposed to various external 
+
+risks.  The  Risk  Committee  is  therefore  constantly  determining  whether  the 
+
+appropriate infrastructure, resources and systems are in place and are adequate to 
+
+maintain an acceptable level of risk. The potential risks and exposure are related, 
+
+inter  alia,  to  volatility  of  interest  rate  risk,  inflation  risk,  liquidity  risk,  credit  risk, 
+
+regulatory and legal risk, collection and tenant deficiencies, the need to unexpected 
+
+capital investments, property damage risk, physical climate risks, market downturn 
+
+risk and geopolitical risk. The Group sets direct, specific guidelines and boundaries 
+
+on separation of duties as approval and payment are completed by at least two 
+
+to mitigate and address each risk of failure or potential default, by hedging and/or 
+
+separate parties. Payment verification is cross checked and confirmed with budget 
+
+reducing it to an acceptable level of impact and/or occurrence. 
+
+AROUNDTOWN SA   |    Board of Directors‘ Report105
+
+For information regarding Aroundtown‘s risk management objectives and policies, 
+
+assesses potential risks allowing the Group to develop even further its mitigation 
+
+see pages 224-231 (Note 25.3 Risk management objectives and policies).
+
+strategy. This process will include department heads and team leaders. This new 
+
+ESG Risk Management
+
+approach will promote an enhanced risk management structure, ensuring amplified 
+
+understanding and cooperation across our stakeholders.
+
+The  assessment  of  physical  and  transitional  risks  linked  to  climate  change  are 
+
+primarily external. The Risk Committee commissions the CRO and the Sustainability 
+
+Nomination Committee
+
+Department  to  conduct  physical  risk  assessments  of  Aroundtown’s  portfolio  in 
+
+The Board of Directors established a Nomination Committee to identify suitable 
+
+Germany,  the  Netherlands  and  the  UK.  Other  departments,  including  insurance, 
+
+candidates  for  director  positions  and  to  examine  their  skills  and  characteristics. 
+
+energy and technical due diligence provide additional support and expertise where 
+
+The  Nomination  Committee  consists  of  the  Independent  Directors  Mr.  Markus 
+
+necessary. Under current procedures, the Group assesses climate-related risk at the 
+
+portfolio level; however, it is the Group’s long-term ambition to conduct an asset-
+
+level  analysis. The  Group’s  focus  is  to  prioritize  information  which  provides  the 
+
+most accurate image of regional and local climate risks, as well as opportunities 
+
+arising from the necessary transition.
+
+Climate-related  risks  are  taken  into  account  throughout  the  process  described 
+
+above.  A  comprehensive  risk  matrix  catalogue  for  each  risk  group  has  been 
+
+compiled for the Group, including physical and transitional climate-related risks. 
+
+Each  risk  is  rated  based  on  a  combination  of  impact  and  likelihood  resulting  in 
+
+four rating definitions: Inherent Risk, Target Residual Risk, Target Risk Reduction 
+
+Leininger, Mr. Markus Kreuter, Ms. Simone Runge-Brandner, and Mr. Daniel Malkin. 
+
+Remuneration Committee
+
+The  Board  of  Directors  established  a  Remuneration  Committee  to  determine 
+
+and  recommend  to  the  Board  the  Company’s  Remuneration  Policy  and  prepares 
+
+and  recommends  to  the  Board  remuneration  proposals  for  members  of  the 
+
+Board,  the  Executive  Directors  and  Senior  Management  including  evaluation  of 
+
+short-  and  long-term  performance-related  remuneration  to  senior  executives. 
+
+The  Remuneration  Committee  consists  of  the  Independent  Directors  Mr.  Markus 
+
+Leininger, Mr. Markus Kreuter, Ms. Simone Runge-Brandner, and Mr. Daniel Malkin.
+
+and Actual Residual Risk. 
+
+ESG-Linked Remuneration
+
+The ability to quantify climate related risks depends, inter alia, on the availability 
+
+The  Remuneration  Policy  is  recommended  to  the  Board  by  the  Remuneration 
+
+of data and methodologies. The Carbon Risk Real Estate Monitor (CRREM) tool is 
+
+Committee. It applies to the Company’s executive individuals and independent and 
+
+an emerging best practice for stranding risk assessment in the real estate sector 
+
+and  is  a  methodology  taken  into  consideration  by  the  Group. While  CRREM  was 
+
+found to be the most advanced tool for assessing alignment with Paris Agreement 
+
+targets, its current methodology poses challenges limiting its practical usability 
+
+for  landlords  to  focus  on  renovation  planning  to  address  energy  and  carbon 
+
+intensity  under  their  own  sphere  of  influence.  The  Group  has  thus  prioritized 
+
+applying stranding definitions based on EPCs and the EU’s climate commitments 
+
+embodied in the EPBD recast, which grants a better understanding of investment 
+
+actions  needed  and  the  expected  results  of  those  actions  specific  to  each  asset 
+
+class, both in terms of their sustainability and financial impacts.
+
+In  order  to  further  engage  stakeholders,  including  the  value  chain  and  workers 
+
+in  our value  chain,  the  Group  intends  to  develop  a  methodology  in  2024  which 
+
+non-executive  directors,  and  ties  Short-Term  and  Long-Term  Incentive  Programs 
+
+to  specific  ESG  targets,  such  as  the  annual  progress  towards  Scope  1  and  2 
+
+emissions  reductions,  the  annual  increase  of  the  proportion  of  buildings  with 
+
+green certifications, the Group’s ESG rating, and gender equality. In 2023, the Group 
+
+has committed to aligning the remuneration of its executive individuals with the 
+
+requirements of the Remuneration Policy and the changes will become effective as 
+
+of 2023 and 2024. 
+
+AROUNDTOWN SA   |    Board of Directors‘ Report106
+
+t
+r
+o
+p
+e
+R
+
+‘
+
+s
+r
+o
+t
+c
+e
+r
+i
+D
+f
+o
+d
+r
+a
+o
+B
+
+|
+
+A
+S
+N
+W
+O
+T
+D
+N
+U
+O
+R
+A
+
+ESG
+Governance Structure
+
+BOARD OF DIRECTORS
+
+Markus Leininger
+Independent Director
+Chairman of the ESG Committee
+
+Markus Kreuter
+Independent Director
+
+Frank Roseen
+Executive Director
+
+ESG Sponsors at Board level
+
+ESG Committee
+
+Markus Leininger, Frank Roseen, Markus Kreuter,
+Head of Sustainability, Head of Energy, 
+Chief Operating Officer, Head of HR
+
+ y Meets at least quarterly
+ y Strategic guidance on ESG
+ y Responsible for reviewing ESG strategy
+
+Sustainability
+Department 
+ y Cross-departmental interface
+ y Implements and monitors  
+sustainability programs
+
+Energy Department 
+ y Develops energy and
+
+carbon reduction strategy
+
+ y Implements and tracks energy
+
+projects and progress
+
+HR Department 
+Compliance Department 
+Operations & Construction Departments 
+
+Responsible for defining,  
+implementing and tracking  
+departments‘ ESG targets
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+107
+
+Shareholders’ Rights
+
+The Group respects the rights of all shareholders and ensures that they receive 
+
+equal  treatment.  All  shareholders  have  equal  voting  rights,  and  all  corporate 
+
+publications  are  transmitted  through  general  publication  channels  as  well  as 
+
+reporting dates as well as other important events. The financial calendar is published 
+
+before the beginning of a calendar year and is regularly updated. 
+
+The individual Aroundtown SA financial statements are published annually on the 
+
+same day as the Aroundtown SA consolidated report.
+
+on a specific section on its website. The shareholders of Aroundtown SA exercise 
+
+Information according to article 11 (2) of the Luxembourg Takeover Law
+
+their  voting  rights  at  the  AGM,  whereby  each  share  is  granted  one  vote.  The 
+
+voting  rights  attached  to  shares  held  by  TLG  Immobilien  AG  in  Aroundtown 
+
+SA  are  suspended.  The  suspension  of  the  voting  rights  also  applies  to  shares 
+
+held and/or acquired by Aroundtown SA, either directly or through subsidiaries, 
+
+pursuant to its previously announced 2021/2022 buy-back program. The AGM of 
+
+shareholders takes place at such place and time as specified in the notice of the 
+
+meeting. At the AGM, the Board of Directors presents, among others, the directors‘ 
+
+report as well as consolidated financial statements to the shareholders. The AGM 
+
+resolves, among others, on the financial statements of the Group, the appointment 
+
+of  the  approved  independent  auditor  of  the  Group  and  the  discharge  to  and 
+
+appointment  or  re-election  of  the  members  of  the  Board  of  Directors,  in  case 
+
+their mandate is about to expire. 
+
+Compliance with the Transparency Law
+
+Aroundtown  is  committed  to  adhere  to  best  practices  in  terms  of  corporate 
+
+The following disclosure is provided pursuant to article 11 of the Luxembourg law 
+
+of 19 May 2006 transposing Directive 2004/25/ EC of the European Parliament and 
+
+of the Council of 21 April 2004 on takeover bids, as amended (the “Takeover Law”): 
+
+a) With regard to article 11 (1) (a) and (c) of the Takeover Law (capital structure), 
+
+the relevant information is available on page 207 (Note 19. Total equity) of this 
+
+Consolidated  Annual  Report.  In  addition,  Aroundtown’s  shareholding  structure 
+
+showing each shareholder owning 5% or more of the Aroundtown’s share capital 
+
+is available on page 37 of this Consolidated Annual Report and on the Company’s 
+
+website,  where  the  shareholding  structure  is  updated  as  per  shareholder 
+
+notifications on a regular basis.
+
+b)  With  regard  to  article  11  (1)  (b)  of  the  Takeover  Law,  the  ordinary  shares 
+
+issued  by  Aroundtown  are  admitted  to  trading  on  the  regulated  market  of  the 
+
+Frankfurt Stock Exchange (Prime Standard) and are freely transferable according 
+
+to Aroundtown’s articles of association (the “Articles of Association”).
+
+governance  by  applying,  among  others,  rules  arising  from  the  Luxembourg  law 
+
+c) In accordance with the requirements of Article 11 (1) c of the Takeover Law, the 
+
+of  11  January  2008  on  transparency  requirements  for  issuers,  as  amended  (the 
+
+following significant shareholdings were reported to Aroundtown until December 
+
+‘Transparency Law’). 
+
+31, 2023:
+
+In  particular,  Aroundtown  continuously  monitors  the  compliance  with  the 
+
+disclosure requirements with respect to regulated information within the meaning 
+
+Shareholder name
+
+Amount of Shares 1)
+
+Percentage of voting 
+rights
+
+of article 1 (10) (the ‘Regulated Information’) of the Transparency Law and therefore 
+
+publishes, stores with the Luxembourg Stock Exchange as the officially appointed 
+
+mechanism  (OAM)  and  files  with  the  Commission  de  Suerveillance  du  Secteur 
+
+Financier (the ‘CSSF’) the Regulated Information on an ongoing basis. 
+
+Aroundtown SA and its 
+wholly owned affiliate
+
+Avisco Group PLC /
+Vergepoint Limited3)
+
+The quarterly, half-yearly and annual financial reports, investor presentations, press 
+
+TLG Immobilien AG
+
+183,936,137
+
+releases and ad-hoc notifications are available in the English language on our website. 
+
+In addition, Aroundtown provides on its website information about the organization, 
+
+its management and upcoming and past shareholder meetings such as its AGMs. The 
+
+Company‘s  website  further  provides  a  financial  calendar  announcing  the  financial 
+
+Stumpf Capital GmbH4)
+
+154,351,365
+
+1)   Total number of Aroundtown SA shares as of December 31, 2023: 1,537,025,609
+2)   Voting rights are suspended
+3)   Controlled by Yakir Gabay
+4)   Controlled by Georg Stumpf
+
+259,951,076
+
+16.91% 2)
+
+230,660,516
+
+15.01%
+
+11.97% 2)
+
+10.04%
+
+AROUNDTOWN SA   |    Board of Directors‘ Report108
+
+d)  With  regard  to  article  11  (1)  (d)  of  the  Takeover  Law,  each  ordinary  share  of 
+
+Association,  any  amendment  to  the  Articles  of  Association  made  by  the  general 
+
+Aroundtown  gives  right  to  one  vote  according  to  article  8.1  of  the  Articles  of 
+
+meeting  of  shareholders  shall  be  adopted  if  (i)  more  than  one  half  of  the  share 
+
+Association.  There  are  no  special  control  rights  attaching  to  the  shares.  The 
+
+capital is present or represented and (ii) a majority of at least two-thirds of the votes 
+
+voting  rights  attached  to  shares  held  by  TLG  Immobilien  AG  in  Aroundtown 
+
+validly cast are in favour of adopting the resolution. In case the first condition is not 
+
+are  suspended. The  suspension  of  the  voting  rights  applies  to  any  other  shares 
+
+reached, a second meeting may be convened, which may deliberate regardless of the 
+
+acquired  by  Aroundtown,  either  directly  or  through  subsidiaries,  pursuant  to  its 
+
+proportion of the share capital represented and at which resolutions are taken at a 
+
+previously announced 2021/2022 buy-back programme.
+
+majority of at least two-thirds of votes validly cast.
+
+e) With regard to article 11 (1) (e) of the Takeover Law, control rights related to the 
+
+issue of shares are directly exercised by the relevant employees. The key terms and 
+
+conditions  in  relation  to Aroundtown’s  incentive  share  plan  are  described  on  page 
+
+213 (Note 20. Share-based payment agreements) of this Consolidated Annual Report.
+
+i) With  regard  to  article  11  (1)  (i)  of  the Takeover  Law,  the  Board  of  Directors  is 
+
+endowed  with  wide-ranging  powers  to  exercise  all  administrative  tasks  in  the 
+
+interest  of  Aroundtown  including  the  establishment  of  an  Advisory  Board,  an 
+
+Audit Committee, a Risk Committee, a Remuneration Committee and a Nomination 
+
+f) With regard to article 11 (1) (f) of the Takeover Law, the Articles of Association 
+
+Committee.  Further  details  on  the  powers  of  the  Board  are  described  on  pages 
+
+impose no voting rights limitations. However, the sanction of suspension of voting 
+
+101-106 and 242 of this Consolidated Annual Report.
+
+rights automatically applies, subject to the Transparency Law to any shareholder 
+
+(or group of shareholders) who has (or have) crossed the thresholds set out in the 
+
+Transparency Law but have not notified Aroundtown accordingly. In this case, the 
+
+exercise of voting rights relating to the shares exceeding the fraction that should 
+
+have been notified is suspended. The suspension of the exercise of voting rights is 
+
+lifted the moment the shareholder makes the notification.
+
+Pursuant  to  article  7.2  of  the Articles  of Association,  the  Board  is  authorized  to 
+
+issue  shares  under  the  authorised  share  capital  as  detailed  on  page  207  (Note 
+
+19.1.1. Share capital) and page 213 (Note 20. Share-based payment agreements) 
+
+of  this  Consolidated  Annual  Report.  According  to  article  8.7  of  the  Articles  of 
+
+Association, Aroundtown may redeem its own shares to the extent and under the 
+
+terms permitted by law. The shareholders’ meeting held on 6 May 2020 authorised 
+
+g) With regard to article 11 (1) (g) of the Takeover Law, as of December 31, 2023, 
+
+the Board, with the option to delegate, to buy-back, either directly or through a 
+
+Aroundtown was not aware of any agreements between shareholders that would 
+
+subsidiary of Aroundtown, shares of Aroundtown for a period of five (5) years not 
+
+lead to a restriction on the transfer of shares or voting rights.
+
+h) With regard to article 11 (1) (h) of the Takeover Law, according to article 15.1 of 
+
+the Articles  of Association,  the  members  of  the  board  of  directors  of Aroundtown 
+
+(the “Board”) shall be elected by the shareholders at their annual general meeting 
+
+by  a  simple  majority  vote  of  the  shares  present  or  represented.  The  term  of  the 
+
+office of the members of the Board shall not exceed six years, but they are eligible 
+
+for  re-election.  Any  member  of  the  Board  may  be  removed  from  office  with  or 
+
+exceeding  20%  of  the  aggregate  nominal  amount  of Aroundtown’s  issued  share 
+
+capital. The annual general meeting of the shareholders of Aroundtown  held on 30 
+
+June 2021 approved to increase the maximum aggregate nominal amount of the 
+
+shares of Aroundtown which may be acquired under the buy-back programme by 
+
+10% of the aggregate nominal amount of the issued share capital of Aroundtown 
+
+from  time  to  time  and  an  ordinary  general  meeting  of  the  shareholders  of 
+
+Aroundtown held on 11 January 2022 further increased the maximum aggregate 
+
+without  specifying  a  reason  at  any  time.  In  the  event  of  a  vacancy  in  the  office 
+
+nominal  amount  of  the  shares  of  Aroundtown  which  may  be  acquired  under 
+
+of a member of the Board because of death, retirement or otherwise, this vacancy 
+
+Aroundtown’s  buy-back  programme  from  30%  to  50%  of  the  aggregate  nominal 
+
+may be filled out on a temporary basis until the next meeting of shareholders, by 
+
+amount of the issued share capital of Aroundtown from time to time. Aroundtown 
+
+observing the applicable legal prescriptions. Further details on the rules governing 
+
+concluded its previously announced share buyback program at the end of 2022. 
+
+the  appointment  and  replacement  of  a  member  of  the  Board  are  set  out  in  page 
+
+Further details on Aroundtown’s concluded share buyback program are described 
+
+101 of this Consolidated Annual Report. According to article 14 of the Articles of 
+
+on page 208 (Note 19.1.2. Treasury shares) of this consolidated annual report.
+
+AROUNDTOWN SA   |    Board of Directors‘ Report109
+
+j) With regard to article 11 (1) (j) of the Takeover Law, Aroundtown’s listed straight 
+
+bonds, perpetual notes and security issuances (listed on pages 207-210 and 214-
+
+218;  and  Note  19.1.1.,  Note  19.2.  and  Note  21.2.)  under  the  EMTN  programme 
+
+contain  change  of  control  provisions  that  provide  noteholders  with  the  right  to 
+
+require  Aroundtown  to  repurchase  their  notes  upon  a  change  of  control  of  the 
+
+issuer. Aroundtown’s ISDA master agreement securing derivate transactions with 
+
+regard to its listed debts contains a termination right if Aroundtown is financially 
+
+weaker after a takeover.
+
+k) With regard to article 11 (1) (k) of the Takeover Law, there are no agreements 
+
+between Aroundtown and members of the Board or employees according to which, 
+
+in the event of a take-over bid, Aroundtown may be held liable for compensation 
+
+arrangements if the employment relationship is terminated without good reason 
+
+or due to a takeover bid.
+
+apropolis SommerCamp
+
+AROUNDTOWN SA   |    Board of Directors‘ Report110
+
+FAIR BUSINESS AND COMPLIANCE
+
+Our  business  strategy  is  underpinned  by  our  fundamental  commitment  to 
+
+ethical  conduct,  robust  corporate  governance,  and  high  levels  of  transparency. 
+
+Safeguarding the Group from any reputational damage due to error or misconduct 
+
+is essential in maintaining the Group’s reputation. Therefore, enforcing responsible 
+
+behavior  guided  by  integrity  is  a  central  tool  for  the  management  in  terms  of 
+
+its  dealings.  For  this  reason,  the  compliance  and  risk  management  teams  are 
+
+structured accordingly and supplemented by internal review procedures, covering 
+
+all steps of real estate investment and management chain. In order to stipulate 
+
+ethical  behavior  throughout  its  operations,  Aroundtown  implemented  Code  of 
+
+Conducts  for  both  its  employment  contracts  and  business  partners  contracts 
+
+which include policies that prevent compliance violations and misconducts. These 
+
+policies  include  Anti-Corruption,  Diversity  and  Anti-Discrimination,  Anti-Bribery, 
+
+measures to prevent human right violations, Data Protection Declaration and User 
+
+Policy, as well as a Whistleblowing Policy. 
+
+This framework seeks to embed our principles of integrity, respect, performance, 
+
+accountability, and sustainability into all of our business activities. We ensure our 
+
+Board  of  Directors  and  senior  executives  hold  vast  experience  and  skillsets  in 
+
+relevant business areas in order to help maintain our high governance standards.
+
+Long-term Targets
+
+ ● Keep our level of fair business relationships with our customers and suppliers
+
+ ● Maintain zero tolerance towards compliance violations
+
+2024 Goals
+
+ ● Maintain high-level awareness and engagement with our Group policies
+
+ ● Review and implement actions to comply with new European regulations (e.g., 
+
+CSRD) during 2024
+
+To  ensure  our  high  ethical  standards  are  embedded  in  our  business,  we  have 
+
+developed  a  comprehensive  compliance  framework.  This  system  is  designed  to 
+
+adapt to increasingly complex legal frameworks, and to protect our business from 
+
+the risks associated with unethical conduct. The expectations and requirements of 
+
+this framework are clearly set out through our Group-level policies and standards. 
+
+Alignment with these standards is monitored by internal control mechanisms, and 
+
+in case of deviations we have a clear reporting and response process.  All Group-
+
+wide policies mentioned in this section are aligned with and approved by the Board 
+
+of  Directors.  This  ensures  and  justifies  the  clear  statement  of  Aroundtown’s  top 
+
+management that these policies are a crucial part of the Group and binding for each 
+
+and every one working for and with Aroundtown.   
+
+Our compliance and risk management teams are structured accordingly to ensure 
+
+responsible behavior guides us, and they are supplemented by internal monitoring 
+
+procedures, covering all steps of real estate investment and management. 
+
+Employee Code of Conduct
+
+At the heart of the internal policies for compliance is our Employee Code of Conduct. 
+
+This sets out the principles of our commitment to ethical behaviour and is a contractual 
+
+requirement for our staff at every level. The Employee Code of Conduct covers our 
+
+standards  on  topics  including  bribery,  corruption,  fair  competition  and  anti-trust, 
+
+conflict of interest, and discrimination. It is supplemented by topical guidelines and 
+
+specific policies, such as the Anti-Corruption Policy, the Global Information Security 
+
+Policy, the Diversity Policy, and the Anti-Discrimination Policy. Aroundtown is also a 
+
+signatory of the Charta der Vielfalt (German Diversity Charter). For more information 
+
+on our anti-discrimination efforts, please refer to the subsection Equal Treatment 
+
+and Opportunities for All. Another crucial subject in our compliance program is the 
+
+management of ethical standards in our supply chain as described in the section 
+
+ ● Adherence to the Group risk management strategy by performing compliance risk 
+
+Workers in the Value Chain.  
+
+assessment
+
+ ● Ensure the voluntary alignment of our Group policies to the new Supply Chain 
+
+Act in Germany (LkSG) 
+
+In its Employee Code of Conduct, the Group has also instruments in-place to prevent 
+
+and fight violations of law, such as human rights violation, corruption, and bribery. 
+
+The employees have reporting channels in case of a possible violation where the 
+
+measures  are  dealt  with  in  confidence  to  the  full  extent  permitted  by  statutory 
+
+AROUNDTOWN SA   |    Board of Directors‘ Report111
+
+law.  Reported  issues  are  investigated  by  the  Compliance  Department.  Besides 
+
+continued  alignment  to  our  high  ethical  standards  requires  a  frictionless 
+
+the  reporting  channels,  there  is  also  a Whistleblowing  Platform  conducted  by  an 
+
+method  for  employees’  concerns  to  be  registered,  and  this  is  the  spirit  of  our 
+
+external  service  provider,  enabling  full  anonymity.  If  any  violation  is  to  be  found, 
+
+“Speak  Up”  approach.  Through  it,  employees  and  external  service  providers  are 
+
+certain  disciplinary  measures  are  taken  if  preconditions  in  that  respect  are  met. 
+
+encouraged  to  voice  any  concerns  they  may  have  about  breaches  of  the  law  or 
+
+Please refer to the subsection Our Intranet Compliance Site below. 
+
+Aroundtown‘s  Code  of  Conduct  includes  the  prohibition  of  insider  dealing. 
+
+Aroundtown is subject to several obligations under Regulation (EU) No. 596/2014 
+
+(Market Abuse  Regulation  (MAR)),  as  amended. Aroundtown  notifies  (including  by 
+
+way of training sessions) pursuant to applicable provisions under MAR, all persons 
+
+discharging  managerial  responsibilities  of  their  obligations  in  the  context  of 
+
+managers’  transactions.  Memorandums,  notifications,  training  and  information  are 
+
+distributed regularly.
+
+Outstanding  leadership  is  crucial  in  this  regard.  Our  managers  are  expected  to 
+
+be  examples  of  our  core values  of  mutual  respect  and  clear  communication. This 
+
+standard of behavior usually shows positive effects on our commercial success, as 
+
+contradiction of our Code of Conduct without any fear of repercussions, as dictated 
+
+by  the  Whistleblower  Protection Act.  Issues  can  also  be  reported  in  person,  but 
+
+to  guarantee  total  anonymity  when  preferred,  we  work  with  a  third-party  web 
+
+application  to  allow  stakeholders  to  register  any  suspected  misconduct  in  good 
+
+faith to ensure whistleblowing protection in line with our Whistleblowing Policy. 
+
+Our  intranet  page  ensures  availability  and  awareness  of  this  platform  for  our 
+
+employees and the whistleblowing system can also be accessed via our website by 
+
+external stakeholders. This whistleblowing process is key to the effectiveness of the 
+
+compliance framework. Should a report be submitted through our whistleblowing 
+
+platform,  an  investigation  is  launched  by  a  responsible  user  of  the  system,  or  a 
+
+member of Group Compliance to ensure objectivity of the investigation.  
+
+well as on staff performance. We maintain a horizontal organizational structure, with 
+
+Additionally, the intranet platform provides links to our Contemporary Real Estate 
+
+a widespread culture of transparent and regular feedback between employees and 
+
+Academy (CREA), our e-learning tool providing training on anti-corruption, bribery, 
+
+managers.  Furthermore,  our  Employee  Code  of  Conduct  establishes  expectations 
+
+and data protection topics. This continual training and communication ensure that 
+
+for  all  staff  to  abide  by  the  values  of  openness,  trust,  teamwork,  and  acceptance 
+
+understanding of our standards is always being reinforced. Compliance trainings 
+
+of diversity in all their dealings with one another and with our tenants and other 
+
+through  CREA  are  included  in  our Welcome  Days  for  new  employees,  as  well  as 
+
+stakeholders. Adherence to the Code of Conduct is a mandatory requirement of all 
+
+training on the use of our whistleblowing platform. Furthermore, employees are 
+
+employee contracts.
+
+Our Intranet Compliance Site
+
+Since  2022,  we  have  a  compliance  site  on  our  Group  intranet,  where  the  above 
+
+policies  are  available  to  all  our  employees.  This  is  a  major  step  towards  our 
+
+overarching goal of unifying our internal policies across all our operating regions. 
+
+Through the intranet platform, we can now also ensure that policies are available 
+
+in a standard form to the whole organization, and that updates to these policies 
+
+are rolled out immediately.
+
+required to undergo annual refresher training on these policies, to reaffirm their 
+
+commitment to these standards.
+
+Compliance Monitoring
+
+In addition to unifying our compliance approach across our operating locations, we 
+
+want awareness and consideration of compliance issues to be straightforward and 
+
+commonplace for our employees. To this end, in 2022 we introduced compliance 
+
+ambassadors  in  our  regional  offices,  to  serve  as  first  contact  points  for  staff  on 
+
+compliance subjects. These have currently been embedded in our UK and Cyprus 
+
+Our intranet page and our publicly available website also support the measures 
+
+offices, as well as some regional offices in Germany. In order to enable an open 
+
+that ensure ongoing alignment with our compliance standards. Firstly, it contains 
+
+culture around compliance, these ambassadors are not officers of the Compliance 
+
+a  dedicated  page  on  our  breach  reporting  and  whistleblowing  processes  and 
+
+Department, but are empowered to serve as sources of information and guidance 
+
+provides  access  to  our  whistleblowing  platform.  We  are  aware  that  ensuring 
+
+for staff across the organization. In 2023, we intensified our collaboration with our 
+
+AROUNDTOWN SA   |    Board of Directors‘ Report112
+
+local compliance ambassadors, which we aim to continue also in 2024.
+
+our employees view our company, and if, and how, we need to make improvements. 
+
+We monitor the effectiveness of our compliance framework by tracking the number 
+
+of compliance violations. We continue to carefully analyze the evolving market and 
+
+regulatory  environment  in  conjunction  with  further  appropriate  development  of 
+
+internal structures. This process considers a range of compliance issues including 
+
+but not limited to corruption or bribery, conflicts of interest, insider trading, and 
+
+money laundering. In 2023, zero relevant compliance cases were reported within 
+
+the Group.
+
+For  the  purpose  of  this  report,  Aroundtown  considers  a  compliance  case  to  be 
+
+relevant  either  when  it  has  the  potential  to  materially  harm  the  reputation  of 
+
+Aroundtown, will have a significant impact on an investor’s decision to invest in AT 
+
+or if it may lead to a significant financial damage (of > €500 thousand). Any cases 
+
+The  feedback  we  received  during  this  exercise  is  reflective  of  our  employee 
+
+engagement programs and demonstrates the values we uphold at the Aroundtown 
+
+Group. In the upcoming year, we aim to maintain this positive corporate culture.
+
+Here’s what they had to say:
+
+flexible
+
+supportive
+
+everchanging
+
+communicative
+
+encouraging
+
+reported  to  the  Compliance  Department  in  2023  were  treated  with  the  highest 
+
+innovative
+
+attention and considered carefully based on the provided definition of relevance. 
+
+It was determined that none of the cases could be considered relevant.
+
+Transparency and Reporting
+
+We are committed to transparently reporting on our ESG progress, as such this is 
+
+the 7th year in a row for which we have been awarded the Gold Award for EPRA BPR 
+
+and the 6th year in a row for EPRA sBPR, showcasing our continual commitment to 
+
+the highest standards of transparency and reporting. We also received recognition 
+
+by Sustainalytics, a sustainability rating agency, which ranked the Group as “Low 
+
+Risk,” placed in the top 6th percentile of the global universe of rated companies.19 
+
+Our S&P Global Corporate Sustainability Assessment (CSA) was ranked in the top 
+
+6th percentile of real estate companies globally, leading the Group to be placed in 
+
+hands-on
+
+helpful
+
+dynamic
+
+improvement-oriented
+
+fair
+
+creative
+
+open
+
+adaptive
+
+family-like
+
+empowering
+
+Political Engagement and Lobbying
+
+the Dow Jones Sustainability Index (DJSI) Europe for the second consecutive year. 
+
+Aroundtown does not engage in direct lobbying activities or make donations to 
+
+Corporate Culture
+
+In 2023, we asked some of our employees who sit within key ESG-related roles to 
+
+tell us how they felt about our corporate culture, as we wanted to understand how 
+
+19. 
+
+Copyright © 2024 Morningstar Sustainalytics. All rights reserved. This report contains information developed by 
+
+Sustainalytics (www.sustainalytics.com). Such information and data are proprietary of Sustainalytics and/or its third party 
+
+suppliers (Third Party Data) and are provided for informational purposes only. They do not constitute an endorsement 
+
+of any product or project, nor an investment advice and are not warranted to be complete, timely, accurate or suitable 
+
+for a particular purpose. Their use is subject to conditions available at https://www.sustainalytics.com/legal-disclaimers
+
+political parties. However, as a member of bodies such as the German Sustainable 
+
+Building Council (DGNB), the German Property Federation (ZIA) and the European 
+
+Public  Real  Estate Association  (EPRA),  we  participate  in  consultations  on  public 
+
+policy.  For  example,  we  have  been  involved  through  EPRA  in  consultation  with 
+
+the EU on the real estate applications of their Sustainable Finance and Taxonomy 
+
+Regulations.  However,  we  do  not  make  any  political  contributions  and  have 
+
+measures in place when working with former politicians to check that there are no 
+
+connections remaining with their previous political activities. 
+
+AROUNDTOWN SA   |    Board of Directors‘ ReportManagement of Supplier Relationships
+
+Corruption and Bribery
+
+Prior  to  contracting  our  Business  Partners,  we  conduct  checks  regarding  their 
+
+Our Anti-Corruption Policy details the procedures and processes in place to prevent, 
+
+reputation,  ability  to  provide  the  proposed  work  and  their  compliance  with 
+
+detect  and  address  allegations  or  incidents  of  corruption  or  bribery,  including 
+
+the  respective  local  laws.  We  recognize  the  significance  of  our  suppliers  and 
+
+varying levels of contracts for different supplier types involving checks of company 
+
+the  importance  of  the  type  of  relationships  we  build  with  them,  as  well  as  the 
+
+structure  and  finance  functions.  The  Policy,  alongside  our  Code  of  Conduct,  is 
+
+influence we can have on them in terms of ESG performance. We therefore have 
+
+available  to  all  employees  to  ensure  they  understand  their  responsibilities  in 
+
+developed  a  Business  Partner  Code  of  Conduct,  which  details  our  expectations 
+
+preventing and reporting incidents of corruption or bribery. While the policy is not 
+
+and requirements from our suppliers in order to extend our reach of responsible 
+
+yet explicitly aligned with the United Nations Convention on Corruption, we will 
+
+and  sustainable  practices.  The  signing  of  Aroundtown’s  Business  Partner  Code 
+
+be updating it in 2024, and will consider this convention. 
+
+113
+
+During 2023, we were not subject to any convictions or fines resulting from the 
+
+violation of anti-corruption or anti-bribery laws. We also did not experience any 
+
+incidents of corruption or bribery, or any public legal cases in this regard.
+
+of  Conduct  is  a  binding  requirement  for  our  business  partners  with  an  annual 
+
+contractual volume above €5,000, with the exception of large corporations which 
+
+have their own code of conduct – provided it is in line with our standards – and 
+
+with  the  exception  of  organizations  that  operate  in  heavily-regulated  sectors. 
+
+With the signing of our Business Partner Code of Conduct, these business partners 
+
+demonstrate their commitment to adhering to the Code of Conduct.  Furthermore, 
+
+in 2023 we enhanced this process by developing a Business Partner Questionnaire 
+
+which assesses compliance with our Code of Conduct.  
+
+To  fulfill  our  commitment  and  effectively  manage  the  risks  associated  with  our 
+
+business  partners,  we  conduct  regular  onsite  checks,  particularly  focusing  on 
+
+health and safety. Regarding payment terms, although we do not have a specific 
+
+policy in place that addresses cases of late payments to our suppliers, we do define 
+
+the payment terms at the beginning of our contracts to ensure we are on the same 
+
+page with suppliers, and we do adhere to this agreement. 
+
+Taking  into  account  adverse  impacts  on  human  rights  identified  in  the  Group’s 
+
+materiality assessment and risk management process, which involves consideration 
+
+of the risks associated with our suppliers according to their economic sectors and 
+
+countries of operation, Aroundtown has identified and addressed potential risks in 
+
+the areas of construction and refurbishment/maintenance of the business through 
+
+a number of measures and processes. For instance, Aroundtown’s critical suppliers 
+
+(those with a contract volume of > €250 thousand per annum) are required to sign 
+
+the  Group’s  HR  questionnaire  and  during  project  implementation,  site  visits  are 
+
+conducted by the Construction or Operation Departments on a quarterly basis to 
+
+ensure compliance with our ESG Strategy.  
+
+AROUNDTOWN SA   |    Board of Directors‘ Report114
+
+DATA PROTECTION
+
+We  have  a  deep  commitment  to  protecting  the  privacy  of  our  stakeholders’ 
+
+ ● Availability: designing systems to minimize downtime
+
+data,  which  goes  beyond  what  is  required  of  us  by  regulation.  We  believe  data 
+
+protection is a key aspect sitting within our governance responsibilities, and every 
+
+organization should have strong data protection governance in place. The volume 
+
+of data handled in our business relationships increases every year, and we take the 
+
+trust placed in us to protect the confidentiality of this data seriously.
+
+Long-term Targets
+
+ ● Identify risks proactively, to detect and eliminate weaknesses before they can 
+
+become threats
+
+ ● Embed a culture of awareness and vigilance throughout our staff, through 
+
+consistent and regular training 
+
+ ● Pursue continual improvement of the security of our digital systems
+
+2024 Goals
+
+ ● Pass our recertification audits for ISO 27001
+
+ ● Introduce a new “on the job” learning format aimed at making information security 
+more accessible by e.g., rolling out awareness campaigns across our offices  
+
+The development of our Information Security and Privacy Strategy is continual, and 
+
+is spearheaded by our in-house cybersecurity leads, who sit in on the board’s Risk 
+
+Committee  meetings  to  reflect  data  security  considerations  in  our  top-level  risk 
+
+management processes. Our ISO 27001 certification for our Information Security 
+
+Management  System  (ISMS)  at  our  headquarters  in  Berlin  was  maintained  for  a 
+
+third consecutive year in 2023. The scope of the certification applies to our head 
+
+ ● Security: securing business information pertaining to Group operations
+
+ ● PII: enforcing the security and confidentiality of processed personal information
+
+ ● Regulations: satisfying regulatory (such as GDPR) and other information security 
+
+requirements
+
+ ● Awareness: training employees on how to identify threats and act according to 
+
+Group guidelines
+
+ ● Resilience: protecting our systems and networks as well as the data contained 
+
+therein from malicious activities
+
+ ● Information Assets: ensuring that all networks, systems and applications comply 
+
+with confidentiality, integrity and availability
+
+As  part  of  our  proactive  approach  to  risk  management,  we  have  conducted  28 
+
+internal  reviews  at  our  office  branches  (local  and  international)  over  2022  and 
+
+2023, and further reviews are already planned for 2024. These were designed to 
+
+compare the effectiveness of measures at these offices to the implementation at 
+
+our  operational  HQ,  to  ensure  that  the  application  of  our  procedures  is  unified 
+
+across our business locations. The results demonstrated good levels of compliance 
+
+across  the  organization,  and  opportunities  to  further  improve  practice  at  these 
+
+sites were identified. Our goal is to continue to conduct more audits, so we can 
+
+pinpoint potential weaknesses before they become threats.
+
+In  2023,  as  planned,  we  restarted  our  in-person  welcome  days,  including  data 
+
+protection as a key part of the agenda. We also conducted extensive technical crisis 
+
+office, while the scope of the implementation applies to all local and international 
+
+penetration  tests  alongside  risk  assessments. To  further  strengthen  our  security 
+
+offices  where  all  relevant  policies  and  procedures  apply  in  the  same  way.  For 
+
+posture, an extensive Data Loss Prevention Strategy was kicked-off in 2023, which 
+
+operational reasons, all digital information flows through Berlin, making this the 
+
+will continuously roll out over the course of 2024. 
+
+most material location to focus our certification effects.
+
+Also,  this year,  a  core  member  of  our  data  protection  team  was  invited  to  speak  at 
+
+The core principles of our Information Security Management System are:
+
+a  Federal  Office  for  Information  Security  (BSI)  event,  explaining  our  approach  to 
+
+ ● Confidentiality: encryption wherever data is stored or accessed
+
+ ● Integrity: establishing procedures to prohibit unauthorized personnel to alter 
+
+cybersecurity  and  its  successes.  BSI  is  a  German  government  agency  addressing 
+
+cybersecurity, so this invitation demonstrated the success and strength of our approach. 
+
+information
+
+One key channel of risk to our systems and networks identified is mobile devices. 
+
+AROUNDTOWN SA   |    Board of Directors‘ Report115
+
+Graffiti artistic intervention in shopping center. Source: Frameless-studio UG – Artist Tape_Fabifa.
+
+In light of the shift in recent years to remote working spurred by the COVID-19 
+
+pandemic, we have introduced new controls to ensure that all external connections 
+
+are secure. Through a Privileged Access Management (PAM) System, we have added 
+
+a  supplementary  security  layer  for  external  IT  service  providers  which  enforces 
+
+MFA (multi-factor-authentication), session recording, least privileges and requires 
+
+approval before each session. For our external business service providers, we have 
+
+implemented a tool which checks the compliance of the operating systems that 
+
+connect to ensure that they are well protected with a recent operating system, a 
+
+malware solution and encryption capabilities. External service providers can only 
+
+connect if all these standards are fulfilled. 
+
+To ensure adequate security in our processes for saving and sharing information, all 
+
+documents are labelled with an information security classification, from Public to 
+
+Restricted, which requires password protection for the document, where applicable. 
+
+To embed our data protection system across the Group, we place great importance 
+
+on training and awareness for our staff, with all personnel being required to sign 
+
+a  company  statement  of  their  commitment  to  data  protection.  Furthermore,  all 
+
+our  employees  are  required  to  complete  video-based  training  modules  on  data 
+
+protection, which are regularly developed to keep the training provided up to date. 
+
+In 2022, we developed and filmed new awareness videos starring our employees 
+
+to  make  the  training  more  relatable  and  understandable,  and  we  implemented 
+
+a  photo-based  project  portraying  colleagues  in  fun  poses  edited  to  be  used  as 
+
+“landing pages” for phishing campaigns. In 2024, we intend to continue creating 
+
+highly personalized awareness campaigns covering further topics. 
+
+Beyond initial training on our data protection procedures, we emphasize continued 
+
+learning  and  awareness  efforts.  Furthermore,  Aroundtown’s  Standard  Operating 
+
+Procedures (SOPs) set out expected courses of action for day-to-day activities, such as 
+
+saving and storing information or handling requests for data. Permanent employees 
+
+must  complete  mandatory  refresher  training  every  18  months  to  reinforce  their 
+
+knowledge of these procedures and awareness of data protection risks.
+
+Furthermore, we monitor potential security incidents and data protection breaches 
+
+as  an  indicator  of  the  effectiveness  of  our  operational  procedures.  In  2023,  no 
+
+such confirmed breaches or incidents were reported. In the event of any confirmed 
+
+incident,  a  response  team  is  formed  to  immediately  investigate  the  matter  and 
+
+recommend remedial actions to prevent a similar occurrence. 
+
+AROUNDTOWN SA   |    Board of Directors‘ Report116
+
+EPRA sBPR Data Preparation
+
+As members of the European Public Real Estate Association (EPRA), we choose to 
+report on our ESG impacts in accordance with the 3rd edition (2017) of the EPRA 
+Sustainability Best Practice Recommendations (sBPR). In 2023, we received the EPRA 
+sBPR  Gold  award  for  our  disclosure  for  the  seventh  time  consecutively. This year, 
+in  preparation  for  the  first  compliance  window  of  the  CSRD,  we  have  reported  in 
+alignment where possible with ESRS disclosure requirements according to our DMA.
+
+Organizational Boundaries
+
+The  information  and  data  in  this  report  covers  the  operations  of  Aroundtown 
+SA,  spanning  our  direct  employees  and  commercial  portfolio. As  of  31  December 
+2023,  our  Group  portfolio  (including  Grand  City  Properties  S.A.)  held  €25  billion 
+of  investment  property  comprising  offices  (40%);  residential  (33%);  hotels  (21%); 
+logistics/other and retail (6%). 
+
+Information on our residential portfolio, which is owned by Grand City Properties S.A. 
+(“GCP”) in which we hold a 63% stake (excluding the shares GCP holds in treasury), 
+has been consolidated and the data is included in the scope of this report. However, 
+GCP’s’ performance is also reported separately, and this information is published on 
+the sustainability section of GCP’s website.
+
+Landlord and Tenant Boundaries
+
+We have followed the methodology followed in last year’s report for allocating 
+energy  consumption  between  landlord-controlled  areas  and  tenant-controlled 
+areas. In our 2019 baseline, we use a common area/total area ratio to apportion 
+shared-service  heating  consumption  between  landlord  and  tenant  spaces, 
+based on the floor area distribution found with the property types classification 
+appendix  (3a)  of  the  GRESB  Real  Estate  Assessment  reference  guide12.  Thus, 
+the  whole  building  consumption  is  attributed  to  landlord  or  tenant  control  in 
+proportion to the ratio of shared spaces to tenant areas expected for the property. 
+Correspondingly, emissions from this heating are attributed to Scope 1 and 2 or 
+to Scope 3 in the same proportion. For electricity, the consumption for tenant-
+controlled  areas  is  estimated  based  on  industry  standard  energy  benchmarks, 
+
+namely those of CIBSE. At present, we collect and/or estimate Scope 3 emissions 
+data relating to tenant energy consumption. We look to expand this emissions 
+data boundary in future years.
+
+Therefore, the energy consumption and the corresponding CO2 emissions will now 
+represent  the  entire  building  area  i.e.,  of  both  landlord  and  tenant-controlled 
+area. We recognize that under an operational control approach, the allocation of 
+CO2 emissions between Scope 1 or 2 and Scope 3 is dependent on the metering 
+and sub-metering arrangement in place between tenants and landlords. However, 
+to  create  an  accurate  representation  of  the  entire  building,  we  have  classified 
+indirect  emissions  by  area  apportioned  between  landlord  and  tenant  spaces,  as 
+described in the methods above.
+
+Coverage
+
+Absolute and like-for-like portfolio environmental data relates to the assets in the 
+operational  control  portfolio,  which  is  a  subset  of  the  Organizational  Boundaries 
+discussed above, defined as assets the company directly manages building operations 
+such as choice of energy provider. The like-for-like subset contains all the properties 
+for  which  we  received  environmental  reporting  data  for  the  full  two-year  period 
+from January 1st, 2022 to December 31st, 2023.
+
+Actual environmental performance data is only reported on assets for which we have 
+operational control and for which we can collect utilities data. On an absolute basis, 
+this included a net lettable area of 6,337,823 m² out of a total operational control 
+portfolio covering a net lettable area of 7,265,365 m² (excluding assets held for sale 
+and properties under development) at the end of December 31st, 2023. A breakdown of 
+the portfolio net lettable area based on asset types are as follows: office – 2,770,258 
+m²,  retail –  183,760  m²,  others  including  logistics –  686,791  m².  During  2023,  we 
+continued to improve the quality of our environmental data collection and are now 
+able to report like-for-like data from approximately 68% of our total managed assets 
+portfolio.
+
+Further information relating to maximum coverage on an absolute and like-for-like 
+basis per utility type is provided within our data tables.
+
+12. 
+
+2023 Real Estate Standard and Reference Guide, https://documents.gresb.com/generated_files/real_estate/2023/real_estate/reference_guide/complete.html#property_types_classification 
+
+AROUNDTOWN SA   |    Board of Directors‘ Report117
+
+Data relating to our employees covers all direct employees employed by Aroundtown 
+in  Germany  (who  represent  80%  of  our  European  workforce),  including  part  time 
+and  temporary  workers,  as  well  as  our  international  employees.  Following  the 
+consolidation  with  GCP  in  2021,  our  employee  data  also  includes  GCP  data,  but 
+excludes contractors and those not directly employed by us.
+
+Voluntary  green  building  certifications  (Cert-Tot)  are  discussed  in  absolute  terms. 
+100% of the Dutch office portfolio is certified, 36% of the total office portfolio is 
+certified  and  21%  of  the  commercial  portfolio  is  certified  with  BREEAM.  In  our 
+German portfolio, with the first office assets certified, we expect gradual progress in 
+the coming periods. We are also analyzing certification options in our hotel portfolio.
+
+Reporting Period
+
+All  data  relates  to  our  financial year,  which  coincides  with  the  calendar year,  and 
+consequently runs from January 1st to December 31st of the year under review.
+
+Estimation of Landlord-Obtained Utility Consumption
+
+1.   Measured  data  for  the  reporting  year  were  not  fully  available  in  time  for 
+publication. In instances where the available heating data is not representative, 
+estimations were calculated based on known consumption from other periods, 
+following  the  ratio-based  heating-degree-days  normalization  method.  In  the 
+case  of  electricity,  the  consumption  was  extrapolated  based  on  the  weighted 
+arithmetic mean of other known periods. In some instances, this was not possible 
+for  heating.  Here  we  calculated  an  estimation  by  extrapolating  expected 
+heating consumption according to the EPC rating of the building and weather 
+normalization was not performed.
+
+2.   Data is only available for a proportion of units under our management control, 
+for example regarding recycled waste. In this instance we have extrapolated data 
+for the units where we are able to collect complete data given the similarities 
+between our units and those which are tenanted.
+
+We have reported the percentage of estimation that this represents per utility type 
+in our data tables.
+
+Furthermore,  we  have  disclosed  the  proportion  of  overall  consumption  that  our 
+estimation  of  tenant  consumption  represents,  according  to  our  methodology 
+described in the section ‘Landlord and Tenant Boundaries’.
+
+Regarding  only  landlord-obtained  utility  consumption,  as  per  the  EPRA  sBPR 
+requirements, we have detailed the extent of estimations below:
+
+ ● Electricity: 76% of landlord-obtained consumption is based on available utility 
+
+consumption data, with 24% estimated. 
+
+ ● Heating: 92% of landlord-obtained consumption is based on available utility 
+
+consumption data, with the remaining 8% estimated.
+
+The total volume of waste is based on the contracted waste volumes at properties 
+where this information was available. No additional estimation occurred. The total 
+proportion  of  recycled  waste  is  based  on  household  averages  published  by  the 
+German environmental protection authority which represents the highest authority 
+in the country.
+
+Our own office utilities consumption is estimated based on the proportion of the 
+total  rental  floor  area  occupied  by  Aroundtown  as  we  do  not  occupy  the  whole 
+building and no sub-meters exist.
+
+Units of Measurement and Normalization
+
+Utilities  data  are  reported  based  on  absolute  consumption  measured  in  kWh 
+(energy), t CO2e (GHG emissions), m3 (water) and m3 and tons (waste).
+
+GHG emissions are reported using location-based conversion factors published by 
+the German Environmental Protection Association.
+
+Where consumption is normalized, we calculate intensity indicators using floor area 
+(m2) for whole buildings, including tenant areas. Since we are now estimating the 
+tenant  consumption,  we  believe  that  our  numerator  and  denominator  provide  a 
+representative intensity figure.
+
+Employee coverage rates are expressed as a percentage of AT’s total direct employees 
+at year end.
+
+ ● Accident/Injury Rate = Number of reportable injuries / Total hours worked 
+
+ ● Lost-Time Injury Frequency Rate (LTIFR) = Number of injuries / Million hours worked
+
+ ● Lost Day Rate = Number of days lost due to workplace injuries / Number of 
+
+working hours 
+
+ ● Absentee Rate = Number of days absent due to illness / Total number of working days
+
+ ● Work-related Fatalities = Total number of work-related fatalities
+
+ ● Number of Accidents = Number of Injuries
+
+ ● Rate of Accidents = Injury rate 
+
+AROUNDTOWN SA   |    Board of Directors‘ Report

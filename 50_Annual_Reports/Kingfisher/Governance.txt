@@ -1,0 +1,1071 @@
+Fixed term debt
+
+GBP Term Loan
+
+GBP Term Loan
+
+Principal 
+outstanding
+
+£50m
+
+£50m
+
+Maturity date
+
+Coupon
+
+23/12/241
+
+SONIA + 0.70%
+
+17/01/251
+
+SONIA + 0.75%
+
+2022/23
+
+2021/22
+
+Effective 
+interest rate
+
+Carrying amount 
+£m
+
+Carrying amount 
+£m
+
+4.1%
+
+4.2%
+
+50
+
+49
+
+99
+
+–
+
+–
+
+–
+
+1.  During the year the Group entered into two new £50m bilateral term loans with a maturity tenor of two years. Both loans were fully drawn at 31 January 2023.
+
+As at 31 January 2023, the Group had an undrawn revolving credit facility (RCF) of £550m due to expire in May 2025.
+
+The terms of the committed RCF and term loans require that the ratio of Group operating profit (excluding adjusting items) to net 
+interest payable (excluding interest on IFRS 16 lease liabilities) must be no less than 3:1 for the preceding 12 months as at the half and 
+full year-ends. At 31 January 2023, Kingfisher was in compliance with this requirement.
+
+Fair values
+
+£ millions 
+
+Bank overdrafts
+
+Bank loans
+
+Fixed term debt
+
+Borrowings
+
+2022/23
+
+16
+
+3
+
+102
+
+121
+
+Fair value
+
+2021/22
+
+14
+
+3
+
+–
+
+17
+
+Fair values of borrowings have been calculated by discounting cash flows at prevailing interest and foreign exchange rates. This has 
+resulted in level 2 inputs as defined by the fair value hierarchy of IFRS 13, ‘Fair value measurement’.
+
+24  Derivatives
+
+£ millions 
+
+Current assets
+
+Non-current assets
+
+Current liabilities
+
+Non-current liabilities
+
+The net fair value of derivatives by hedge designation at the balance sheet date is:
+
+£ millions 
+
+Cash flow hedges
+
+Non-designated hedges
+
+The Group holds the following derivative financial instruments at fair value:
+
+£ millions
+
+Foreign exchange contracts
+
+Derivative assets 
+
+Foreign exchange contracts
+
+Derivative liabilities 
+
+2022/23
+
+2021/22
+
+16
+
+–
+
+(47)
+
+(5)
+
+(36)
+
+37
+
+1
+
+(12)
+
+(1)
+
+25
+
+2022/23
+
+2021/22
+
+(36)
+
+–
+
+(36)
+
+28
+
+(3)
+
+25
+
+2022/23
+
+2021/22
+
+16
+
+16
+
+(52)
+
+(52)
+
+(36)
+
+38
+
+38
+
+(13)
+
+(13)
+
+25
+
+The fair values are calculated by discounting future cash flows arising from the instruments and adjusted for credit risk. These fair 
+value measurements are all made using observable market rates of interest, foreign exchange and credit risk.
+
+Kingfisher 2022/23 Annual Report and Accounts
+
+149
+
+Notes to the consolidated financial statements continued
+
+24  Derivatives continued
+
+All the derivatives held by the Group at fair value are considered to have fair values determined by level 2 inputs as defined by the 
+fair value hierarchy of IFRS 13, ‘Fair value measurement’, representing significant observable inputs other than quoted prices in active 
+markets for identical assets or liabilities. There are no non-recurring fair value measurements nor have there been any transfers of 
+assets or liabilities between levels of the fair value hierarchy.
+
+At 31 January 2023, net financing derivative assets included in net debt amount to £2m (2021/22: £3m liability).
+
+Cash flow hedges
+Forward foreign exchange contracts hedge currency exposures of forecast inventory purchases. At 31 January 2023 the Sterling 
+equivalent amount of such contracts is £1,276m (2021/22: £1,236m). These are located in the derivative asset and derivative liability 
+lines in the consolidated balance sheet with carrying amounts of £16m asset and £52m liability. The associated fair value gains and 
+losses will be transferred to inventories when the purchases occur during the next 18 months. The amount recognised in other 
+comprehensive income during the year is a gain of £58m (2021/22: £59m gain). Gains of £117m (2021/22: £16m loss) have been 
+transferred to inventories for contracts which matured during the year. During the year, gains of £5m (2021/22: £nil) have been 
+transferred to the income statement due to ineffectiveness arising from differences in timing and amount of forecast transactions 
+relating to foreign currency inventory purchases. The weighted average hedged rates for derivatives outstanding at  
+31 January 2023 for our material currencies are EUR/USD 1.07 and GBP/USD 1.22.
+
+Hedge effectiveness is assessed at the inception of the hedge relationship and on an ongoing basis to ensure that an economic 
+relationship exists between the hedged item and the hedging instrument. The Group enters into hedge relationships where the critical 
+terms of the hedging instrument match exactly with the terms of the hedged item. The Group performs a qualitative and, where 
+necessary, a quantitative assessment of effectiveness.
+
+For foreign currency inventory purchases, ineffectiveness may arise if the timing or amount of the forecast transaction changes 
+from what was originally estimated or if there are changes in the credit risk of the Group or the derivative counterparty. Foreign 
+currency basis spread of the derivative has been excluded from the hedge designation. The non-designated element is immediately 
+recognised in the income statement. The amount is immaterial in both years.
+
+Non-designated hedges
+The Group has entered into certain derivatives to provide a hedge against fluctuations in the income statement arising from balance 
+sheet positions. At 31 January 2023, the Sterling equivalent amount of such contracts is £481m (2021/22: £852m). These have not 
+been accounted for as hedges, since the fair value movements of the derivatives in the income statement offset the retranslation 
+of the balance sheet positions. These include short-term foreign exchange contracts.
+
+The Group has reviewed all significant contracts for embedded derivatives and none of these contracts has any embedded derivatives 
+which are not closely related to the host contract and therefore the Group is not required to account for these separately.
+
+The Group enters into netting agreements with counterparties to manage the credit and settlement risks associated with  
+over-the-counter derivatives. These netting agreements and similar arrangements generally enable the Group and its counterparties 
+to settle cash flows on a net basis and set-off liabilities against available assets in the event that either party is unable to fulfil its 
+contractual obligations.
+
+Offsetting of derivative assets and liabilities:
+
+£ millions 
+
+At 31 January 2023
+
+Derivative assets
+
+Derivative liabilities
+
+At 31 January 2022
+
+Derivative assets
+
+Derivative liabilities
+
+Gross amounts 
+of recognised 
+derivatives 
+
+Gross amounts 
+offset in the 
+consolidated 
+balance sheet
+
+Net amounts of 
+derivatives 
+presented in the 
+consolidated 
+balance sheet
+
+Gross amounts 
+of derivatives 
+not offset in the 
+consolidated 
+balance sheet
+
+Net amount
+
+16
+
+(52)
+
+38
+
+(13)
+
+–
+
+–
+
+–
+
+–
+
+16
+
+(52)
+
+38
+
+(13)
+
+(16)
+
+16
+
+(13)
+
+13
+
+–
+
+(36)
+
+25
+
+–
+
+150 Kingfisher 2022/23 Annual Report and Accounts
+
+Strategic ReportGovernanceFinancial StatementsNet investment hedges
+Foreign currency denominated lease liabilities recognised on the adoption of IFRS 16 are designated as hedging the exposure to 
+movements in the spot retranslation of the Group’s investment in foreign subsidiaries. The gains and losses on retranslation of the 
+hedging instruments are presented in the translation reserve within other reserves to offset gains and losses on the hedged balance 
+sheet exposure. The nominal values of these lease liabilities is £197m (2021/22: £166m). The amount recognised in the translation 
+reserve is a loss of £3m (2021/22: £1m loss). There is no ineffectiveness for 2022/23. The cumulative total amount recognised in 
+the translation reserve in relation to net investment hedges is a loss of £112m (2021/22: £109m).
+
+25  Financial risk management
+
+Kingfisher’s treasury function has primary responsibility for managing certain financial risks to which the Group is exposed. The Board 
+reviews the levels of exposure regularly and approves treasury policies covering the use of financial instruments required to manage 
+these risks. Kingfisher’s treasury function is not run as a profit centre and does not enter into any transactions for speculative purposes.
+
+In the normal course of business, the Group uses financial instruments including derivatives. The main types of financial instruments 
+used are fixed term debt, bank loans and deposits, money market funds, interest rate swaps and foreign exchange contracts.
+
+Interest rate risk
+Borrowings arranged at floating rates of interest expose the Group to cash flow interest rate risk, whereas those arranged at fixed 
+rates of interest expose the Group to fair value interest rate risk. The Group manages its interest rate risk by entering into certain 
+interest rate derivative contracts which modify the interest rate payable on the Group’s underlying debt instruments.
+
+Currency risk
+The Group’s principal currency exposures are to the Euro, US Dollar, Polish Zloty and Romanian Leu. The Euro, Polish Zloty and 
+Romanian Leu exposures are operational and arise through the ownership of retail businesses in France, Spain, Portugal, the 
+Republic of Ireland, Poland and Romania.
+
+In particular, the Group generates a substantial part of its profit from the Eurozone and, as such, is exposed to the economic 
+uncertainty of its member states. The Group continues to monitor potential exposures and risks and consider effective risk 
+management solutions.
+
+It is the Group’s policy not to hedge the translation of overseas earnings into Sterling. In addition, the Group has significant 
+transactional exposure arising on the purchase of inventories denominated in US Dollars, which it hedges using forward foreign 
+exchange contracts. Under Group policies, the Group’s operating companies are required to hedge committed inventory 
+purchases and a proportion of forecast inventory purchases arising in the next 18 months. This is monitored on an ongoing basis.
+
+The Group also has exposure to certain leases denominated in currencies which are different from the functional (reporting) 
+currencies of the lessee. To reduce the Group’s exposure to this, most of the affected lease liabilities have been designated as 
+net investment hedges of Group assets held in the same currency.
+
+Kingfisher’s policy is to manage the interest rate and currency profile of its debt and cash using derivative contracts. The effect of 
+these contracts on the Group’s net debt is as follows:
+
+£ millions
+
+At 31 January 2023
+
+Net cash/(debt) before financing 
+derivatives and lease liabilities
+
+Financing derivatives
+
+Lease liabilities
+
+Net (debt)/cash
+
+£ millions
+
+At 31 January 2022
+
+Net cash/(debt) before financing 
+derivatives and lease liabilities
+
+Financing derivatives
+
+Lease liabilities
+
+Net (debt)/cash
+
+Sterling
+
+Euro
+
+US Dollar
+
+Other
+
+Fixed
+
+Floating
+
+Fixed
+
+Floating
+
+Fixed
+
+Floating
+
+Fixed
+
+Floating
+
+Total
+
+2022/23
+
+–
+
+–
+
+(1,821)
+
+(1,821)
+
+9
+
+(425)
+
+–
+
+(416)
+
+(2)
+
+–
+
+(582)
+
+(584)
+
+105
+
+39
+
+–
+
+144
+
+–
+
+–
+
+–
+
+–
+
+28
+
+326
+
+–
+
+354
+
+–
+
+–
+
+(41)
+
+(41)
+
+28
+
+62
+
+–
+
+90
+
+168
+
+2
+
+(2,444)
+
+(2,274)
+
+2021/22
+
+Sterling
+
+Euro
+
+US Dollar
+
+Other
+
+Fixed
+
+Floating
+
+Fixed
+
+Floating
+
+Fixed
+
+Floating
+
+Fixed
+
+Floating
+
+Total
+
+–
+
+–
+
+(1,792)
+
+(1,792)
+
+142
+
+(539)
+
+–
+
+(397)
+
+(2)
+
+–
+
+(548)
+
+(550)
+
+179
+
+372
+
+–
+
+551
+
+–
+
+–
+
+–
+
+–
+
+429
+
+136
+
+–
+
+565
+
+–
+
+–
+
+(36)
+
+(36)
+
+59
+
+28
+
+–
+
+87
+
+807
+
+(3)
+
+(2,376)
+
+(1,572)
+
+Kingfisher 2022/23 Annual Report and Accounts
+
+151
+
+Notes to the consolidated financial statements continued
+
+25  Financial risk management continued
+
+Financial instruments principally affected by interest rate and currency risks, being the significant market risks impacting Kingfisher, 
+are borrowings, deposits and derivatives. The following analysis illustrates the sensitivity of net finance costs (reflecting the impact 
+on profit) and derivative cash flow hedges (reflecting the impact on other comprehensive income) to changes in interest rates and 
+foreign exchange rates.
+
+£ millions
+
+Effect of 1% rise in interest rates on net finance costs
+
+Sterling
+
+Euro
+
+US Dollar
+
+Other
+
+2022/23
+
+2021/22
+
+Net finance 
+costs 
+income/(costs)
+
+Net finance 
+costs 
+income/(costs)
+
+(4)
+
+1
+
+4
+
+1
+
+(4)
+
+6
+
+6
+
+1
+
+Due to the Group’s hedging arrangements and offsetting foreign currency assets and liabilities, there is no significant impact on profit 
+from the retranslation of financial instruments.
+
+£ millions
+
+Effect of 10% appreciation in foreign exchange rates on derivative cash flow hedges
+
+US Dollar against Sterling
+
+US Dollar against Euro
+
+US Dollar against other
+
+2022/23
+
+2021/22
+
+Derivative cash 
+flow hedges 
+increase
+
+Derivative cash 
+flow hedges 
+increase
+
+50
+
+36
+
+20
+
+59
+
+36
+
+16
+
+The impact of changes in foreign exchange rates on cash flow hedges results from retranslation of forward purchases of US Dollars 
+used to hedge forecast US Dollar purchases of inventories. The associated fair value gains and losses are deferred in equity until the 
+purchases occur. See note 24 for further details.
+
+The sensitivity analysis excludes the impact of movements in market variables on the carrying amount of trade and other payables 
+and receivables, due to the low associated sensitivity, and are before the effect of tax. It has been prepared on the basis that the 
+Group’s debt, hedging activities, hedge accounting designations, and foreign currency proportion of debt and derivative contracts 
+remain constant, reflecting the positions at 31 January 2023 and 31 January 2022 respectively. As a consequence, the analysis relates 
+to the position at those dates and is not necessarily representative of the years then ended. In preparing the sensitivity analysis it is 
+assumed that all hedges are fully effective.
+
+The effects shown above would be reversed in the event of an equal and opposite change in interest rates and foreign exchange rates.
+
+152 Kingfisher 2022/23 Annual Report and Accounts
+
+Strategic ReportGovernanceFinancial StatementsLiquidity risk
+The Group regularly reviews the level of cash and debt facilities required to fund its activities. This involves preparing a prudent cash 
+flow forecast for the medium term, determining the level of debt facilities required to fund the business, planning for repayment of 
+debt at its maturity and identifying an appropriate amount of headroom to provide a reserve against unexpected outflows and/or 
+unexpected impacts to cash inflows.
+
+At 31 January 2023, the Group had an undrawn revolving credit facility of £550m due to expire in May 2025.
+
+The following table analyses the Group’s financial liabilities and derivatives into relevant maturity groupings based on the remaining 
+period at the balance sheet date to the contractual maturity date. The amounts disclosed in the table are the contractual 
+undiscounted cash flows (including interest) and as such may differ from the amounts disclosed on the balance sheet.
+
+£ millions 
+
+At 31 January 2023
+
+Bank overdrafts
+
+Trade and other payables1
+
+Bank loans and fixed term debt
+
+Lease liabilities
+
+Derivative financial liabilities:
+
+Derivative contracts – receipts
+
+Derivative contracts – payments
+
+Derivative financial assets:
+
+Derivative contracts – receipts
+
+Derivative contracts – payments
+
+£ millions 
+
+At 31 January 2022
+
+Bank overdrafts
+
+Trade and other payables1, 2
+
+Bank loans
+
+Lease liabilities
+
+Derivative financial liabilities:
+
+Derivative contracts – receipts
+
+Derivative contracts – payments
+
+Derivative financial assets:
+
+Derivative contracts – receipts
+
+Derivative contracts – payments
+
+2022/23
+
+Total
+
+(16)
+
+(1,850)
+
+(110)
+
+On demand
+
+Less than 1 
+year
+
+1-2 years
+
+2-3 years
+
+3-4 years
+
+4-5 years
+
+More than 
+5 years
+
+(16)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+(1,846)
+
+(5)
+
+(456)
+
+996
+
+(1,043)
+
+658
+
+(643)
+
+–
+
+(4)
+
+(105)
+
+(439)
+
+100
+
+(107)
+
+3
+
+(3)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+(399)
+
+(353)
+
+(300)
+
+(1,241)
+
+(3,188)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1,096
+
+(1,150)
+
+661
+
+(646)
+
+On demand
+
+Less than 1 
+year
+
+1-2 years
+
+2-3 years
+
+3-4 years
+
+4-5 years
+
+2021/22 (restated)2
+
+More than 
+5 years
+
+Total
+
+(14)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+(1,977)
+
+(1)
+
+(443)
+
+954
+
+(965)
+
+1,606
+
+(1,573)
+
+–
+
+(10)
+
+(1)
+
+–
+
+–
+
+(1)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+(14)
+
+(1,987)
+
+(3)
+
+(423)
+
+(382)
+
+(339)
+
+(295)
+
+(1,203)
+
+(3,085)
+
+39
+
+(40)
+
+34
+
+(34)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+993
+
+(1,005)
+
+1,640
+
+(1,607)
+
+1.  Excluding non-financial items relating to deferred income and merchandise returns provisions and non-contractual items relating to other taxation and social 
+
+security payables and payroll creditors and accruals.
+
+2.  Prior year amounts have been restated to exclude £253m of payroll creditors and accruals which were previously recorded within Trade and other payables 
+
+due in less than 1 year.
+
+Kingfisher 2022/23 Annual Report and Accounts
+
+153
+

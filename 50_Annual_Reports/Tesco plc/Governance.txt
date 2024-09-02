@@ -1,0 +1,9822 @@
+Reinsurance 
+The Group cedes reinsurance in the normal course of business for 
+the purpose of limiting its net loss potential through the 
+diversification of its risks. Reinsurance arrangements, including 
+quota share, excess of loss and adverse development cover 
+contracts, do not relieve the Group from its direct obligations to its 
+policyholders. Only contracts that give rise to a significant transfer of 
+insurance risk are accounted for as reinsurance contracts. Amounts 
+recoverable under such contracts are generally recognised in the 
+same year as the related claim. Contracts that do not transfer 
+significant insurance risk (i.e. financial reinsurance) are accounted 
+for as financial instruments. 
+
+Reinsurance assets include balances due from reinsurance 
+companies for reinsurance claims. Amounts recoverable from 
+reinsurers are estimated in a manner consistent with the 
+outstanding claims provision or settled claims associated with the 
+reinsured policy. The earned portion of reinsurance premiums 
+(insurance premium income ceded to reinsurers) is recognised as 
+reinsurance premium expense. The provision for unearned 
+reinsurance premiums comprises the element of reinsurance 
+premiums relating to services to be received in future years. 
+Amounts recoverable under reinsurance contracts are assessed for 
+impairment at each year-end date. Such assets are deemed 
+impaired if there is objective evidence, as a result of an event that 
+occurred after initial recognition, that the Group may not recover all 
+amounts due and that the event has a reliably measurable impact on 
+the amounts that the Group will receive from the reinsurer. 
+
+Provision for outstanding claims 
+The provision for outstanding claims represents the Group’s 
+estimate of the ultimate cost of settling all claims incurred but 
+unpaid at the reporting date whether reported or not, and related 
+internal and external claims handling expenses. Claims outstanding 
+are assessed by reviewing individual claims data and making an 
+allowance for claims incurred but not yet reported, adjusted for the 
+effect of both internal and external foreseeable events, such as 
+changes in claims handling procedures, inflation, judicial trends, 
+substantively enacted legislative changes and past experience and 
+trends. Reinsurance and other recoveries are assessed in a manner 
+similar to the claims outstanding and presented separately as assets. 
+
+Unearned premium and unexpired risk provision 
+The provision for unearned premiums comprises the proportion of 
+gross premiums written, which is estimated to be earned in the 
+following or subsequent accounting periods, calculated separately 
+for each insurance contract using the daily pro rata method, 
+adjusted if necessary to reflect any variation in the incidence of risk 
+during the period covered by the contract. Where the value of 
+expected claims and expenses attributable to unexpired periods of 
+policies in force exceeds the unearned premium provision, a further 
+provision is made, calculated by reference to classes of business 
+which are managed together. 
+
+Alternative performance measures (APMs) 
+In the reporting of financial information, the Directors have adopted 
+various APMs. Refer to the Glossary for a full list of the Group’s 
+APMs, including comprehensive definitions, their purpose, 
+reconciliations to IFRS measures and details of any changes to APMs. 
+
+Judgements and sources of estimation uncertainty 
+The preparation of the consolidated Group financial statements 
+requires management to make judgements, estimates and 
+assumptions in applying the Group’s accounting policies to 
+determine the reported amounts of assets, liabilities, income and 
+expenses. The estimates and associated assumptions are based on 
+historical experience and various other factors that are believed to 
+be reasonable under the circumstances. Actual results may differ 
+from these estimates. The estimates and underlying assumptions are 
+reviewed on an ongoing basis, with revisions to accounting estimates 
+applied prospectively. 
+
+Financial statements 
+
+Critical accounting judgements 
+Critical judgements, apart from those involving estimations, that are 
+applied in the preparation of the consolidated Group financial 
+statements are discussed below:  
+
+Leases 
+Management exercises judgement in determining the likelihood of
+exercising break or extension options in determining the lease term. 
+Break and extension options are included to provide operational 
+flexibility should the economic outlook for an asset be different to 
+expectations, and hence at commencement of the lease, break or 
+extension options are not typically considered reasonably certain to 
+be exercised, unless there is a valid business reason otherwise.  
+
+The discount rate used to calculate the lease liability is the rate 
+implicit in the lease, if it can be readily determined, or the lessee’s 
+incremental borrowing rate if not. Management uses the rate implicit 
+in the lease where the lessor is a related party (such as leases from 
+joint ventures) and the lessee’s incremental borrowing rate for all 
+other leases. Incremental borrowing rates are determined monthly 
+and depend on the term, country, currency and start date of the 
+lease. The incremental borrowing rate is determined based on a 
+series of inputs including: the risk-free rate
+bond rates; a country-specific risk adjustment; a credit risk 
+adjustment based on Tesco bond yields; and an entity-specific 
+adjustment where the entity risk profile is different to that of 
+the
+
+based on government 
+
+Group. 
+
+Refer to Note 12 for additional disclosures relating to leases. 
+
+Joint ventures and associates 
+The Group has assessed the nature of its joint arrangements under 
+IFRS 11 ‘Joint arrangements’ and determined them to be joint 
+ventures. These assessments required the exercise of judgement 
+as
+
+set out in Note 13. 
+
+APMs – Adjusting items 
+Adjusting items relate to certain costs or incomes that derive from 
+events or transactions that fall within the normal activities of the 
+Group but which, individually or, if of a similar type, in aggregate, 
+excluded from the Group’s APMs by virtue of their size and 
+are
+nature in order to provide a helpful alternative perspective of the 
+year-on-year trends, performance and position of the Group’s 
+trading business that is more comparable over time. This alternative 
+view is consistent with how management views the
+Committee 
+how it is reported internally to the Board and Executive
+for performance analysis, planning, reporting, decision-making and 
+incentive-setting purposes.  
+
+business, and 
+
+Management exercises judgement in determining the adjustments to 
+apply to IFRS measurements, and this assessment covers the nature 
+of the item, cause of occurrence and the scale of impact of that 
+item on reported performance and individual financial statement 
+line
+items, as well as consistency with prior periods. Reversals of 
+previous adjusting items are assessed based on the same criteria to 
+ensure an even-handed treatment of gains and losses. The amount 
+and timing of adjusting items can be unpredictable and subject to a 
+higher level of scrutiny by users of the accounts. Adjusting items can 
+include, but are not limited to: litigation costs; impairment charges 
+and reversals; property transactions such as disposals; amortisation 
+of acquired intangibles; changes in uncertain tax positions; 
+restructuring and redundancy costs; profits or losses on disposal 
+of
+businesses; net pension finance income/(costs); and fair value 
+remeasurements of financial instruments. The tax effect of such 
+items is also classified as adjusting.  
+
+The Group income statement is presented in a columnar format 
+enable users of the accounts to see the Group’s performance 
+to
+before adjusting items, the adjusting items, and the statutory total 
+on a line-by-line basis. An analysis of the adjusting items included in 
+the Group income statement, together with the impact of these 
+items on the Group cash flow statement, is disclosed in Note 4. 
+
+Refer to pages 207 to 212 for further details on the Group’s APMs. 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+Tesco PLC Annual Report and Financial Statements 2023
+131 
+
+131
+
+Financial statements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clubcard points breakage 
+Clubcard points breakage is the proportion of points that are not 
+expected to be redeemed by customers. Management estimates 
+breakage based on historical experience of customer redemptions, 
+adjusted for any factors which may impact future redemption rates 
+such as scheme changes or expected future trends in customer 
+behaviour. Changes in breakage estimates would change the 
+Clubcard contract liability (deferred revenue) on balance sheet (see 
+Note 19) and the timing of revenue recognised in relation to Clubcard 
+points. 
+
+Contingent liabilities 
+Contingent liabilities are possible obligations whose existence will be 
+confirmed only on the occurrence or non-occurrence of uncertain 
+future events outside the Group’s control, or present obligations 
+that are not recognised because it is not probable that a settlement 
+will be required or the value of such a payment cannot be reliably 
+estimated. The Group does not recognise contingent liabilities but 
+discloses them. Refer to Note 34 for the disclosures.  
+
+Notes to the Group financial statements continued 
+
+Note 1 Accounting policies, judgements and 
+estimates continued 
+Key sources of estimation uncertainty  
+The key assumptions about the future, and other key sources of 
+estimation uncertainty at the reporting period end, that may have a 
+significant risk of causing a material adjustment to the carrying 
+amount of assets and liabilities within the next financial year are 
+discussed below: 
+
+Post-employment benefit obligations 
+The present value of post-employment benefit obligations is 
+determined on an actuarial basis using various assumptions, 
+including the
+Any changes in these assumptions will impact the
+as
+and sensitivities for post-employment benefit obligations are 
+disclosed in
+
+well as the net pension finance cost/(income). Key
+
+Note 29. 
+
+carrying amount 
+assumptions 
+
+discount rate, inflation rate and mortality assumptions. 
+
+Impairment of non-financial assets 
+The Group evaluates goodwill and non-current assets for impairment 
+as set out in Note 14. The key assumptions and estimates to which 
+the recoverable amounts are most sensitive, the methodology for 
+calculating them and sensitivities are also disclosed in Note 14. 
+
+Tesco Bank ECL measurement 
+The measurement of ECLs for Tesco Bank financial assets requires 
+the use of complex models and significant assumptions about future 
+macroeconomic conditions and credit behaviour, such as the 
+likelihood of customers defaulting and the resulting losses. 
+assumptions and sensitivities for Tesco Bank ECLs are 
+Key
+disclosed
+
+in Note 27. 
+
+Other significant estimates 
+Other estimates for which management believes there is a limited 
+risk of a material change in the amounts recognised or disclosed in 
+the next financial year are discussed below: 
+
+Commercial income 
+Management is required to make estimates in determining the 
+amount and timing of recognition of commercial income for some
+transactions with suppliers. In determining the amount of volume-
+related allowances recognised in any period, management estimates 
+the probability that the Group will meet contractual target volumes, 
+based on historical and forecast performance. There is limited 
+estimation involved in recognising income for promotional and 
+other
+
+allowances.  
+
+Management assesses its performance against the obligations 
+conditional on earning the income, with the income recognised 
+either over time as the obligations are met, or recognised at the 
+point when all obligations are met, dependent on the contractual 
+requirements. Commercial income is recognised as a credit within 
+cost of sales. Where the income earned relates to inventories which 
+are held by the Group at period ends, the income is included within 
+the cost of those inventories, and recognised in cost of sales upon 
+sale of those inventories. Management views that the cost of 
+inventories sold (which is inclusive of commercial income) provides a 
+consistent and complete measure of the Group income statement 
+impact of the overall supplier relationships. 
+
+Management considers the best indicator of the estimation 
+undertaken is by reference to commercial income balances not 
+settled at the balance sheet date, and has therefore provided 
+additional disclosures of commercial income amounts reflected in 
+the Group balance sheet. Refer to Note 20 for commercial income 
+disclosures. 
+
+132
+
+Tesco PLC Annual Report and Financial Statements 2023
+132 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial statements 
+
+Note 2 Segmental reporting 
+The Group’s operating segments are determined based on the Group’s internal reporting to the Chief Operating Decision Maker (CODM). 
+The
+CODM has been determined to be the Group Chief Executive, with support from the Executive Committee, as the function primarily 
+responsible for the allocation of resources to segments and assessment of performance of the segments. 
+
+The principal activities of the Group are presented in the
+
+following segments: 
+
+–  Retailing and associated activities (Retail) in: 
+
+–  UK & ROI – the United Kingdom and Republic of Ireland; and 
+–  Central Europe – Czech Republic, Hungary and Slovakia. 
+
+–  Retail banking and insurance services through Tesco Bank in the UK (Tesco Bank). 
+
+This presentation reflects how the Group’s operating performance is reviewed internally by management. 
+
+The CODM uses adjusted operating profit, as reviewed at monthly Executive Committee meetings, as the key measure of the segments’ results 
+as
+it reflects the segments’ trading performance that aids comparability over time for the financial year under evaluation. Adjusted operating 
+profit is a consistent measure within the Group as defined within the Glossary. Refer to Note 4 for adjusting items. Inter-segment revenue 
+between the segments is not material. 
+
+Income statement 
+The segment results and the reconciliation of the segment measures to the respective statutory items included in the Group income statement 
+are as follows: 
+
+52 weeks ended 25 February 2023 
+At constant exchange rates 
+Continuing operations 
+Revenue 
+Less: Fuel sales 
+APM: Sales 
+Adjusted operating profit 
+Adjusting items (Note 4) 
+Operating profit 
+Adjusted operating margin 
+
+52 weeks ended 25 February 2023 
+At actual exchange rates 
+Continuing operations 
+Revenue 
+Less: Fuel sales 
+APM: Sales 
+Adjusted operating profit 
+Adjusting items (Note 4) 
+Operating profit 
+Adjusted operating margin 
+Share of post-tax profits of joint ventures and associates 
+Finance income 
+Finance costs 
+Profit before tax 
+
+UK & ROI 
+£m 
+
+60,214 
+(7,877) 
+52,337 
+2,307 
+(1,058) 
+1,249 
+3.8% 
+
+Central 
+Europe 
+£m 
+
+Total Retail at 
+constant 
+exchange 
+£m 
+
+4,468 
+(222) 
+4,246 
+174 
+(33) 
+141 
+3.9% 
+
+64,682 
+(8,099) 
+56,583 
+2,481 
+(1,091) 
+1,390 
+3.8% 
+
+UK & ROI 
+£m 
+
+60,246 
+(7,877) 
+52,369 
+2,307 
+(1,058) 
+1,249 
+3.8% 
+
+Tesco 
+Bank 
+£m 
+
+1,106 
+– 
+1,106 
+143 
+(11) 
+132 
+12.9% 
+
+Central 
+Europe 
+£m 
+
+4,410 
+(229) 
+4,181 
+180 
+(36) 
+144 
+4.1% 
+
+Total at 
+constant 
+exchange 
+£m 
+
+65,788 
+(8,099) 
+57,689 
+2,624 
+(1,102) 
+1,522 
+4.0% 
+
+Total Retail 
+£m 
+
+64,656 
+(8,106) 
+56,550 
+2,487 
+(1,094) 
+1,393 
+3.8% 
+
+Foreign 
+exchange 
+£m 
+
+(26) 
+(7) 
+(33) 
+6 
+(3) 
+3 
+
+Tesco 
+Bank 
+ £m 
+
+1,106 
+– 
+1,106 
+143 
+(11) 
+132 
+12.9% 
+
+Total 
+at actual 
+exchange 
+£m 
+
+65,762 
+(8,106) 
+57,656 
+2,630 
+(1,105) 
+1,525 
+4.0% 
+
+Total 
+at actual 
+exchange 
+£m 
+
+65,762 
+(8,106) 
+57,656 
+2,630 
+(1,105) 
+1,525 
+4.0% 
+8 
+85 
+(618) 
+1,000 
+
+Tesco Bank revenue of £1,106m (2022: £922m) comprises interest and similar revenues of £540m (2022: £473m), fees and commissions revenue of 
+£257m (2022: £210m) and insurance revenue of £309m (2022: £239m). For insurance, refer to Note 24. 
+
+52 weeks ended 26 February 2022 
+At actual exchange rates 
+Continuing operations 
+Revenue 
+Less: Fuel sales 
+APM: Sales 
+Adjusted operating profit 
+Adjusting items (Note 4) 
+Operating profit 
+Adjusted operating margin 
+Share of post-tax profits of joint ventures and associates 
+Finance income 
+Finance costs 
+Profit before tax 
+
+UK & ROI 
+£m 
+
+56,404 
+(6,420) 
+49,984 
+2,481 
+(290) 
+2,191 
+4.4% 
+
+Central 
+Europe 
+£m 
+
+4,018 
+(156) 
+3,862 
+168 
+25 
+193 
+4.2% 
+
+Total Retail 
+£m 
+
+60,422 
+(6,576) 
+53,846 
+2,649 
+(265) 
+2,384 
+4.4% 
+
+Tesco 
+Bank 
+ £m 
+
+922 
+– 
+922 
+176 
+– 
+176 
+19.1% 
+
+Total 
+at actual 
+exchange 
+£m 
+
+61,344 
+(6,576) 
+54,768 
+2,825 
+(265) 
+2,560 
+4.6% 
+15 
+9 
+(551) 
+2,033 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+Tesco PLC Annual Report and Financial Statements 2023
+133 
+
+133
+
+Financial statements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+  
+  
+  
+ 
+Notes to the Group financial statements continued 
+
+Note 2 Segmental reporting continued 
+Balance sheet 
+The following tables showing segment assets and liabilities exclude those balances that make up net debt (cash and cash equivalents, short-term 
+investments, joint venture loans, bank and other borrowings, lease liabilities, derivative financial instruments and net debt of the disposal group). 
+With the exception of lease liabilities which have been allocated to each segment, and Tesco Bank net debt, all other components of net debt 
+have been included within the unallocated segment to reflect how these balances are managed. Intercompany transactions have been eliminated 
+other than intercompany transactions with Tesco Bank in net debt. 
+
+At 25 February 2023 
+Goodwill and other intangible assets 
+Property, plant and equipment and investment property 
+Right of use assets 
+Investments in joint ventures and associates 
+Non-current other investments 
+Non-current trade and other receivables(a) 
+Non-current loans and advances to customers 
+Non-current reinsurance assets 
+Post-employment benefit surplus 
+Deferred tax assets 
+Non-current assets(b) 
+
+Inventories and current trade and other receivables(c) 
+Current loans and advances to customers  
+Current reinsurance assets 
+Current other investments 
+Total trade and other payables 
+Total customer deposits and deposits from banks 
+Total insurance contract provisions 
+Total provisions 
+Deferred tax liabilities 
+Net current tax 
+Post-employment benefit deficit 
+Assets of the disposal group and non-current assets 
+classified as held for sale 
+Net debt (including Tesco Bank)(d) 
+Net assets 
+
+UK & ROI 
+£m 
+4,715 
+15,346 
+5,057 
+93 
+218 
+44 
+- 
+- 
+6 
+3 
+25,482 
+
+3,118 
+- 
+- 
+6 
+(8,986) 
+- 
+- 
+(494) 
+(74) 
+52 
+(400) 
+25 
+
+(7,036) 
+11,693 
+
+Central 
+Europe 
+£m 
+37 
+1,468 
+433 
+- 
+- 
+2 
+- 
+- 
+- 
+22 
+1,962 
+
+358 
+- 
+- 
+- 
+(595) 
+- 
+- 
+(36) 
+(45) 
+(16) 
+- 
+169 
+
+Tesco 
+Bank 
+ £m 
+623 
+72 
+10 
+- 
+1,121 
+25 
+3,029 
+145 
+- 
+57 
+5,082 
+
+243 
+4,052 
+72 
+347 
+(390) 
+(6,750) 
+(605) 
+(30) 
+- 
+9 
+- 
+- 
+
+Unallocated 
+£m 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+Total 
+continuing 
+operations 
+£m 
+5,375 
+16,886 
+5,500 
+93 
+1,339 
+71 
+3,029 
+145 
+6 
+82 
+32,526 
+
+Discontinued 
+operations 
+£m 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+3,719 
+4,052 
+72 
+353 
+(9,971) 
+(6,750) 
+(605) 
+(560) 
+(119) 
+45 
+(400) 
+194 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+16 
+
+Total 
+£m 
+5,375 
+16,886 
+5,500 
+93 
+1,339 
+71 
+3,029 
+145 
+6 
+82 
+32,526 
+
+3,719 
+4,052 
+72 
+353 
+(9,971) 
+(6,750) 
+(605) 
+(560) 
+(119) 
+45 
+(400) 
+210 
+
+(553) 
+1,244 
+
+151 
+2,181 
+
+(2,890) 
+(2,890) 
+
+(10,328) 
+12,228 
+
+(14) 
+2 
+
+(10,342) 
+12,230 
+
+(a)  Excludes non-current loans to joint ventures of £8m (2022: £9m), which form part of net debt. 
+(b) Excludes derivative financial instruments of £873m (2022: £942m), which form part of net debt. 
+(c)  Excludes net interest and other receivables of £8m (2022: £1m), and current loans to joint ventures of £98m (2022: £96m), both forming part of net debt. 
+(d) Refer to Note 32. Net debt at 25 February 2023 includes net debt of the disposal group classified as held for sale of £(14)m (2022: £(14)m). 
+
+At 26 February 2022 
+Goodwill and other intangible assets 
+Property, plant and equipment and investment property 
+Right of use assets 
+Investments in joint ventures and associates 
+Non-current other investments 
+Non-current trade and other receivables(a) 
+Non-current loans and advances to customers  
+Non-current reinsurance assets 
+Post-employment benefit surplus 
+Deferred tax assets 
+Non-current assets(b) 
+
+Inventories and current trade and other receivables(c) 
+Current loans and advances to customers 
+Current reinsurance assets 
+Current other investments 
+Total trade and other payables 
+Total customer deposits and deposits from banks 
+Total insurance contract provisions 
+Total provisions 
+Deferred tax liabilities 
+Net current tax 
+Post-employment benefit deficit 
+Assets of the disposal group and non-current assets 
+classified as held for sale 
+Net debt (including Tesco Bank)(d) 
+Net assets 
+
+Refer to previous table for footnotes. 
+
+UK & ROI 
+£m 
+4,700 
+15,552 
+5,355 
+85 
+12 
+91 
+– 
+– 
+3,150 
+2 
+28,947 
+
+2,981 
+– 
+– 
+– 
+(8,343) 
+– 
+– 
+(401) 
+(869) 
+90 
+(303) 
+20 
+
+(7,350) 
+14,772 
+
+Central 
+Europe 
+£m 
+31 
+1,462 
+354 
+1 
+– 
+– 
+– 
+– 
+– 
+19 
+1,867 
+
+285 
+– 
+– 
+– 
+(535) 
+– 
+– 
+(28) 
+(41) 
+(11) 
+– 
+310 
+
+(474) 
+1,373 
+
+Tesco 
+Bank 
+ £m 
+629 
+68 
+11 
+– 
+1,241 
+59 
+3,141 
+184 
+– 
+64 
+5,397 
+
+239 
+3,349 
+61 
+226 
+(356) 
+(6,379) 
+(650) 
+(37) 
+– 
+3 
+– 
+– 
+
+300 
+2,153 
+
+Unallocated 
+£m 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+
+Total 
+continuing 
+operations 
+£m 
+5,360 
+17,082 
+5,720 
+86 
+1,253 
+150 
+3,141 
+184 
+3,150 
+85 
+36,211 
+
+Discontinued 
+operations 
+£m 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+
+3,505 
+3,349 
+61 
+226 
+(9,234) 
+(6,379) 
+(650) 
+(466) 
+(910) 
+82 
+(303) 
+330 
+
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+38 
+
+Total 
+£m 
+5,360 
+17,082 
+5,720 
+86 
+1,253 
+150 
+3,141 
+184 
+3,150 
+85 
+36,211 
+
+3,505 
+3,349 
+61 
+226 
+(9,234) 
+(6,379) 
+(650) 
+(466) 
+(910) 
+82 
+(303) 
+368 
+
+(2,678) 
+(2,678) 
+
+(10,202) 
+15,620 
+
+(14) 
+24 
+
+(10,216) 
+15,644 
+
+134
+
+Tesco PLC Annual Report and Financial Statements 2023
+134 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial statements 
+
+Other segment information 
+
+52 weeks ended 25 February 2023 
+Capital expenditure (including acquisitions through business combinations): 
+
+Property, plant and equipment(a)(b) 
+Goodwill and other intangible assets(c) 
+
+Depreciation and amortisation: 
+
+Property, plant and equipment 
+Right of use assets 
+Investment property 
+Other intangible assets 
+
+Impairment(d): 
+
+(Loss) on financial assets 
+
+UK & ROI 
+£m 
+
+Central 
+Europe 
+£m 
+
+Tesco 
+Bank 
+£m 
+
+1,176 
+259 
+
+(788) 
+(500) 
+(1) 
+(226) 
+
+(5) 
+
+104 
+12 
+
+(84) 
+(37) 
+– 
+(10) 
+
+(1) 
+
+14 
+37 
+
+(10) 
+(2) 
+– 
+(42) 
+
+(61) 
+
+Total 
+£m 
+
+1,294 
+308 
+
+(882) 
+(539) 
+(1) 
+(278) 
+
+(67) 
+
+(a)  Includes £248m related to obtaining control of The Tesco Dorney Limited Partnership (2022: £584m related to obtaining control of The Tesco Sarum Limited Partnership). Refer to Note 33 for 
+
+further details. 
+
+(b) Includes £42m (2022: £1m) of property, plant and equipment acquired through business combinations. 
+(c)  Includes £31m (2022: £38m) of goodwill and other intangible assets acquired through business combinations. 
+(d) Excludes impairment of other non-current assets. Refer to Note 14. 
+
+52 weeks ended 26 February 2022 
+Capital expenditure (including acquisitions through business combinations): 
+
+Property, plant and equipment(a)(b) 
+Goodwill and other intangible assets(c) 
+
+Depreciation and amortisation: 
+
+Property, plant and equipment 
+Right of use assets 
+Investment property 
+Other intangible assets 
+
+Impairment(d): 
+
+(Loss)/reversal on financial assets 
+
+Refer to previous table for footnotes. 
+
+UK & ROI 
+£m 
+
+Central 
+Europe 
+£m 
+
+Tesco 
+Bank 
+£m 
+
+1,485 
+186 
+
+(792) 
+(500) 
+(1) 
+(224) 
+
+10 
+
+89 
+10 
+
+(90) 
+(35) 
+– 
+(11) 
+
+(1) 
+
+14 
+71 
+
+(11) 
+(2) 
+– 
+(52) 
+
+30 
+
+Total  
+£m 
+
+1,588 
+267 
+
+(893) 
+(537) 
+(1) 
+(287) 
+
+39 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+Tesco PLC Annual Report and Financial Statements 2023
+135 
+
+135
+
+Financial statements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes to the Group financial statements continued 
+
+Note 2 Segmental reporting continued 
+Cash flow statement 
+The following tables provide a split of cash flows between Retail continuing operations, Tesco Bank and Group discontinued operations. 
+
+52 weeks ended 25 February 2023 
+Operating profit/(loss) 
+Depreciation and amortisation 
+ATM net income 
+(Profit)/loss arising on sale of property, plant and equipment, investment property, 
+intangible assets, assets held for sale and early termination of leases 
+(Profit)/loss arising from sale of other investments 
+Net impairment loss on property, plant and equipment, right of use assets, intangible 
+assets and investment property 
+Net remeasurement loss on non-current assets held for sale 
+Other defined benefit pension scheme payments 
+Share-based payments 
+Tesco Bank fair value movements included in operating profit/(loss) 
+Cash flows generated from operations excluding working capital 
+(Increase)/decrease in working capital 
+Cash generated from/(used in) operations 
+Interest paid 
+Corporation tax paid 
+Net cash generated from/(used in) operating activities* 
+Proceeds from sale of property, plant and equipment, investment property, 
+intangible assets and assets classified as held for sale 
+Purchase of property, plant and equipment, investment property and other long-
+term assets – property buybacks 
+Purchase of property, plant and equipment, investment property and other long-
+term assets – other capital expenditure 
+Purchase of intangible assets 
+Acquisition of subsidiaries, net of cash acquired 
+Increase in loans to joint ventures and associates 
+Investments in joint ventures and associates 
+Net (investments in)/proceeds from sale of short-term investments 
+Proceeds from sale of other investments 
+Purchase of other investments 
+Dividends received from joint ventures and associates 
+Dividends received from Tesco Bank 
+Interest received 
+Cash inflows from derivative financial instruments 
+Cash outflows from derivative financial instruments 
+Net cash generated from/(used in) investing activities* 
+Own shares purchased for cancellation 
+Own shares purchased for share schemes 
+Repayment of capital element of obligations under leases 
+Cash outflows exceeding the incremental increase in assets in a property buyback 
+Repayment of borrowings 
+Cash inflows from derivative financial instruments 
+Cash outflows from derivative financial instruments 
+Dividends paid to equity holders 
+Net cash generated from/(used in) financing activities* 
+
+Net increase/(decrease) in cash and cash equivalents  
+Cash and cash equivalents at the beginning of the year 
+Effect of foreign exchange rate changes 
+Cash and cash equivalents at the end of the year 
+
+*  Refer to page 211 for the reconciliation of the APM: Retail free cash flow.  
+
+Before 
+adjusting 
+items 
+£m 
+2,487 
+1,570 
+(16) 
+13 
+
+Retail 
+
+Adjusting 
+items 
+£m 
+(1,094) 
+76 
+- 
+(91) 
+
+– 
+– 
+
+– 
+(23) 
+64 
+– 
+4,095 
+468 
+4,563 
+(643) 
+(107) 
+3,813 
+6 
+
+– 
+982 
+
+14 
+– 
+– 
+– 
+(113) 
+52 
+(61) 
+– 
+– 
+(61) 
+335 
+
+Retail 
+Total 
+
+£m   
+1,393   
+1,646   
+(16)  
+(78)  
+
+–   
+982   
+
+14   
+(23)  
+64   
+–   
+3,982   
+520   
+4,502   
+(643)   
+(107)   
+3,752   
+341   
+
+(14) 
+
+(40) 
+
+(54)  
+
+(902) 
+
+– 
+
+(902)  
+
+(241) 
+(66) 
+(1) 
+(10) 
+451 
+1 
+(206) 
+14 
+54 
+70 
+54 
+(6) 
+(796) 
+(781) 
+(86) 
+(589) 
+(21) 
+(608) 
+232 
+(365) 
+(858) 
+(3,076) 
+
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+295 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+(1) 
+(1) 
+
+(241)  
+(66)  
+(1)  
+(10)  
+451   
+1   
+(206)  
+14   
+54   
+70   
+54   
+(6)  
+(501)  
+(781)  
+(86)  
+(589)  
+(21)  
+(608)  
+232   
+(365)  
+(859)  
+(3,077)  
+
+Before 
+adjusting 
+items 
+£m 
+143 
+54 
+16 
+– 
+
+Bank 
+
+Adjusting 
+items 
+£m 
+(11) 
+– 
+– 
+– 
+
+3 
+– 
+
+– 
+– 
+(5) 
+70 
+281 
+(271) 
+10 
+(9) 
+(17) 
+(16) 
+1 
+
+– 
+
+(15) 
+
+(38) 
+(5) 
+– 
+– 
+– 
+229 
+(323) 
+– 
+(54) 
+– 
+– 
+– 
+(205) 
+– 
+– 
+(4) 
+– 
+(101) 
+– 
+(6) 
+– 
+(111) 
+
+– 
+– 
+
+– 
+– 
+– 
+– 
+(11) 
+(3) 
+(14) 
+– 
+– 
+(14) 
+– 
+
+– 
+
+– 
+
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+
+Tesco 
+Bank 
+Total 
+
+£m   
+132   
+54   
+16   
+–   
+
+3   
+–   
+
+–   
+–   
+(5)  
+70   
+270   
+(274)  
+(4)  
+(9)   
+(17)   
+(30)   
+1   
+
+-   
+
+(15)  
+
+(38)  
+(5)  
+-   
+-   
+-   
+229   
+(323)  
+-   
+(54)  
+–   
+–   
+–   
+(205)  
+–   
+–   
+(4)  
+–   
+(101)  
+–   
+(6)   
+–   
+(111)  
+
+(59) 
+
+233 
+
+174   
+
+(332) 
+
+(14) 
+
+(346)  
+
+Discontinued 
+
+operations   
+
+Tesco 
+Group 
+
+Total 
+
+£m   
+(9)  
+–   
+–   
+2   
+
+–   
+–   
+
+9   
+–   
+–   
+–   
+2   
+(3)  
+(1)  
+–   
+1   
+–   
+–   
+
+–   
+
+–   
+
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+
+–   
+
+Total 
+£m 
+1,516 
+1,700 
+– 
+(76) 
+
+3 
+982 
+
+23 
+(23) 
+59 
+70 
+4,254 
+243 
+4,497 
+(652) 
+(123) 
+3,722 
+342 
+
+(54) 
+
+(917) 
+
+(279) 
+(71) 
+(1) 
+(10) 
+451 
+230 
+(529) 
+14 
+– 
+70 
+54 
+(6) 
+(706) 
+(781) 
+(86) 
+(593) 
+(21) 
+(709) 
+232 
+(371) 
+(859) 
+(3,188) 
+
+(172) 
+1,771 
+(34) 
+1,565 
+
+136
+
+Tesco PLC Annual Report and Financial Statements 2023
+136 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+   
+ 
+ 
+   
+ 
+ 
+   
+   
+ 
+ 
+   
+ 
+ 
+   
+   
+ 
+ 
+Financial statements 
+
+52 weeks ended 26 February 2022 
+Operating profit/(loss) 
+Depreciation and amortisation 
+ATM net income 
+(Profit)/loss arising on sale of property, plant and equipment, investment property, 
+intangible assets, assets held for sale and early termination of leases 
+(Profit)/loss arising on sale of joint ventures and associates 
+(Profit)/loss arising on sale of subsidiaries 
+Net impairment loss on property, plant and equipment, right of use assets, intangible 
+assets and investment property 
+Net remeasurement (gain)/loss on non-current assets held for sale 
+Adjustment for non-cash element of pensions charge  
+Other defined benefit pension scheme payments 
+Share-based payments 
+Tesco Bank fair value movements included in operating profit/(loss) 
+Cash flows generated from operations excluding working capital 
+(Increase)/decrease in working capital 
+Cash generated from/(used in) operations 
+Interest paid 
+Corporation tax paid 
+Net cash generated from/(used in) operating activities* 
+Proceeds from sale of property, plant and equipment, investment property, 
+intangible assets and assets classified as held for sale 
+Purchase of property, plant and equipment, investment property and other long-
+term assets – property buybacks 
+Purchase of property, plant and equipment, investment property and other long-
+term assets – other capital expenditure 
+Purchase of intangible assets 
+Disposal of subsidiaries, net of cash disposed 
+Acquisition of subsidiaries, net of cash acquired 
+Proceeds from sale of joint ventures and associates 
+Increase in loans to joint ventures and associates 
+Investments in joint ventures and associates 
+Net (investments in)/proceeds from sale of short-term investments 
+Proceeds from sale of other investments 
+Purchase of other investments 
+Dividends received from joint ventures and associates 
+Dividends received from Tesco Bank 
+Interest received 
+Net cash generated from/(used in) investing activities* 
+Own shares purchased for cancellation 
+Own shares purchased for share schemes 
+Repayment of capital element of obligations under leases 
+Increase in borrowings 
+Repayment of borrowings 
+Cash inflows from derivative financial instruments 
+Cash outflows from derivative financial instruments 
+Dividends paid to equity holders 
+Net cash generated from/(used in) financing activities* 
+
+Net increase/(decrease) in cash and cash equivalents  
+Cash and cash equivalents at the beginning of the year 
+Effect of foreign exchange rate changes 
+Cash and cash equivalents at the end of the year 
+
+Refer to previous table for footnote. 
+
+Note 3 Operating expenses 
+Auditor’s remuneration 
+
+Before 
+adjusting 
+items 
+£m 
+2,649 
+1,577 
+(14) 
+5 
+
+Retail 
+
+Adjusting 
+items 
+£m 
+(265) 
+76 
+– 
+(128) 
+
+– 
+– 
+– 
+
+– 
+7 
+(19) 
+63 
+– 
+4,268 
+501 
+4,769 
+(644) 
+(195) 
+3,930 
+– 
+
+(15) 
+– 
+115 
+
+6 
+– 
+– 
+– 
+– 
+(211) 
+(105) 
+(316) 
+– 
+– 
+(316) 
+308 
+
+Retail 
+Total 
+
+£m   
+2,384   
+1,653   
+(14)  
+(123)  
+
+(15)  
+–   
+115   
+
+6   
+7   
+(19)  
+63   
+–   
+4,057   
+396   
+4,453   
+(644)  
+(195)  
+3,614   
+308   
+
+(37) 
+
+(43) 
+
+(80)  
+
+(854) 
+
+– 
+
+(854)  
+
+(196) 
+– 
+– 
+– 
+(4) 
+(11) 
+(1,067) 
+2 
+(1) 
+22 
+87 
+3 
+(2,056) 
+(278) 
+(144) 
+(571) 
+394 
+(754) 
+798 
+(921) 
+(704) 
+(2,180) 
+
+– 
+117 
+– 
+15 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+397 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+(27) 
+(27) 
+
+(196)  
+117   
+–   
+15   
+(4)  
+(11)  
+(1,067)  
+2   
+(1)  
+22   
+87   
+3   
+(1,659)  
+(278)  
+(144)  
+(571)  
+394   
+(754)  
+798   
+(921)  
+(731)  
+(2,207)   
+
+Before 
+adjusting 
+items 
+£m 
+176 
+65 
+14 
+– 
+
+Bank 
+
+Adjusting 
+items 
+£m 
+– 
+– 
+– 
+– 
+
+(10) 
+– 
+– 
+
+– 
+– 
+– 
+3 
+(28) 
+220 
+(54) 
+166 
+(5) 
+(4) 
+157 
+1 
+
+– 
+
+(14) 
+
+(33) 
+– 
+(48) 
+– 
+– 
+– 
+– 
+272 
+(220) 
+10 
+(87) 
+– 
+(119) 
+– 
+– 
+(4) 
+– 
+(21) 
+– 
+– 
+– 
+(25) 
+
+– 
+– 
+– 
+
+– 
+– 
+– 
+– 
+– 
+– 
+(8) 
+(8) 
+– 
+– 
+(8) 
+– 
+
+– 
+
+– 
+
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+
+Tesco 
+Bank 
+Total 
+
+£m   
+176   
+65   
+14   
+–   
+
+(10)  
+–   
+–   
+
+–   
+–   
+–   
+3   
+(28)  
+220   
+(62)  
+158   
+(5)   
+(4)  
+149   
+1   
+
+–   
+
+(14)  
+
+(33)  
+–   
+(48)  
+–   
+–   
+–   
+–   
+272   
+(220)  
+10   
+(87)  
+–   
+(119)  
+–   
+–   
+(4)  
+–   
+(21)  
+–   
+–   
+–   
+(25)  
+
+(306) 
+
+54 
+
+(252)  
+
+13 
+
+(8) 
+
+5   
+
+Discontinued 
+
+operations   
+
+Tesco 
+Group 
+
+Total 
+
+£m   
+(51)  
+–   
+–   
+–   
+
+–   
+23   
+–   
+
+(3)  
+–   
+–   
+–   
+–   
+(31)  
+28   
+(3)  
+(1)   
+(2)  
+(6)   
+–   
+
+–   
+
+(1)  
+
+–   
+44   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+–   
+43   
+–   
+–   
+(2)  
+–   
+–   
+–   
+–   
+–   
+(2)   
+
+35   
+
+Total 
+£m 
+2,509 
+1,718 
+– 
+(123) 
+
+(25) 
+23 
+115 
+
+3 
+7 
+(19) 
+66 
+(28) 
+4,246 
+362 
+4,608 
+(650) 
+(201) 
+3,757 
+309 
+
+(80) 
+
+(869) 
+
+(229) 
+161 
+(48) 
+15 
+(4) 
+(11) 
+(1,067) 
+274 
+(221) 
+32 
+– 
+3 
+(1,735) 
+(278) 
+(144) 
+(577) 
+394 
+(775) 
+798 
+(921) 
+(731) 
+(2,234) 
+
+(212) 
+1,971 
+12 
+1,771 
+
+Fees payable to the Company’s auditor and its associates for the audit of the Company and Group financial statements 
+The audit of the accounts of the Company’s subsidiaries 
+Total audit services 
+Audit-related assurance services 
+Non-audit services 
+Total non-audit services 
+Total auditor’s remuneration 
+
+52 weeks 
+2023 
+£m 
+3.6 
+9.7 
+13.3 
+1.2 
+0.2 
+1.4 
+14.7 
+
+52 weeks 
+2022 
+£m 
+2.8 
+8.9 
+11.7 
+0.9 
+0.6 
+1.5 
+13.2 
+
+Audit-related assurance services of £1.2m (2022: £0.9m) comprise: review of the Group’s interim report £0.5m (2022: £0.5m) and other services 
+£0.7m (2022: £0.4m). In addition to the amounts shown above, the auditor received fees of £0.3m (2022: £0.3m) for the audit of the main Group 
+pension schemes, and fees of £0.3m (2022: £0.2m) for the audit of joint ventures. Non-audit services are subject to approval by the Chief Audit 
+and Risk Officer and the Audit Committee. Additional information on the non-audit services provided by the auditor is provided in the Audit 
+Committee report on page 76, including how
+
+objectivity and independence is safeguarded. 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+Tesco PLC Annual Report and Financial Statements 2023
+137 
+
+137
+
+Financial statements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+   
+ 
+ 
+ 
+   
+ 
+ 
+   
+   
+ 
+ 
+   
+ 
+ 
+   
+   
+ 
+ 
+   
+ 
+ 
+   
+   
+ 
+ 
+Notes to the Group financial statements continued 
+
+Note 3 Operating expenses continued 
+Employment costs, including Directors’ remuneration 
+
+Continuing operations 
+Wages and salaries 
+Social security costs 
+Post-employment defined benefits 
+Post-employment defined contributions 
+Share-based payments expense 
+Termination benefits 
+Total 
+
+Notes 
+
+29 
+29 
+28 
+
+52 weeks 
+2023 
+£m 
+6,516 
+519 
+24 
+375 
+112 
+110 
+7,656 
+
+52 weeks 
+2022 
+£m 
+6,410 
+493 
+40 
+361 
+122 
+40 
+7,466 
+
+Post-employment defined contribution charges include £143m (2022: £136m) of salaries paid as pension contributions.  
+
+The table below shows the average number of employees by segment during the financial year. 
+
+Continuing operations 
+UK & ROI 
+Central Europe 
+Tesco Bank 
+Total 
+
+Note 4 Adjusting items 
+Group income statement 
+Refer to Note 1 for further details regarding the assessment of items as adjusting. 
+
+52 weeks ended 25 February 2023 
+Profit/(loss) for the year included the following adjusting items: 
+
+Average number 
+of employees 
+2023 
+309,366  
+23,971  
+3,589  
+336,926 
+
+2022   
+326,218   
+24,935   
+3,591   
+354,744   
+
+Average number of 
+full-time equivalents 
+
+2023 
+196,911 
+21,998  
+3,397  
+222,306 
+
+2022 
+204,974 
+22,895 
+3,354 
+231,223 
+
+Property transactions(a) 
+Net impairment (loss)/reversal of non-
+current assets(b) 
+Fair value less cost of disposal 
+movements on assets held for sale 
+Restructuring(c)  
+Disposal of Asia operations(d) 
+ATM business rates refund(e) 
+Release of onerous contract 
+provision(f) 
+Amortisation of acquired intangible 
+assets(g) 
+Net pension finance income(h) 
+Fair value remeasurements of 
+financial instruments(h) 
+Total adjusting items from 
+continuing operations 
+Adjusting items relating to 
+discontinued operations(i) 
+Total adjusting items 
+
+Administrative 
+expenses 
+£m 
+55 
+(17) 
+
+Total adjusting 
+items included 
+within 
+operating profit 
+ £m 
+91 
+(982) 
+
+Share of joint 
+venture and 
+associates 
+profits/(losses) 
+£m 
+– 
+– 
+
+Cost of sales 
+£m 
+36 
+(965) 
+
+Finance 
+income/ 
+ (costs) 
+£m 
+– 
+– 
+
+Adjusting items 
+included within 
+discontinued 
+operations 
+£m 
+– 
+– 
+
+Taxation 
+£m 
+29 
+129 
+
+Total adjusting 
+items 
+£m 
+120 
+(853) 
+
+– 
+
+(107) 
+- 
+7 
+– 
+
+– 
+
+– 
+– 
+
+(14) 
+
+(31) 
+2 
+- 
+5 
+
+(76) 
+
+– 
+– 
+
+(14) 
+
+(138) 
+2 
+7 
+5 
+
+(76) 
+
+– 
+– 
+
+(1,029) 
+
+(76) 
+
+(1,105) 
+
+– 
+
+– 
+
+– 
+
+(1,029) 
+
+(76) 
+
+(1,105) 
+
+– 
+
+– 
+– 
+– 
+– 
+
+– 
+
+– 
+– 
+
+– 
+
+– 
+
+- 
+
+– 
+
+– 
+– 
+– 
+– 
+
+– 
+
+80 
+(51) 
+
+29 
+
+– 
+
+29 
+
+1 
+
+26 
+– 
+(1) 
+– 
+
+14 
+
+(15) 
+12 
+
+195 
+
+– 
+
+195 
+
+– 
+
+– 
+– 
+– 
+– 
+
+– 
+
+– 
+– 
+
+– 
+
+(9) 
+
+(9) 
+
+(13) 
+
+(112) 
+2 
+6 
+5 
+
+(62) 
+
+65 
+(39) 
+
+(881) 
+
+(9) 
+
+(890) 
+
+(a)  The Group disposed of surplus properties that generated a profit before tax of £91m (2022: £128m). £37m relates to the disposal of mall properties in Central Europe and associated store sale and 
+
+leasebacks (2022: £nil). Refer to Notes 7 and 12 for further details. Taxation includes £63m deferred tax credit on lease simplifications relating to property joint venture structures. 
+
+(b) Refer to Note 14 for further details on net impairment (loss)/reversal of non-current assets. Includes £(7)m of impairment relating to the acquisition of The Tesco Dorney Limited Partnership 
+
+(refer to Note 33).  
+
+(c)  Provisions relating to operational restructuring changes announced as part of ‘Save to invest’, a multi-year programme. The total cost of the programme to date is £(182)m. Future cost savings will 
+
+not be reported within adjusting items. 
+
+(d) £4m relates to software licence fee income (2022: £26m) from services provided to CP Group as part of the Transitional Services Agreement relating to the sale of Asia. £(2)m relates to payment 
+
+of outstanding employer tax liabilities as part of the disposal of Asia. Costs and income in relation to the disposal of Asia have been recognised in adjusting items in previous years. 
+(e)  Ruling that Tesco Group is due a refund of business rates relating to external facing ATMs in stores. Similar refunds have been recognised through adjusting items in previous years. 
+(f)  Release of onerous contract provisions in ROI that had been charged through adjusting items in previous years. 
+(g)  Amortisation of acquired intangibles relates to historical inorganic business combinations and does not reflect the Group’s ongoing trading performance.  
+(h)  Net pension finance income and fair value remeasurements of financial instruments are included within adjusting items, as they can fluctuate significantly due to external market factors that are 
+
+outside management’s control. Refer to Note 5 for details of finance income and costs. 
+
+(i)  Refer to Note 7 for explanation of adjusting items relating to discontinued operations. 
+
+138
+
+Tesco PLC Annual Report and Financial Statements 2023
+138 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial statements 
+
+52 weeks ended 26 February 2022 
+Profit/(loss) for the year included the following adjusting items: 
+
+Property transactions 
+Net impairment (loss)/reversal of non-
+current assets 
+Fair value less cost of disposal 
+movements on assets held for sale  
+Restructuring provisions 
+Asia licence fee 
+Litigation costs 
+Disposal of China associate 
+Amortisation of acquired intangible 
+assets 
+Net pension finance costs 
+Fair value remeasurements of 
+financial instruments 
+Release of tax provisions 
+Total adjusting items from 
+continuing operations 
+Adjusting items relating to 
+discontinued operations 
+Total adjusting items 
+
+Cost of sales 
+£m 
+1 
+(140) 
+
+Administrative 
+expenses 
+£m 
+127 
+25 
+
+Total adjusting 
+items included 
+within operating 
+profit 
+ £m 
+128 
+(115) 
+
+Share of joint 
+venture and 
+associates 
+profits/(losses) 
+£m 
+– 
+– 
+
+Finance 
+income/  
+(costs) 
+£m 
+– 
+– 
+
+Adjusting items 
+included within 
+discontinued 
+operations 
+£m 
+– 
+– 
+
+Taxation 
+£m 
+(21) 
+(26) 
+
+Total adjusting 
+items 
+£m 
+107 
+(141) 
+
+– 
+
+(37) 
+– 
+– 
+– 
+– 
+
+– 
+– 
+
+– 
+(176) 
+
+– 
+
+(176) 
+
+(6) 
+
+(7) 
+26 
+(193) 
+15 
+(76) 
+
+– 
+– 
+
+– 
+(89) 
+
+– 
+
+(89) 
+
+(6) 
+
+(44) 
+26 
+(193) 
+15 
+(76) 
+
+– 
+– 
+
+– 
+(265) 
+
+– 
+
+(265) 
+
+– 
+
+– 
+– 
+– 
+– 
+– 
+
+– 
+– 
+
+– 
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+– 
+– 
+– 
+– 
+
+(22)  
+123  
+
+– 
+101 
+
+– 
+
+101 
+
+– 
+
+8 
+(5) 
+– 
+– 
+(7) 
+
+6 
+(19) 
+
+56 
+(8) 
+
+– 
+
+(8) 
+
+– 
+
+– 
+– 
+– 
+– 
+– 
+
+– 
+– 
+
+– 
+– 
+
+(38)  
+
+(38) 
+
+(6) 
+
+(36) 
+21 
+(193) 
+15 
+(83) 
+
+(16) 
+104 
+
+56 
+(172) 
+
+(38) 
+
+(210) 
+
+Group cash flow statement 
+The table below shows the impact of adjusting items on the Group cash flow statement: 
+
+Property transactions(a) 
+Poland sale proceeds and costs 
+Litigation costs 
+Acquisition of property joint venture 
+Booker integration cash payments 
+Settlement of claims for customer redress in Tesco Bank 
+Disposal of China associate 
+ATM business rates refund(b) 
+Special dividend 
+Disposal of Asia operations 
+Restructuring(c) 
+Total continuing operations 
+Cash flows from discontinued operations 
+Total 
+
+Cash flows from 
+operating activities 
+
+Cash flows from 
+investing activities 
+
+Cash flows from 
+financing activities 
+
+52 weeks 
+2023 
+£m 
+– 
+– 
+– 
+– 
+– 
+(4) 
+– 
+5 
+– 
+(2) 
+(74) 
+(75) 
+– 
+(75) 
+
+52 weeks 
+2022 
+£m   
+–   
+–   
+(312)   
+–   
+(18)  
+(8)  
+–   
+14   
+–   
+–   
+–   
+(324)   
+(1)   
+(325)   
+
+52 weeks 
+2023 
+£m 
+335 
+– 
+– 
+(40) 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+295 
+– 
+295 
+
+52 weeks 
+2022 
+£m   
+308   
+122   
+–   
+(43)  
+–   
+–   
+15   
+–   
+–   
+(5)  
+–   
+397   
+44   
+441   
+
+52 weeks 
+2023 
+£m 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+(1) 
+– 
+– 
+(1) 
+– 
+(1) 
+
+52 weeks 
+2022 
+£m 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+(27) 
+– 
+– 
+(27) 
+– 
+(27) 
+
+(a)  Property transactions include £43m proceeds (2022: £109m) relating to the sale of stores in Poland not included in the sale of the corporate business. £203m proceeds (2022: £nil) relate to the 
+
+disposal of mall properties in Central Europe and the associated store sale and leasebacks. Refer to Notes 7 and 12 for further details.  
+
+(b) Amounts received in the year with respect to the ruling that Tesco Group is due a refund of business rates relating to external facing ATMs in stores. 
+(c)  Cash outflows relating to operational restructuring changes as part of the multi-year ‘Save to invest’ programme. 
+
+Note 5 Finance income and costs 
+
+Continuing operations 
+Finance income 
+Interest receivable and similar income 
+Interest receivable on other investments 
+Finance income receivable on net investment in leases 
+Total finance income 
+Finance costs 
+GBP MTNs and loans 
+EUR MTNs 
+USD bonds 
+Finance charges payable on lease liabilities 
+Other interest payable 
+Total finance costs before adjusting items 
+Fair value remeasurements of financial instruments* 
+Net pension finance income/(cost) 
+Total finance costs 
+Net finance costs 
+
+Notes 
+
+52 weeks 
+2023 
+£m 
+
+52 weeks 
+2022 
+£m 
+
+78 
+3 
+4 
+85 
+
+(160) 
+(53) 
+(18) 
+(373) 
+(43) 
+(647) 
+(51) 
+80 
+(618) 
+(533) 
+
+4 
+– 
+5 
+9 
+
+(161) 
+(42) 
+(5) 
+(405) 
+(39) 
+(652) 
+123 
+(22) 
+(551) 
+(542) 
+
+29 
+
+*  Fair value remeasurements of financial instruments included £70m gain (2022: £nil) relating to the repurchase of long-dated bonds. 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+Tesco PLC Annual Report and Financial Statements 2023
+139 
+
+139
+
+Financial statements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes to the Group financial statements continued 
+
+Note 6 Taxation 
+Recognised in the Group income statement 
+
+Continuing operations 
+Current tax (credit)/charge 
+UK corporation tax 
+Overseas tax 
+Adjustments in respect of prior years 
+
+Deferred tax (credit)/charge 
+Origination and reversal of temporary differences 
+Adjustments in respect of prior years 
+Change in tax rate 
+
+Total income tax (credit)/charge 
+
+Reconciliation of effective tax charge 
+
+Continuing operations 
+Profit/(loss) before tax 
+Tax credit/(charge) at 19.0% (2022: 19.0%) 
+Effect of: 
+
+Non-qualifying depreciation* 
+Expenses not deductible 
+Property items taxed on a different basis to accounting entries 
+Impairment of non-current assets 
+Banking surcharge tax 
+Differences in overseas taxation rates 
+Adjustments in respect of prior years 
+Share of losses of joint ventures and associates 
+Change in tax rate 
+
+Total income tax credit/(charge) 
+Effective tax rate 
+
+*  This figure has been reduced by the tax effect of the super-deduction of £30m (2022: £23m) in respect of tax relief for fixed assets. 
+
+Reconciliation of effective tax charge on adjusted profit before tax 
+
+Continuing operations 
+Profit/(loss) before tax 
+Add: Adjusting items 
+Adjusted profit before tax 
+Tax credit/(charge) at 19.0% (2022: 19.0%) 
+Effect of: 
+
+Non-qualifying depreciation(a)  
+Expenses not deductible 
+Property items taxed on a different basis to accounting entries 
+Banking surcharge tax 
+Differences in overseas taxation rates 
+Adjustments in respect of prior years 
+Share of profits of joint ventures and associates 
+Change in tax rate(b)  
+
+Total income tax credit/(charge) before adjusting items 
+Adjusted effective tax rate 
+
+(a)  This figure has been reduced by the tax effect of the super-deduction of £30m (2022: £23m) in respect of tax relief for fixed assets. 
+(b) Change in tax rate includes £31m (2022: £19m) in relation to provision of deferred tax at 25% (2022: 25%) on assets qualifying for super-deductions. 
+
+Tax on items credited directly to the Group statement of changes in equity 
+
+Continuing operations 
+Current tax credit/(charge) on: 
+Share-based payments 
+
+Deferred tax credit/(charge) on: 
+
+Share-based payments 
+
+Total tax on items credited/(charged) to the Group statement of changes in equity 
+
+140
+
+Tesco PLC Annual Report and Financial Statements 2023
+140 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+52 weeks 
+2023 
+£m 
+
+52 weeks 
+2022 
+£m 
+
+202 
+78 
+19 
+299 
+
+(18) 
+(35) 
+1 
+(52) 
+247 
+
+52 weeks 
+2023 
+£m 
+1,000 
+(190) 
+
+(5) 
+(21) 
+33 
+(87) 
+(5) 
+11 
+16 
+2 
+(1) 
+(247) 
+24.7% 
+
+52 weeks 
+2023 
+£m 
+1,000 
+1,076 
+2,076 
+(394) 
+
+(5) 
+(21) 
+– 
+(5) 
+10 
+(3) 
+2 
+(26) 
+(442) 
+21.3% 
+
+201 
+69 
+(55) 
+215 
+
+216 
+1 
+78 
+295 
+510 
+
+52 weeks 
+2022 
+£m 
+2,033 
+(386) 
+
+(7) 
+(57) 
+7 
+(43) 
+(13) 
+10 
+54 
+3 
+(78) 
+(510) 
+25.1% 
+
+52 weeks 
+2022 
+£m 
+2,033 
+164 
+2,197 
+(417) 
+
+(7) 
+(32) 
+(1) 
+(13) 
+10 
+(2) 
+3 
+(43) 
+(502) 
+22.8% 
+
+52 weeks 
+2023 
+£m 
+
+52 weeks 
+2022 
+£m 
+
+6 
+
+(11) 
+(5) 
+
+1 
+
+14 
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial statements 
+
+Tax relating to components of the Group statement of comprehensive income/(loss) 
+
+Continuing operations 
+Current tax credit/(charge) on: 
+
+Pensions 
+
+Deferred tax credit/(charge) on: 
+
+Pensions 
+Fair value movement on financial assets at fair value through other comprehensive income 
+Fair value movements on cash flow hedges 
+
+Total tax on items credited/(charged) to the Group statement of comprehensive income/(loss) 
+
+52 weeks 
+2023 
+£m 
+
+52 weeks 
+2022 
+£m 
+
+124 
+
+719 
+11 
+20 
+874 
+
+124 
+
+(1,030) 
+5 
+(22) 
+(923) 
+
+Deferred tax 
+The following are the major deferred tax (liabilities)/assets recognised by the Group and movements thereon during the current and prior 
+financial years, measured using the tax rates that are expected to apply when the liability is settled or the asset realised based on the tax rates 
+that have been enacted or substantively enacted by the balance sheet date. Deferred tax assets are recognised when it is probable sufficient 
+taxable profits will be available to utilise deductible temporary differences or unused tax losses. This assessment is based on the Group’s three-
+year long-term plan which is updated and approved annually by the Board and is consistent with the Group’s longer-term viability statement and 
+impairment assessments. 
+
+At 27 February 2021 
+(Charge)/credit to the Group income statement 
+(Charge)/credit to the Group statement of 
+changes in equity 
+(Charge)/credit to the Group statement of 
+comprehensive income/(loss) 
+Foreign exchange and other movements 
+At 26 February 2022 
+(Charge)/credit to the Group income statement 
+(Charge)/credit to the Group statement of 
+changes in equity 
+(Charge)/credit to the Group statement of 
+comprehensive income/(loss) 
+Foreign exchange and other movements 
+At 25 February 2023 
+
+Property-
+related 
+items(a) 
+£m 
+(125) 
+(227) 
+– 
+
+Acquired 
+intangibles 
+£m 
+(98) 
+(10) 
+– 
+
+Post- 
+employment 
+benefits(b) 
+£m 
+582 
+(1) 
+– 
+
+Share-based 
+payments 
+£m 
+31 
+(6) 
+14 
+
+Short-term 
+timing 
+differences 
+£m 
+69 
+(24) 
+– 
+
+Tax losses 
+£m 
+3 
+2 
+– 
+
+Financial 
+instruments 
+£m 
+42 
+(29) 
+– 
+
+Total 
+£m 
+504 
+(295) 
+14 
+
+– 
+
+– 
+
+(1,030) 
+
+– 
+(352) 
+(80) 
+– 
+
+– 
+
+(2) 
+(434) 
+
+– 
+(108) 
+15 
+– 
+
+– 
+
+(2) 
+(95) 
+
+(2) 
+(451) 
+(13) 
+– 
+
+719 
+
+– 
+255 
+
+– 
+
+– 
+39 
+11 
+(11) 
+
+– 
+
+– 
+39 
+
+– 
+
+– 
+45 
+14 
+– 
+
+– 
+
+1 
+60 
+
+– 
+
+1 
+6 
+140 
+– 
+
+– 
+
+– 
+146 
+
+(17) 
+
+(1,047) 
+
+– 
+(4) 
+(35) 
+– 
+
+31 
+
+– 
+(8) 
+
+(1) 
+(825) 
+52 
+(11) 
+
+750 
+
+(3) 
+(37) 
+
+(a)  Property-related items include a deferred tax liability on rolled-over gains of £421m (2022: £423m), deferred tax assets on capital losses of £242m (2022: £248m) and deferred tax assets on IFRS 16 
+
+balances of £235m (2022: £238m). The remaining balance relates to accelerated tax depreciation. 
+
+(b) The deferred tax asset on retirement benefits includes a deferred tax asset of £155m (2022: £275m) arising from a one-off contribution of £2.5bn paid in December 2020 on which tax deductions 
+
+are spread over 4 years, with the remaining balance related to the pension schemes in deficit. Refer to Note 29 for further details. 
+
+The following is the analysis of the deferred tax balances after offset: 
+
+Deferred tax assets 
+Deferred tax liabilities 
+
+2023 
+£m 
+82 
+(119) 
+(37) 
+
+2022 
+£m 
+85 
+(910) 
+(825) 
+
+Unrecognised deferred tax assets and liabilities 
+Deferred tax assets in relation to continuing operations have not been recognised in respect of the following items, because it is not probable 
+that future taxable profits will be available against which the Group can utilise the benefits: 
+
+Deductible temporary differences 
+Tax losses 
+
+2023 
+£m 
+45 
+186 
+231 
+
+2022 
+£m 
+47 
+178 
+225 
+
+As at 25 February 2023, the Group has unused trading tax losses from continuing operations of £1,177m (2022: £590m) available for offset against 
+future profits. A deferred tax asset has been recognised in respect of £584m (2022: £26m) of such losses, with £571m (2022: £12m) arising in the 
+UK and £13m (2022: £14m) in other jurisdictions. No deferred tax asset has been recognised in respect of the remaining overseas trading tax losses 
+of £593m (2022: £564m) due to the unpredictability of future profit streams, with £552m (2022: £527m) arising in the Netherlands, £34m (2022: 
+£33m) in Germany and £7m (2022: £4m) in other jurisdictions. Capital losses of £95m in ROI (2022: £91m) have not been recognised as it is not 
+expected they will be utilised. There are no losses that will expire included in unrecognised losses. A deferred tax asset has not been recognised in 
+respect of deductible temporary differences of £45m (2022: £47m) as it is not expected they will be utilised. There is no expiry date for these 
+temporary differences. 
+
+No deferred tax liability is recognised on temporary differences of £4.3bn (2022: £4bn) relating to the unremitted earnings of overseas 
+subsidiaries and joint ventures as the Group is able to control the timing of the reversal of these temporary differences and it is probable that 
+they will not reverse in the foreseeable future. The deferred tax on unremitted earnings at 25 February 2023 is estimated to be £6m (2022: £5m) 
+which relates to taxes payable on repatriation and dividend withholding taxes levied by overseas tax jurisdictions. UK tax legislation relating to 
+company distributions provides for exemption from tax for most repatriated profits, subject to certain exceptions. 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+Tesco PLC Annual Report and Financial Statements 2023
+141 
+
+141
+
+Financial statements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes to the Group financial statements continued 
+
+Note 6 Taxation continued 
+Changes in tax law or its interpretation  
+The Group operates in a number of territories and so the Group’s profits are subject to tax in many jurisdictions. The Group monitors income tax 
+developments in these territories which could affect the Group’s tax liabilities. The Group notes recent developments in relation to the OECD 
+Inclusive Framework on Base Erosion and Profit Shifting but does not expect it to have a material impact on the Group’s tax charge.  
+
+Note 7 Discontinued operations and assets classified as held for sale  
+Assets and liabilities of the disposal group and non-current assets classified as held for sale 
+
+Assets of the disposal group(a) 
+Non-current assets classified as held for sale(b) 
+Total assets of the disposal group and non-current assets classified as held for sale 
+Liabilities of the disposal group(a) 
+Total net assets of the disposal group and non-current assets classified as held for sale 
+
+2023 
+£m 
+11 
+199 
+210 
+(14) 
+196 
+
+2022 
+£m 
+11 
+357 
+368 
+(14) 
+354 
+
+(a)  The disposal group as at 25 February 2023, including £(14)m of net debt (2022: £(14)m), relates to residual properties and leases with respect to the Group’s operation in Poland. Balances as at  
+
+26 February 2022 were also with respect to the Group’s operation in Poland. 
+
+(b) The assets classified as held for sale consist mainly of properties in the UK, Poland and Central Europe due to be sold within one year. Due to the individual nature of each property, fair values are 
+
+classified as Level 3 within the fair value hierarchy. 
+
+Assets classified as held for sale 
+During the year the Group sold 17 malls and one retail park in Central Europe, leasing back 17 stores within those sites. Net proceeds from the sale 
+and leaseback transaction were £203m. As the sale and leaseback proceeds did not exceed the fair value of the stores sold, the proceeds are 
+presented in the ‘investing’ category in the Group cash flow statement. The profit on disposal was £37m. Refer to Note 4. Refer to Note 12 for 
+details on the leaseback of the stores. 
+
+Discontinued operations 
+Income statement of discontinued operations 
+
+Revenue 
+Operating costs 
+Adjusted operating profit/(loss) 
+Adjusted profit/(loss) after tax 
+Loss on disposal of Poland 
+Homeplus (Korea) claims settlement(a) 
+Other adjusting items(b)(c) 
+Tax on adjusting items  
+Total adjusting items 
+Total profit/(loss) after tax of discontinued operations 
+
+2023   
+Total 
+£m 
+
+–   
+–   
+–   
+–   
+–   
+–   
+(9)  
+–   
+(9)   
+(9)   
+
+Poland 
+£m 
+32 
+(34) 
+(2) 
+(2) 
+(23) 
+– 
+3 
+– 
+(20) 
+(22) 
+
+2022 
+
+Other 
+£m 
+– 
+– 
+– 
+– 
+– 
+(33) 
+4 
+11 
+(18) 
+(18) 
+
+Total 
+£m 
+32 
+(34) 
+(2) 
+(2) 
+(23) 
+(33) 
+7 
+11 
+(38) 
+(40) 
+
+(a)  £(33)m in the prior year relates to the claims settlement from Homeplus (Korea) purchasers.  
+(b) Other adjusting items of £(9)m in the current year includes £(9)m fair value remeasurement of non-current assets classified as held for sale, £(2)m loss on disposal of surplus properties, both 
+
+relating to Poland and £2m income relating to the disposal of Korea.  
+
+(c)  Other adjusting items of £7m in the prior year includes £4m reversal of accruals relating to legal costs and £3m fair value remeasurement of non-current assets classified as held for sale. 
+
+Cash flow statement 
+
+Net cash flows from operating activities 
+Net cash flows from investing activities 
+Net cash flows from financing activities 
+Net cash flows from discontinued operations 
+
+Note 8 Dividends 
+
+Paid prior financial year final dividend(a) 
+Paid interim dividend(b) 
+Amounts recognised through equity as distributions to owners 
+Paid 2021 special dividend 
+Dividends paid in the financial year 
+
+Proposed final dividend at financial year end 
+
+2023   
+£m   
+–   
+–   
+–   
+–   
+
+2023 
+
+2022 
+
+Pence/share 
+7.70 
+3.85 
+11.55 
+50.93 
+
+7.05 
+
+£m   
+574   
+284   
+858  
+1   
+859   
+
+516  
+
+Pence/share 
+5.95 
+3.20 
+9.15 
+50.93 
+
+7.70 
+
+2022 
+£m 
+(6) 
+43 
+(2) 
+35 
+
+£m 
+458 
+246 
+704 
+27 
+731 
+
+588 
+
+(a)  Excludes £7m prior financial year final dividend waived (2022: £2m) and includes the write-back of unclaimed dividend of £5m (2022: £nil). 
+(b)  Excludes £2m interim dividend waived (2022: £1m). 
+
+The proposed final dividend was approved by the Board of Directors on 12 April 2023 and is subject to the approval of shareholders at the AGM. 
+will be paid on 23 June 2023 to shareholders who are on the 
+The proposed dividend has not been included as a liability as at 25 February 2023. It
+Register of members at close of business on 12 May 2023. 
+
+A dividend reinvestment plan (DRIP) is available to shareholders who would prefer to invest their dividends in the shares of the Company. For
+those shareholders electing to receive the DRIP, the last date for receipt of a new election is 2 June 2023. 
+
+142
+
+Tesco PLC Annual Report and Financial Statements 2023
+142 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial statements 
+
+The Group has a share forfeiture programme following the completion of a tracing and notification exercise to any shareholders who have not
+had contact with Tesco PLC over the past 12 years, in accordance with the provisions set out in the Company’s Articles of Association. £nil (2022: 
+£nil) of unclaimed dividends in relation to these shares have been adjusted for in retained earnings. Refer to Note 30 for further details. 
+
+Note 9 Earnings/(losses) per share and diluted earnings/(losses) per share 
+For the 52 weeks ended 25 February 2023 there were 67 million (2022: 88 million) potentially dilutive share options and awards. As the Group has 
+recognised a
+
+profit for the year from its continuing operations, dilutive effects have been considered in calculating diluted earnings per share. 
+
+52 weeks ended 25 February 2023 
+
+52 weeks ended 26 February 2022 
+
+Profit/(loss) (£m) 
+Continuing operations* 
+Discontinued operations 
+Total 
+Weighted average number of shares (millions) 
+
+Earnings/(losses) per share (pence) 
+Continuing operations 
+Discontinued operations 
+Total 
+
+Potentially 
+dilutive share 
+options and 
+awards 
+
+– 
+– 
+– 
+67 
+
+(0.09) 
+– 
+(0.09) 
+
+Basic 
+
+754 
+(9) 
+745 
+7,415 
+
+10.17 
+(0.12) 
+10.05 
+
+*  Excludes profits/(losses) from non-controlling interests of £(1)m (2022: £2m). 
+
+APM: Adjusted diluted earnings/(losses) per share 
+
+Continuing operations 
+Profit/(loss) before tax (£m) 
+Less: Adjusting items (£m) 
+Adjusted profit before tax (£m) 
+Adjusted profit before tax attributable to the owners of the parent (£m)* 
+Taxation on adjusted profit before tax attributable to the owners of the parent (£m) 
+Adjusted profit after tax attributable to the owners of the parent (£m) 
+
+Basic weighted average number of shares (millions) 
+Adjusted basic earnings per share (pence) 
+
+Diluted weighted average number of shares (millions) 
+Adjusted diluted earnings per share (pence) 
+
+*  Excludes profit/(losses) before tax attributable to non-controlling interests of £(1)m (2022: £2m). 
+
+Note 10 Goodwill and other intangible assets 
+
+Diluted 
+
+Basic 
+
+754   
+(9)  
+745   
+7,482   
+
+10.08   
+(0.12)  
+9.96   
+
+1,521 
+(40) 
+1,481 
+7,658 
+
+19.86 
+(0.52) 
+19.34 
+
+Notes 
+
+4 
+
+6 
+
+Cost 
+At 26 February 2022 
+Foreign currency translation 
+Additions 
+Acquired through business combinations 
+Reclassification 
+Disposals 
+At 25 February 2023 
+Accumulated amortisation and impairment losses 
+At 26 February 2022 
+Foreign currency translation 
+Amortisation charge for the year(c) 
+Impairment losses(d) 
+Reversal of impairment losses(d) 
+Disposals 
+At 25 February 2023 
+
+Net carrying value 
+At 25 February 2023 
+At 26 February 2022 
+
+Goodwill 
+£m 
+
+Software(a) 
+£m 
+
+Customer 
+relationships 
+£m 
+
+4,739 
+16 
+– 
+30 
+– 
+– 
+4,785 
+
+448 
+10 
+– 
+– 
+– 
+– 
+458 
+
+4,327 
+4,291 
+
+1,901 
+14 
+274 
+– 
+20 
+(175) 
+2,034 
+
+1,344 
+15 
+200 
+28 
+(5) 
+(172) 
+1,410 
+
+624 
+557 
+
+718 
+– 
+– 
+– 
+– 
+– 
+718 
+
+300 
+– 
+76 
+– 
+– 
+– 
+376 
+
+342 
+418 
+
+Potentially 
+dilutive share 
+options and 
+awards 
+
+– 
+– 
+– 
+88 
+
+(0.22) 
+– 
+(0.22) 
+
+52 weeks 
+2023 
+1,000 
+1,076 
+2,076 
+2,077 
+(442) 
+1,635 
+
+7,415 
+22.05 
+
+7,482 
+21.85 
+
+Other  
+intangible 
+assets(b) 
+£m 
+
+396 
+4 
+3 
+1 
+(20) 
+– 
+384 
+
+302 
+– 
+2 
+– 
+(2) 
+– 
+302 
+
+82 
+94 
+
+Diluted 
+
+1,521 
+(40) 
+1,481 
+7,746 
+
+19.64 
+(0.52) 
+19.12 
+
+52 weeks 
+2022 
+2,033 
+164 
+2,197 
+2,195 
+(502) 
+1,693 
+
+7,658 
+22.11 
+
+7,746 
+21.86 
+
+Total 
+£m 
+
+7,754 
+34 
+277 
+31 
+– 
+(175) 
+7,921 
+
+2,394 
+25 
+278 
+28 
+(7) 
+(172) 
+2,546 
+
+5,375 
+5,360 
+
+(a)  Software includes £455m (2022: £396m) net carrying value of internally generated development costs. 
+(b) Other intangible assets include pharmacy licences with a net carrying value of £36m (2022: £33m) and various other individually immaterial balances.  
+(c)  Of the £78m (2022: £78m) amortisation of customer relationships and other intangible assets, £76m (2022: £76m) has been included within adjusting items. £75m (2022: £75m) of this balance arises from 
+amortisation of intangible assets recognised upon the Booker acquisition and £1m (2022: £1m) relates to the amortisation of intangible assets recognised upon the acquisition of Best Food Logistics. 
+
+(d) Refer to Note 14. 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+Tesco PLC Annual Report and Financial Statements 2023
+143 
+
+143
+
+Financial statements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes to the Group financial statements continued 
+
+Note 10 Goodwill and other intangible assets continued 
+
+Cost 
+At 27 February 2021 
+Foreign currency translation 
+Additions 
+Acquired through business combinations 
+Disposals 
+At 26 February 2022 
+Accumulated amortisation and impairment losses 
+At 27 February 2021  
+Foreign currency translation 
+Amortisation charge for the year(c) 
+Impairment losses(d) 
+Reversal of impairment losses(d) 
+Reclassification 
+Disposals 
+At 26 February 2022 
+
+Refer to previous table for footnotes. 
+
+Note 11 Property, plant and equipment 
+
+Cost 
+Opening balance 
+Foreign currency translation 
+Additions(b)(c) 
+Acquired through business combinations 
+Reclassification 
+Transfers to assets classified as held for sale 
+Disposals 
+Closing balance 
+Accumulated depreciation and impairment losses  
+Opening balance 
+Foreign currency translation 
+Depreciation charge for the year 
+Impairment losses(d) 
+Reversal of impairment losses(d) 
+Reclassification 
+Transfers to assets classified as held for sale 
+Disposals 
+Closing balance 
+
+Land and 
+buildings 
+£m 
+
+21,977 
+204 
+591 
+42 
+3 
+(85) 
+(82) 
+22,650 
+
+6,814 
+75 
+434 
+686 
+(168) 
+1 
+(32) 
+(30) 
+7,780 
+
+Goodwill 
+£m 
+
+Software(a) 
+£m 
+
+Customer 
+relationships 
+£m 
+
+Other  
+intangible 
+assets(b) 
+£m 
+
+4,719 
+– 
+– 
+20 
+– 
+4,739 
+
+448 
+– 
+– 
+– 
+– 
+– 
+– 
+448 
+
+2023 
+
+Other(a) 
+£m 
+
+5,649 
+65 
+661 
+– 
+(4) 
+(5) 
+(522) 
+5,844 
+
+3,752 
+45 
+448 
+141 
+(19) 
+– 
+(2) 
+(513) 
+3,852 
+
+1,837 
+1 
+227 
+18 
+(182) 
+1,901 
+
+1,305 
+2 
+209 
+17 
+(7) 
+(2) 
+(180) 
+1,344 
+
+Total 
+£m 
+
+27,626   
+269   
+1,252   
+42   
+(1)   
+(90)   
+(604)   
+28,494   
+
+10,566   
+120   
+882   
+827   
+(187)   
+1   
+(34)   
+(543)   
+11,632   
+
+718 
+– 
+– 
+– 
+– 
+718 
+
+224 
+– 
+76 
+– 
+– 
+– 
+– 
+300 
+
+Land and 
+buildings 
+£m 
+
+21,653 
+(76) 
+992 
+– 
+(72) 
+(446) 
+(74) 
+21,977 
+
+6,554 
+(25) 
+426 
+417 
+(324) 
+– 
+(163) 
+(71) 
+6,814 
+
+395 
+1 
+2 
+– 
+(2) 
+396 
+
+299 
+– 
+2 
+1 
+(1) 
+2 
+(1) 
+302 
+
+2022 
+
+Other(a) 
+£m 
+
+5,743 
+(15) 
+595 
+1 
+– 
+(17) 
+(658) 
+5,649 
+
+3,897 
+(10) 
+467 
+89 
+(43) 
+– 
+(6) 
+(642) 
+3,752 
+
+Total 
+£m 
+
+7,669 
+2 
+229 
+38 
+(184) 
+7,754 
+
+2,276 
+2 
+287 
+18 
+(8) 
+– 
+(181) 
+2,394 
+
+Total 
+£m 
+
+27,396 
+(91) 
+1,587 
+1 
+(72) 
+(463) 
+(732) 
+27,626 
+
+10,451 
+(35) 
+893 
+506 
+(367) 
+– 
+(169) 
+(713) 
+10,566 
+
+Net carrying value(e) 
+
+14,870 
+
+1,992 
+
+16,862   
+
+15,163 
+
+1,897 
+
+17,060 
+
+Construction in progress included above(f) 
+
+109 
+
+278 
+
+387   
+
+97 
+
+212 
+
+309 
+
+(a)  Other assets consist of fixtures and fittings with a net carrying value of £1,496m (2022: £1,387m), office equipment with a net carrying value of £201m (2022: £200m) and motor vehicles with a net 
+
+carrying value of £295m (2022: £310m). Depreciation charge for the year is £(292)m (2022: £(310)m), £(71)m (2022: £(78)m) and £(85)m (2022: £(79)m), respectively. 
+
+(b) Includes £248m of land and buildings related to obtaining control of The Tesco Dorney Limited Partnership, which was impaired by £(7)m on acquisition (2022: £584m of land and buildings related 
+
+to obtaining control of The Tesco Sarum Limited Partnership, which was impaired by £(62)m on acquisition). Refer to Note 33. 
+
+(c)  Includes £29m (2022: £37m) relating to other property buyback transactions. 
+(d) Refer to Note 14. 
+(e)  Includes £2,814m (2022: £2,231m) of assets pledged as security for secured bonds (refer to Note 21) and £783m (2022: £914m) of property held as security in favour of the Tesco PLC Pension 
+
+Scheme (refer to Note 29). 
+
+(f)  Construction in progress does not include land. 
+
+Note 12 Leases 
+Group as lessee 
+Lease liabilities represent rentals payable by the Group for certain retail, distribution and office properties and other assets such as motor 
+vehicles. The leases have varying terms, purchase options, escalation clauses and renewal rights. Purchase options and renewal rights, where 
+they occur, are at market value. Escalation clauses are in line with market practices and include inflation-linked, fixed rates, resets to market 
+rents and hybrids of these. 
+
+On 6 October 2022, the Group obtained control of The Tesco Dorney Limited Partnership (2022: The Tesco Sarum Limited Partnership on 17 
+December 2021), previously accounted for as a joint venture, through the acquisition of the other partner’s 50% interest, at which point the 
+associated property leases from the joint venture became intercompany leases. Refer to Note 33 for further details.  
+
+144
+
+Tesco PLC Annual Report and Financial Statements 2023
+144 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+Financial statements 
+
+Right of use assets 
+
+Net carrying value  
+Opening balance 
+Additions (including sale and leaseback transactions)(a) 
+Acquired through business combinations 
+Depreciation charge for the year 
+Impairment losses(b) 
+Reversal of impairment losses(b) 
+Derecognition on acquisition of property joint venture(c) 
+Other movements(d) 
+Closing balance 
+
+Land and 
+buildings 
+£m 
+
+2023 
+
+Other 
+£m 
+
+5,634 
+378 
+4 
+(501) 
+(394) 
+72 
+(198) 
+392 
+5,387 
+
+86 
+64 
+- 
+(38) 
+- 
+- 
+- 
+1 
+113 
+
+Total 
+£m 
+
+5,720   
+442   
+4   
+(539)   
+(394)   
+72   
+(198)   
+393   
+5,500   
+
+Land and 
+buildings 
+£m 
+
+2022 
+
+Other 
+£m 
+
+5,866 
+544 
+– 
+(497) 
+(195) 
+234 
+(243) 
+(75) 
+5,634 
+
+85 
+39 
+– 
+(40) 
+–  
+– 
+– 
+2 
+86 
+
+(a)  Includes £70m of land under an external lease related to obtaining control of The Tesco Dorney Limited Partnership. Refer to Note 33. 
+(b) Refer to Note 14. 
+(c)  Refer to Note 33. 
+(d) Other movements include lease terminations, modifications and reassessments, foreign exchange, reclassifications between asset classes and entering into finance subleases. 
+
+Lease liabilities 
+The following tables show the discounted lease liabilities included in the Group balance sheet and a maturity analysis of the contractual 
+undiscounted lease payments: 
+
+Current 
+Non-current 
+Total lease liabilities 
+
+Maturity analysis – contractual undiscounted lease payments 
+Within one year 
+Greater than one year but less than two years 
+Greater than two years but less than three years 
+Greater than three years but less than four years 
+Greater than four years but less than five years 
+Greater than five years but less than ten years 
+Greater than ten years but less than fifteen years 
+After fifteen years 
+Total undiscounted lease payments 
+
+2023 
+£m 
+595 
+7,132 
+7,727 
+
+2023 
+£m 
+944 
+901 
+878 
+856 
+824 
+3,383 
+2,035 
+1,076 
+10,897 
+
+Total 
+£m 
+
+5,951 
+583 
+– 
+(537) 
+(195) 
+234 
+(243) 
+(73) 
+5,720 
+
+2022 
+£m 
+547 
+7,411 
+7,958 
+
+2022 
+£m 
+934 
+911 
+863 
+840 
+820 
+3,407 
+2,223 
+1,517 
+11,515 
+
+A reconciliation of the Group’s opening to closing lease liabilities balance is presented in Note 32. 
+
+Amounts recognised in the Group income statement 
+
+Continuing operations 
+Interest on lease liabilities 
+Variable payment expenses not included in lease liabilities 
+Expenses relating to short-term leases 
+Expenses relating to leases of low value assets (excluding amounts already included in short-term leases above) 
+
+52 weeks 
+2023 
+£m 
+373 
+1 
+24 
+1 
+
+52 weeks 
+2022 
+£m 
+405 
+– 
+26 
+1 
+
+Sale and leaseback 
+During the year the Group sold 17 malls and one retail park in Central Europe, leasing back 17 stores within those sites. Refer to Note 7 for details 
+on the net proceeds and profit from the transaction. The stores are being leased back over a 15-year lease term at below-market rentals with 
+options to extend, and the store leases have resulted in lease liability additions of £36m. The sale and leaseback transaction allows the Group to 
+relinquish control over the malls while continuing to operate the stores within those sites.  
+
+Amounts recognised in the Group cash flow statement 
+
+Total cash outflow for leases* 
+
+* 
+
+Includes £6m (2022: £5m) related to Tesco Bank. 
+
+52 weeks 
+2023 
+£m 
+966 
+
+52 weeks 
+2022 
+£m 
+982 
+
+Future possible cash outflows not included in the lease liability 
+Some leases contain break clauses or extension options to provide operational flexibility. Potential future undiscounted lease payments not 
+included in the reasonably certain lease term, and hence not included in lease liabilities, total £9.1bn (2022: £9.5bn). 
+
+Future increases or decreases in rentals linked to an index or rate are not included in the lease liability until the change in cash flows takes effect. 
+Approximately 76% (2022: 75%) of the Group’s lease liabilities are subject to inflation-linked rentals, of which 86% (2022: 87%) have inflation caps, 
+with a weighted average cap of 3.4% (2022: 4.1%). A further 16% (2022: 16%) are
+subject to rent reviews. Rental changes linked to inflation or rent 
+reviews typically occur on an annual or five-yearly basis. Of the inflation-linked leases with caps, 30% (2022: 29%) of the lease liability value was 
+hedged through index-linked swaps (refer to Note 27).  
+
+The Group is committed to payments totalling £110m (2022: £54m) in relation to leases that have been signed but have not yet commenced. 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+Tesco PLC Annual Report and Financial Statements 2023
+145 
+
+145
+
+Financial statements 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes to the Group financial statements continued 
+
+Note 12 Leases continued 
+Group as lessor 
+The Group leases out owned properties and sublets leased properties under operating and finance leases. Such properties include malls, mall
+units, stores, units within stores, distribution centres and residential properties. 
+
+Amounts recognised in the Group income statement 
+
+Continuing operations 
+Finance lease – interest income(a) 
+Operating lease – rental income(b) 
+
+(a)  Includes £4m (2022: £4m) of sublease interest income. 
+(b) Includes £23m (2022: £20m) of sublease rental income. 
+
+52 weeks 
+2023 
+£m 
+4 
+90 
+
+52 weeks 
+2022 
+£m 
+5 
+90 
+
+Finance lease payments receivable 
+The finance lease receivable (net investment in the lease) included in the Group balance sheet is £36m (2022: £81m). The movement in the year is 
+primarily driven by the derecognition of finance lease receivables following the acquisition of The Tesco Dorney Limited Partnership. Refer to Note 33.  
+
+Operating lease payments receivable maturity analysis 
+
+Within one year 
+Greater than one year but less than two years 
+Greater than two years but less than three years 
+Greater than three years but less than four years 
+Greater than four years but less than five years 
+Greater than five years but less than ten years 
+Greater than ten years but less than fifteen years 
+After fifteen years 
+Total undiscounted operating lease payments receivable 
+
+2023 
+£m 
+61 
+77 
+56 
+40 
+27 
+49 
+20 
+42 
+372 
+
+2022 
+£m 
+68 
+87 
+67 
+49 
+33 
+58 
+23 
+49 
+434 
+
+Note 13 Group entities 
+The Group consists of the ultimate Parent Company, Tesco PLC, and a number of subsidiaries, joint ventures and associates held directly or
+indirectly by Tesco PLC. See pages 199 to 203 for a complete list of Group entities. 
+
+Subsidiaries 
+The accounting year ends of the subsidiaries consolidated in these financial statements are on or around 25 February 2023.  
+
+Unconsolidated structured entities 
+In prior years, the Group sponsored a number of structured entities. The Group led the formation of the entities and its name appears in the 
+name of the entities and/or on the debt issued by the entities. The structured entities were set up to finance property purchases by some of the 
+UK property joint ventures in which the Group typically holds a 50% equity interest. The structured entities obtain debt financing from third-party 
+investors and lend the funds to these joint ventures, who use the funds to purchase the properties. 
+
+The liabilities of the UK property joint ventures include the loans due to these structured entities. The Group’s exposure to the structured entities 
+is limited to the extent of the Group’s interests in the joint ventures. The liabilities of the structured entities are non-recourse to the Group. 
+
+The Group concluded that it does not control, and therefore should not consolidate, these structured entities since it does not have power over 
+the relevant activities of the structured entities, or exposure to variable returns from these entities.  
+
+Consolidated structured entities 
+The Group has a number of securitisation structured entities established in connection with Tesco Bank’s credit card securitisation transactions 
+as well as financing structured entities controlled as a result of the acquisition of UK property joint ventures. Although none of the equity of these 
+entities is owned by the Group, the Group has rights to variable returns from its involvement with these entities and has the ability to affect those 
+returns through its power over them under contractual agreements. As
+therefore accounted for as subsidiaries of the Group. 
+
+such, these entities are effectively controlled by the Group, and are 
+
+The securitisation structured entities have financial year ends of 31 December. The management accounts of these entities are used to 
+consolidate the results to 25
+the Group financial year end.  
+
+February 2023 within these financial statements. The financial year ends of the financing structured entities align to 
+
+Interests in joint ventures and associates 
+Principal joint ventures and associates 
+The Group’s principal joint ventures and associates are: 
+
+Nature of  
+relationship 
+
+Business  
+activity 
+
+Share of issued share 
+capital, loan capital 
+and debt securities 
+
+Country of 
+incorporation 
+
+Principal area  
+of operation 
+
+Included in ‘UK property joint ventures’: 
+The Tesco Coral Limited Partnership 
+The Tesco Blue Limited Partnership 
+The Tesco Passaic Limited Partnership 
+The Tesco Navona Limited Partnership 
+The Arena Unit Trust 
+Included in ‘Other joint ventures and associates’: 
+Tesco Mobile Limited 
+Booker India Limited 
+Trent Hypermarket Private Limited 
+
+Joint venture 
+Joint venture 
+Joint venture 
+Joint venture 
+Joint venture 
+
+Property investment 
+Property investment 
+Property investment 
+Property investment 
+Property investment 
+
+Joint venture 
+Joint venture 
+Joint venture 
+
+Telecommunications 
+Retail 
+Retail 
+
+50% 
+50% 
+50% 
+50% 
+50% 
+
+50% 
+49% 
+50% 
+
+England 
+England 
+England 
+England 
+Jersey 
+
+England 
+India 
+India 
+
+United Kingdom 
+United Kingdom 
+United Kingdom 
+United Kingdom 
+United Kingdom 
+
+United Kingdom 
+India 
+India 
+
+146
+
+Tesco PLC Annual Report and Financial Statements 2023
+146 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial statements 
+
+The accounting period end dates of the joint ventures and associates consolidated in these financial statements range from 31 December 2022 
+25 February 2023. The accounting period end dates of joint ventures differ from those of the Group for commercial reasons and depend 
+to
+upon
+the requirements of the joint venture partner as well as those of the Group. The accounting period end dates of the associates are 
+different from those of the Group as they depend upon the requirements of the parent companies of those entities. 
+
+There are no significant restrictions on the ability of joint ventures and associates to transfer funds to the parents, other than those imposed by 
+the Companies Act 2006 or equivalent local regulations.  
+
+The UK property joint ventures involve the Group partnering with third parties in carrying out some property investments in order to enhance 
+returns from property and access funding, while reducing risks associated with sole ownership. These property investments generally cover 
+shopping centres and standalone stores. The Group enters into leases for some or all of the properties held in the joint ventures. These leases 
+provide the Group with some rights over alterations and adjacent land developments. In some cases the Group has the ability to substitute 
+properties in the
+property management activities for third-party rentals of shopping centre units. 
+
+joint ventures with alternative properties of similar value, subject to strict eligibility criteria. In other cases, the Group carries out 
+
+The property investment activities are carried out in separate entities, usually partnerships or limited liability companies. The Group has assessed 
+its ability to direct the relevant activities of these entities and any impact on Group returns and concluded that the entities qualify as joint 
+ventures since decisions regarding them require the unanimous consent of both equity holders. This assessment included not only rights within 
+the joint venture agreements, but also any rights within other contractual arrangements between the Group and the entities. 
+
+The Group made a number of judgements in arriving at this determination, the key ones being: 
+
+–  since the provisions of the joint venture agreements require the relevant decisions impacting investor returns to be either unanimously agreed 
+by both joint venturers at the same time, or in some cases to be agreed sequentially by each venturer at different stages, there is joint decision 
+making within the joint venture; 
+
+–  since the Group’s leases are priced at fair value, and any rights embedded in the leases are consistent with market practice, they do not 
+provide the Group with additional control over the joint ventures nor do they infer an obligation by the Group to fund the settlement of 
+liabilities of the joint ventures; 
+
+–  any options to purchase the other joint venturers’ equity stakes are priced at market value, and only exercisable at future dates, hence they 
+
+do
+
+not provide control to the Group at the current time; 
+
+–  where the Group has a right to substitute properties in the joint ventures, the rights are strictly limited and are at fair value, hence do not 
+
+provide control to the Group; and 
+
+–  where the Group carries out property management activities for third-party rentals in shopping centres, these additional activities are 
+
+controlled through joint venture agreements or lease agreements, and do not provide the Group with additional powers over the joint venture. 
+
+During the current financial year, the Group obtained control of The Tesco Dorney Limited Partnership, which was previously accounted for as a 
+joint venture, through the acquisition of the other partner’s 50% interest. Refer to Note 33 for further details.  
+
+Summarised financial information for joint ventures and associates 
+The summarised financial information below reflects the amounts presented in the financial statements of the relevant joint ventures and 
+associates, and not the Group’s share of those amounts. These amounts have been adjusted to conform to the Group’s accounting policies 
+where required. The summarised financial information for UK property joint ventures has been aggregated in order to provide useful information 
+to users without excessive detail, since these entities have similar characteristics and risk profiles largely based on their nature of
+geographic market. 
+
+activities and 
+
+Summarised balance sheet 
+Non-current assets(a) 
+Current assets (excluding cash and cash equivalents) 
+Cash and cash equivalents 
+Current liabilities(b) 
+Non-current liabilities(b) 
+Net liabilities 
+
+Summarised income statement 
+Revenue 
+Profit/(loss) after tax(c) 
+
+UK property joint ventures 
+
+2023 
+£m 
+
+2,032 
+8 
+21 
+(287) 
+(2,277) 
+(503) 
+
+203 
+– 
+
+2022 
+£m 
+
+2,480 
+31 
+37 
+(316) 
+(2,907) 
+(675) 
+
+232 
+– 
+
+(a)  The non-current asset balances of UK property joint ventures are reflected at historical depreciated cost to conform to the Group’s accounting policies. The aggregate fair values in the financial 
+
+statements of the UK property joint ventures are £2,988m (2022: £3,666m). 
+
+(b) The current and non-current liabilities of UK property joint ventures largely comprise loan balances of £(2,248)m (2022: £(2,733)m) and derivative swap balances of £(287)m (2022: £(435)m) entered 
+
+into to hedge the cash flow variability exposures of the joint ventures.  
+
+(c)  Profit/(loss) after tax includes £65m (2022: £20m) of interest cost. 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+Tesco PLC Annual Report and Financial Statements 2023
+147 
+
+147
+
+Financial statements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes to the Group financial statements continued 
+
+Note 13 Group entities continued 
+
+Reconciliation to carrying amounts: 
+Opening balance 
+Share of profits/(losses)* 
+Dividends received from joint ventures and associates 
+Closing balance 
+
+Group’s share in ownership 
+Group’s share of net liabilities 
+Deferred property profits offset against carrying amounts 
+Cumulative unrecognised losses* 
+Cumulative unrecognised hedge reserves* 
+Carrying amount 
+
+UK property joint ventures 
+
+2023 
+£m 
+
+– 
+12 
+(12) 
+– 
+
+50% 
+(252) 
+(60) 
+168 
+144 
+– 
+
+2022 
+£m 
+
+– 
+20 
+(20) 
+– 
+
+50% 
+(338) 
+(60) 
+179 
+219 
+– 
+
+*  The share of profit for the year for UK property joint ventures related to £12m (2022: £20m) dividends received from joint ventures with £nil carrying amounts (2022: £nil). £12m of profit (2022: 
+
+£11m) and £75m of increase (2022: £49m of decrease) in the fair values of derivatives arising from these entities have been included in cumulative unrecognised losses and cumulative 
+unrecognised hedge reserves, respectively. 
+
+As at 25 February 2023, the Group had £106m (2022: £105m) loans to UK property joint ventures. 
+
+Other joint ventures and associates 
+The Group also has interests in a number of individually immaterial joint ventures and associates excluding UK property joint ventures.  
+
+Aggregate carrying amount of individually immaterial joint ventures  
+Group’s share of profits/(losses) for the year 
+
+The aggregate carrying amount and Group’s share of profit/(losses) for the year of associates are immaterial.  
+
+Note 14 Impairment of non-current assets 
+Impairment losses and reversals 
+No impairment of goodwill was recognised in the current year (2022: £nil).  
+
+Joint ventures 
+2023 
+£m 
+93 
+(4) 
+
+2022 
+£m 
+86 
+(5) 
+
+The table below summarises the Group’s pre-tax impairment losses and reversals on other non-current assets, aggregated by segment due to 
+the large number of individually immaterial store cash-generating units. This
+includes any losses recognised immediately prior to classifying an 
+asset or disposal group as held for sale but excludes all impairments post classification as held for sale. There were no impairment losses or 
+reversals in the year (2022: £nil) with respect to investments in joint ventures and associates and no impairments in other non-current assets in 
+Tesco Bank (2022: £nil). All
+
+impairment losses and reversals are classified as adjusting items.  
+
+52 weeks ended 25 February 2023 
+Group balance sheet 
+Other intangible assets 
+Property, plant and equipment 
+Right of use assets 
+Investment property 
+Total impairment (loss)/reversal of other non-current assets 
+Group income statement 
+Cost of sales  
+Administrative expenses  
+Total impairment (loss)/reversal from continuing operations 
+
+52 weeks ended 26 February 2022 
+Group balance sheet 
+Other intangible assets 
+Property, plant and equipment 
+Right of use assets 
+Investment property 
+Total impairment (loss)/reversal of other non-current assets 
+Group income statement 
+Cost of sales  
+Administrative expenses  
+Total impairment (loss)/reversal from continuing operations 
+
+UK & ROI 
+
+Central Europe 
+
+Total 
+
+Impairment 
+loss 
+£m 
+
+(28) 
+(779) 
+(373) 
+(1) 
+(1,181) 
+
+(1,155) 
+(26) 
+(1,181) 
+
+Impairment 
+reversal 
+
+£m   
+
+6   
+181   
+65   
+2   
+254   
+
+245   
+9   
+254   
+
+Impairment 
+loss 
+£m 
+
+Impairment 
+reversal 
+
+£m   
+
+Impairment 
+loss 
+£m 
+
+– 
+(48) 
+(21) 
+– 
+(69) 
+
+(69) 
+– 
+(69) 
+
+1   
+6   
+7   
+–   
+14   
+
+14   
+-   
+14   
+
+(28) 
+(827) 
+(394) 
+(1) 
+(1,250) 
+
+(1,224) 
+(26) 
+(1,250) 
+
+Impairment 
+reversal 
+
+£m   
+
+7   
+187   
+72   
+2   
+268   
+
+259   
+9   
+268   
+
+Net 
+Impairment 
+(loss)/reversal 
+£m 
+
+(21) 
+(640) 
+(322) 
+1 
+(982) 
+
+(965) 
+(17) 
+(982) 
+
+UK & ROI 
+
+Central Europe 
+
+Total 
+
+Net 
+
+Impairment 
+loss 
+£m 
+
+Impairment 
+reversal 
+£m 
+
+Impairment 
+loss 
+£m 
+
+Impairment 
+reversal 
+£m 
+
+Impairment 
+loss 
+£m 
+
+Impairment 
+reversal 
+£m 
+
+Impairment 
+(loss)/reversal 
+£m 
+
+(17) 
+(496) 
+(183) 
+(6) 
+(702) 
+
+(682) 
+(20) 
+(702) 
+
+8   
+319   
+228   
+1   
+556   
+
+536   
+20   
+556   
+
+(1) 
+(10) 
+(12) 
+– 
+(23) 
+
+(19) 
+(4) 
+(23) 
+
+–   
+48   
+6   
+–   
+54   
+
+25   
+29   
+54   
+
+(18) 
+(506) 
+(195) 
+(6) 
+(725) 
+
+(701) 
+(24) 
+(725) 
+
+8   
+367   
+234   
+1   
+610   
+
+561   
+49   
+610   
+
+(10) 
+(139) 
+39 
+(5) 
+(115) 
+
+(140) 
+25 
+(115) 
+
+The net impairment loss in UK & ROI includes an impairment loss of £7m in the UK in respect of the Group obtaining control of The Tesco Dorney 
+Limited Partnership (2022: £62m impairment loss in UK & ROI in respect of the Group obtaining control of The Tesco Sarum Limited Partnership). 
+Refer to Note 33 for further details. 
+
+148
+
+Tesco PLC Annual Report and Financial Statements 2023
+148 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+Financial statements 
+
+The majority of the net impairment charge relates to increased discount rates due to increases in government bond rates as a result of the prevailing 
+macroeconomic uncertainty. See the Key assumptions and sensitivity section of this note for applicable discount rates. Property fair values in the 
+UK have also decreased due to the weakening of the property investment market in the last six months, which has led to increased yields.  
+
+The remaining other non-current assets impairment losses and reversals for the Group largely reflect normal fluctuations expected from  
+store-level performance, as well as any specific store closures. 
+
+Net carrying value of non-current assets 
+The net carrying values of other non-current assets and the recoverable amounts of impaired other non-current assets for which an impairment 
+loss has been recognised or reversed have been aggregated by segment due to the large number of individually immaterial store cash-generating 
+units. The amounts below exclude assets or disposal groups classified as held for sale. 
+
+At 25 February 2023 
+Net carrying value 
+Other intangible assets 
+Property, plant and equipment 
+Right of use assets 
+Investment property 
+Other non-current assets 
+Goodwill(a) 
+Investments in joint ventures and associates(b) 
+Net carrying value of non-current assets 
+Recoverable amount of impaired other non-current assets for which an impairment 
+loss has been recognised or reversed, supported by: 
+Value in use 
+Fair value less costs of disposal(c) 
+
+UK & ROI 
+£m 
+
+Central Europe 
+£m 
+
+Tesco Bank 
+£m 
+
+888 
+15,331 
+5,057 
+15 
+21,291 
+3,827 
+93 
+25,211 
+
+3,657 
+1,984 
+5,641 
+
+37 
+1,459 
+433 
+9 
+1,938 
+– 
+– 
+1,938 
+
+140 
+169 
+309 
+
+123 
+72 
+10 
+– 
+205 
+500 
+– 
+705 
+
+– 
+– 
+– 
+
+(a)  Goodwill of £4,327m (2022: £4,291m) consists of UK £3,793m (2022: £3,788m), ROI £34m (2022: £3m) and Tesco Bank £500m (2022:
+(b) The carrying value of the Group’s investments includes Trent Hypermarket Private Limited £55m (2022: £55m). 
+(c)  Due to the individual nature of each property, fair values are classified as Level 3 within the fair value hierarchy. 
+
+£500m). 
+
+At 26 February 2022 
+Net carrying value 
+Other intangible assets 
+Property, plant and equipment 
+Right of use assets 
+Investment property 
+Other non-current assets 
+Goodwill(a) 
+Investments in joint ventures and associates(b) 
+Net carrying value of non-current assets 
+Recoverable amount of impaired other non-current assets for which an impairment 
+loss has been recognised or reversed, supported by: 
+Value in use 
+Fair value less costs of disposal(c) 
+
+Refer to previous table for footnotes. 
+
+UK & ROI 
+£m 
+
+Central Europe 
+£m 
+
+Tesco Bank 
+£m 
+
+909 
+15,538 
+5,355 
+14 
+21,816 
+3,791 
+85 
+25,692 
+
+2,534 
+1,456 
+3,990 
+
+31 
+1,454 
+354 
+8 
+1,847 
+– 
+1 
+1,848 
+
+78 
+51 
+129 
+
+129 
+68 
+11 
+– 
+208 
+500 
+– 
+708 
+
+– 
+– 
+– 
+
+Total 
+£m 
+
+1,048 
+16,862 
+5,500 
+24 
+23,434 
+4,327 
+93 
+27,854 
+
+3,797 
+2,153 
+5,950 
+
+Total 
+£m 
+
+1,069 
+17,060 
+5,720 
+22 
+23,871 
+4,291 
+86 
+28,248 
+
+2,612 
+1,507 
+4,119 
+
+Impairment methodology 
+Cash-generating units 
+The Group treats each store as a separate cash-generating unit for impairment testing of other intangible assets, property, plant and equipment, 
+right of use assets and investment property. The Group allocates goodwill to groups of cash-generating units, where each country represents a 
+group of cash-generating units for the Group’s retail operations, as this represents the lowest level at which goodwill is monitored by 
+management. Tesco Bank and dunnhumby each represent separate cash-generating units. 
+
+The recoverable amount of each store cash-generating unit is the higher of its value in use and its fair value less costs of disposal. The 
+recoverable amount of a group of cash-generating units to which goodwill has been allocated is determined based on value in use calculations. 
+
+Central assets such as distribution centres and associated costs are allocated to store cash-generating units based on level of
+use, estimated 
+with reference to sales. Urban fulfilment centres and associated costs that are part of a store are included in the store cash–generating unit. 
+Standalone customer fulfilment centres and associated costs are each treated as a separate cash-generating unit.  
+
+Value in use 
+Retail  
+Estimates for value in use calculations include discount rates, long-term growth rates, expected changes to future cash flows, including volumes 
+and prices, and the probabilities assigned to cash flow scenarios. Estimates are based on past experience and expectations of future changes in 
+the market, including the prevailing economic climate and global economy, competitor activity, market dynamics, changing customer behaviours, 
+structural challenges facing retail and the resilience afforded by the Group’s operational scale.  
+
+Cash flow projections are based on the Group’s three-year internal forecasts, the results of which are reviewed by the Board. The forecasts 
+include best estimate assumptions on inflation, which differ by both country and revenue and cost categories. The forecasts are extrapolated to 
+five years based on management’s expectations, and beyond five years based on estimated long-term average growth rates. Long-term growth 
+rates for the Retail business are based on inflation forecasts by recognised bodies. Cash flow forecasts are allocated to store-level cash-
+generating units based on their relative current year actual sales performance, after adjusting for one-off cash flows affecting particular stores. 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+Tesco PLC Annual Report and Financial Statements 2023
+149 
+
+149
+
+Financial statements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes to the Group financial statements continued 
+
+applied to the cash flows derived from the three-year internal forecasts. Additional scenarios take account of the risks
+
+Note 14 Impairment of non-current assets continued 
+The Group applies an expected cash flow approach by probability-weighting different cash flow scenarios. The greatest probability weighting 
+is
+presented by a 
+macroeconomic downturn, higher levels of operating costs and climate change, consistent with the viability statement scenarios (see the
+Longer
+term viability statement in the Strategic report) as well as an upside scenario. The viability statement scenarios reflect ‘severe but 
+plausible’ risks which are adjusted for impairment testing in order to reflect management’s best estimate of future economic conditions, 
+including any reasonably possible upside to the three-year internal forecasts. 
+
+In addition to the climate change scenario included within the probability-weighted cash flows, the Group incorporates other climate change 
+related assumptions into the impairment modelling, including, but not limited to, investments in technology to aid the Group’s net zero 
+commitments, the costs associated with replacing assets with more environmentally-friendly alternatives, and assumptions over the cash flow 
+profile of the Group’s fuel business. 
+
+Management estimates discount rates using pre-tax rates that reflect the market assessment as at the balance sheet date of the time value of 
+money and the risks specific to the cash-generating units. The pre-tax discount rates are derived from the Group’s post-tax weighted average 
+cost of capital, as adjusted for the specific risks relating to each geographical region and on a nominal basis. Risk-free rates are based on 
+government bond rates in each
+geographical region and equity risk premia and equity beta are based on forecasts by recognised bodies. 
+The
+
+Group uses the capital asset pricing model to calculate the cost of equity. 
+
+Tesco Bank goodwill 
+Tesco Bank value in use is calculated by discounting equity cash flows, defined as the excess above the regulatory requirement. Cash flow 
+projections are based on the Bank’s three-year internal forecasts, approved by the Board. The forecasts are extrapolated to five years based 
+on
+on inflation and GDP growth forecasts by recognised bodies. The discount rate is the cost of equity of Tesco Bank. Risk-free rates, equity risk 
+premia and the equity beta are derived from recognised bodies. 
+
+management’s expectations and beyond five years based on estimated long-term average growth rates. The long-term growth rate is based 
+
+Fair value less costs of disposal 
+Fair values of owned properties are determined with regard to the market rent for the stores or for alternative uses with investment yields 
+appropriate to reflect the physical characteristics of the property, location, infrastructure, redevelopment potential and other factors. In
+cases, fair values include residual valuations where stores may be viable for redevelopment. Fair values of leased properties are determined 
+with
+property and the local rental market, adjusted for a suitable void period. Fair values of the Group’s properties were determined with the 
+assistance of independent professional valuers where appropriate. Costs of disposal are estimated based on past experience in each 
+geographical region. 
+
+regard to the discounted market rent for the property over the remaining period of the lease, reflecting the condition and location of the 
+
+some 
+
+Investments in joint ventures and associates 
+The recoverable values of investments in joint ventures and associates are estimated taking into account forecast cash flows, equity valuations of 
+comparable entities and/or recent transactions for comparable businesses. 
+
+Key assumptions and sensitivity 
+Key assumptions 
+For value in use calculations, the key assumptions to which the recoverable amounts are most sensitive are discount rates, long-term growth
+rates and future cash flows (incorporating sales volumes, prices and costs). For fair value less costs of disposal calculations, the key assumption is 
+property
+
+fair values.  
+
+The discount rates and long-term growth rates for each group of cash-generating units to which goodwill has been allocated are: 
+
+Pre-tax discount rates 
+Post-tax discount rates 
+Long-term growth rates 
+
+UK 
+
+2023 
+% 
+8.6 - 8.8 
+6.5 - 6.6 
+2.0 
+
+2022 
+% 
+
+6.4 – 7.8   
+4.8 – 5.8   
+1.9   
+
+ROI 
+
+2023 
+% 
+7.4 
+6.5 
+2.0 
+
+2022 
+% 
+5.4   
+4.7   
+1.9   
+
+Tesco Bank 
+
+2023 
+% 
+16.0 
+12.0 
+1.7 
+
+2022 
+% 
+13.7 
+10.8 
+1.6 
+
+The discount rates and long-term growth rates for the Group’s portfolio of store cash-generating units, aggregated by segment due to the large 
+number of individually immaterial store cash-generating units, are: 
+
+Pre-tax discount rates 
+Post-tax discount rates 
+Long-term growth rates 
+
+UK & ROI 
+
+Central Europe 
+
+2023 
+% 
+7.4 - 8.6 
+6.5 
+2.0 
+
+2022 
+% 
+
+5.4 – 7.8   
+4.7 – 5.8   
+1.9   
+
+2023 
+% 
+8.0 - 16.8 
+6.3 – 11.1 
+2.0 – 3.2 
+
+2022 
+% 
+5.7 – 11.3 
+4.5 – 8.8 
+2.0 – 3.0 
+
+Sensitivity  
+The Group has carried out sensitivity analyses on the reasonably possible changes in key assumptions in the impairment tests for (a) each group 
+of cash-generating units to which goodwill has been allocated and (b) for its portfolio of store cash-generating units. Management has extended 
+the reasonably possible movements in the future cash flows and property fair values sensitivities disclosed given the level of volatility seen in 
+these inputs since the previous year end, driven by the wider macroeconomic environment. 
+
+(a)  Except for Tesco Bank goodwill, neither a reasonably possible increase of 1.0%pt in discount rates, a 10.0% decrease in future cash flows nor 
+a 1.0%pt decrease in long-term growth rates would indicate impairment in any group of cash-generating units to which goodwill has been 
+allocated.  
+
+150
+
+Tesco PLC Annual Report and Financial Statements 2023
+150 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial statements 
+
+For Tesco Bank, the following table shows the assumptions adopted and the amount by which these assumption values would have to 
+change to make the recoverable amount equal to the carrying value, the headroom sensitivity, and the impact of reasonably possible 
+changes to these assumptions: 
+
+Key assumption 
+Post-tax discount rates* 
+
+Annual equity cash flows 
+
+Long-term growth rates 
+
+Assumption value 
+12.0% 
+
+Headroom sensitivity 
+Increase of 0.3%pt 
+
+Reasonably possible 
+change 
+Increase of 1.0%pt  
+
+Impact on impairment 
+£m 
+(114) 
+
+Variable 
+
+Decrease of 4.3% 
+
+Decrease of 10.0% 
+
+1.7% 
+
+Decrease of 0.4%pt 
+
+Decrease of 1.0%pt 
+
+(71) 
+
+(72) 
+
+(b)  While there is not a significant risk of an adjustment to the carrying amount of any one store cash-generating unit that would be material 
+to the Group as a whole in the next financial year, the table below summarises the reasonably possible changes in key assumptions which 
+most impact the impairment of the Group’s entire portfolio of store cash-generating units, presented in aggregate due to the large 
+number of individually immaterial store cash-generating units. The impairment is not highly sensitive to the probability weightings 
+assigned to the cash flow scenarios. 
+
+Key assumption 
+Post-tax discount rates* 
+
+Future cash flows 
+
+Long-term growth rates 
+
+Property fair values 
+
+Reasonably possible change 
+Increase of 1.0%pt for each geographic region 
+Decrease of 1.0%pt for each geographic region 
+Increase of 10.0% for each geographic region 
+Decrease of 10.0% for each geographic region 
+Increase of 1.0%pt for each geographic region 
+Decrease of 1.0%pt for each geographic region 
+Increase of 10.0% for each geographic region 
+Decrease of 10.0% for each geographic region 
+
+*  Sensitivities are applied to post-tax discount rates used to derive the pre-tax discount rates. 
+
+Note 15 Other investments 
+
+Impact on impairment 
+Increase 
+Decrease 
+Decrease 
+Increase 
+Decrease 
+Increase 
+Decrease 
+Increase 
+
+Investments in debt instruments – Retail(b)  
+Investments in debt instruments – Bank  
+Investments in equity instruments – Retail  
+Property fund and other investments – Bank(c)  
+Other investments 
+Of which: 
+Current 
+Non-current 
+
+2023 
+
+Fair value 
+through 
+profit/loss 
+£m 
+- 
+- 
+- 
+20 
+20 
+
+Fair value  
+through other 
+comprehensive 
+income 
+£m 
+- 
+565 
+14 
+- 
+579 
+
+At amortised 
+cost(a) 
+£m 
+210 
+883 
+– 
+– 
+1,093 
+
+303 
+790 
+1,093 
+
+1 
+19 
+20 
+
+49 
+530 
+579 
+
+2022 
+
+Fair value 
+through 
+profit/loss 
+£m 
+- 
+- 
+- 
+25 
+25 
+
+Fair value  
+through other 
+comprehensive 
+income 
+£m 
+- 
+585 
+12 
+- 
+597 
+
+At amortised 
+cost(a) 
+£m 
+- 
+857 
+- 
+- 
+857 
+
+75 
+782 
+857 
+
+- 
+25 
+25 
+
+151 
+446 
+597 
+
+Total 
+£m 
+210   
+1,448   
+14   
+20   
+1,692   
+
+353   
+1,339   
+1,692   
+
+(a) The allowances for expected credit losses in the year are immaterial (2022: immaterial). Refer to Note 27. 
+(b) Includes £210m (2022: £nil) of secured bond assets of which £199m relates to the purchase of debt held in UK property joint ventures. 
+(c) Includes £19m (2022: £23m) of property fund investments which were recognised following the acquisition of Tesco Underwriting Limited.  
+
+Note 16 Inventories 
+
+Goods held for resale 
+Development properties 
+
+2023 
+£m 
+2,507 
+3 
+2,510 
+
+2023 
+£m 
+(479) 
+434 
+279 
+(321) 
+273 
+(267) 
+205  
+(217) 
+
+Total 
+£m 
+- 
+1,442 
+12 
+25 
+1,479 
+
+226 
+1,253 
+1,479 
+
+2022 
+£m 
+2,336 
+3 
+2,339 
+
+Goods held for resale are net of commercial income. Refer to Note 20. 
+
+Cost of inventories from continuing operations recognised as an expense for the 52 weeks ended 25 February 2023 was £48,822m (52 weeks 
+ended 26 February 2022: £45,136m). Inventory losses and provisions from continuing operations recognised as an expense for the 52 weeks 
+ended 25 February 2023 were £1,220m (52 weeks ended 26 February 2022: £1,002m).  
+
+Note 17 Trade and other receivables 
+
+Trade receivables 
+Prepayments 
+Accrued income(a) 
+Other receivables 
+Amounts owed by joint ventures and associates (Note 31)(b) 
+Total trade and other receivables 
+Of which: 
+Current 
+Non-current 
+
+2023 
+£m 
+531 
+133 
+223 
+374 
+133 
+1,394 
+
+1,315 
+79 
+1,394 
+
+2022 
+£m 
+457 
+135 
+211 
+478 
+141 
+1,422 
+
+1,263 
+159 
+1,422 
+
+(a)  Accrued income includes contract assets of £32m (2022: £51m) primarily relating to commission income on insurance policies managed and underwritten by a third party. The expected credit loss 
+
+was immaterial as at 25 February 2023 (2022:
+
+immaterial). 
+
+(b) Expected credit losses on amounts owed by joint ventures and associates are not material. 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+Tesco PLC Annual Report and Financial Statements 2023
+151 
+
+151
+
+Financial statements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes to the Group financial statements continued 
+
+Note 17 Trade and other receivables continued 
+Trade receivables include commercial income. Refer to Note 20. Trade receivables are generally non interest-bearing. Credit terms vary by 
+country and the nature of the debt, ranging from seven to 60 days. 
+
+The tables below present the ageing of receivables and related allowances for expected credit losses: 
+
+At 25 February 2023 
+Trade receivables 
+Other receivables 
+Trade and other receivables 
+
+Allowance for expected credit losses: 
+At the beginning of the year 
+Increase in allowance, including recoveries, charged to the Group income 
+statement 
+At the end of the year 
+
+At 26 February 2022 
+Trade receivables 
+Other receivables 
+Trade and other receivables 
+
+Allowance for expected credit losses: 
+At the beginning of the year 
+Decrease in allowance, including recoveries, released to the Group income 
+statement 
+Amounts written off 
+At the end of the year 
+
+Not 
+past due 
+£m 
+505 
+339 
+844 
+
+(22) 
+(2) 
+
+(24) 
+
+Not 
+past due 
+£m 
+430 
+442 
+872 
+
+(22) 
+– 
+
+– 
+(22) 
+
+Up to six 
+months 
+past due 
+£m 
+53 
+19 
+72 
+
+(4) 
+(2) 
+
+(6) 
+
+Up to six 
+months 
+due 
+past
+£m 
+52 
+34 
+86 
+
+(11) 
+7 
+
+– 
+(4) 
+
+Note 18 Cash and cash equivalents and short-term investments 
+Cash and cash equivalents 
+
+Cash at bank and on hand
+Short-term deposits
+Cash and cash equivalents in the Group balance sheet  
+Bank overdrafts
+Cash and cash equivalents in the Group cash flow statement 
+
+Short-term investments 
+
+Money market funds, deposits and similar instruments 
+
+Six to 
+12 months 
+past due 
+£m 
+7 
+16 
+23 
+
+Greater than 
+12 months 
+past due 
+£m 
+9 
+19 
+28 
+
+(5) 
+(1) 
+
+(6) 
+
+(25) 
+(1) 
+
+(26) 
+
+Six to 
+12 months 
+past due 
+£m 
+4 
+4 
+8 
+
+past
+
+Greater than 
+12 months 
+due 
+£m 
+6 
+19 
+25 
+
+(6) 
+1 
+
+– 
+(5) 
+
+(30) 
+1 
+
+4 
+(25) 
+
+2023 
+£m 
+2,426 
+39 
+2,465 
+(900) 
+1,565 
+
+2023 
+£m 
+1,628 
+
+Total 
+£m 
+574 
+393 
+967 
+
+(56) 
+(6) 
+
+(62) 
+
+Total 
+£m 
+492 
+499 
+991 
+
+(69) 
+9 
+
+4 
+(56) 
+
+2022 
+£m
+2,322
+23
+2,345
+(574)
+1,771
+
+2022 
+£m 
+2,076 
+
+Cash and cash equivalents includes £87m (2022: £84m) of restricted amounts mainly relating to the Group’s pension schemes and employee 
+benefit trusts. 
+
+Note 19 Trade and other payables 
+
+Trade payables 
+Other taxation and social security 
+Other payables 
+Amounts payable to joint ventures and associates (Note 31) 
+Accruals  
+Contract liabilities 
+Total trade and other payables 
+Of which: 
+Current 
+Non-current 
+
+2023 
+£m 
+6,359 
+399 
+1,886 
+7 
+877 
+443 
+9,971 
+
+9,818 
+153 
+9,971 
+
+2022 
+£m 
+5,641 
+411 
+1,905 
+9 
+827 
+441 
+9,234 
+
+9,181 
+53 
+9,234 
+
+Trade and other payables are net of commercial income. Refer to Note 20.  
+
+Contract liabilities represent consideration received for performance obligations not yet satisfied, predominantly in relation to Clubcard points. 
+The majority of the revenue deferred at the current financial year end will be recognised in the following financial year. 
+
+Trade payables include £687m (2022: £935m) that suppliers have chosen to early-fund under supplier financing arrangements. Refer to Note 1. 
+Amounts in trade payables that are overdue for payment to the provider are immaterial.  
+
+152
+
+Tesco PLC Annual Report and Financial Statements 2023
+152 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial statements 
+
+Note 20 Commercial income 
+Below are the commercial income balances included within inventories and trade and other receivables, or netted against trade and other 
+payables. Amounts received in advance of income being earned are included in accruals. 
+
+Current assets 
+Inventories 
+Trade and other receivables 
+Trade/other receivables 
+Accrued income 
+Current liabilities 
+Trade and other payables 
+
+Trade payables 
+Accruals 
+
+2023 
+£m 
+
+(18) 
+
+67 
+127 
+
+112 
+(5) 
+
+2022 
+£m 
+
+(15) 
+
+68 
+124 
+
+112 
+– 
+
+Note 21 Borrowings 
+Borrowings are classified as current and non-current based on their scheduled repayment date, and not their maturity date. Repayments of 
+principal amounts are classified as current if the repayment is scheduled to be made within one year of the balance sheet date. 
+
+Bank loans and overdrafts(a) 
+Tesco Bank Senior MREL Notes(b) 
+Secured bonds(c) 
+
+5.5457% Secured Bond 
+6.067% Secured Bond 
+SONIA + 1.3193% Secured Bond 
+6.0517% Secured Bond 
+5.6611% Secured Bond 
+5.4111% Secured Bond 
+LPI and RPI-linked bonds(d) 
+
+3.322% LPI MTN 
+1.982% RPI MTN 
+
+Sustainability-linked bonds(e) 
+
+1.875% MTN 
+0.375% MTN 
+
+Fixed bonds  
+5% MTN 
+1.375% MTN 
+2.5% MTN 
+2.5% MTN 
+0.875% MTN 
+6% MTN 
+2.75% MTN 
+5.5% MTN 
+6.15% USD Bond 
+4.875% MTN 
+5.125% MTN 
+5.2% MTN 
+
+Of which: 
+Current 
+Non-current 
+
+Par value 
+– 
+£145m 
+
+£235m 
+£200m 
+£50m 
+£266m 
+£289m 
+£187m 
+
+£392m 
+£346m 
+
+£400m 
+€750m 
+
+£71m 
+€750m 
+€473m 
+£400m 
+€750m 
+£38m 
+£450m 
+£67m 
+$355m 
+£14m 
+€235m 
+£14m 
+
+Maturity 
+– 
+Jul 2025 
+
+Feb 2029 
+Feb 2029 
+Feb 2029 
+Oct 2039 
+Oct 2041 
+Jul 2044 
+
+Nov 2025 
+Mar 2036 
+
+Nov 2028 
+Jul 2029 
+
+Mar 2023 
+Oct 2023 
+Jul 2024 
+May 2025 
+May 2026 
+Dec 2029 
+Apr 2030 
+Jan 2033 
+Nov 2037 
+Mar 2042 
+Apr 2047 
+Mar 2057 
+
+2023 
+£m 
+928 
+137 
+
+225 
+195 
+49 
+337 
+378 
+158 
+
+396 
+349 
+
+398 
+523 
+
+75 
+651 
+424 
+378 
+663 
+43 
+359 
+78 
+366 
+14 
+213 
+14 
+7,351 
+
+1,770 
+5,581 
+7,351 
+
+2022 
+£m 
+605 
+244 
+
+251 
+194 
+48 
+568 
+579 
+– 
+
+377 
+312 
+
+398 
+576 
+
+77 
+634 
+403 
+397 
+630 
+44 
+414 
+79 
+338 
+14 
+203 
+14 
+7,399 
+
+725 
+6,674 
+7,399 
+
+(a)  Bank loans and overdrafts includes £900m (2022: £574m) of bank overdrafts. £895m (2022: £567m) is held under a notional pooling arrangement which does not meet the criteria to be
+
+presented 
+
+net of cash on the balance sheet. Refer to Note 18. 
+
+(b) These notes are 3.5% Tesco Bank MREL compliant senior debt and were issued on 25 July 2019. The scheduled redemption date is July 2024. During the year there was a partial redemption by 
+
+Tesco Bank of its issued MREL debt. 
+
+(c)  The bonds are secured by a charge over the property, plant and equipment held within The Tesco Property Limited Partnership, The Tesco Atrato Limited Partnership, The Tesco Sarum Limited 
+Partnership and The Tesco Dorney Limited Partnership respectively, all of which are 100% owned subsidiaries of Tesco PLC. The carrying amount of assets pledged as security for secured bonds 
+is £802m, £1,065m, £708m and £239m (2022: £818m, £892m, £521m and £nil), respectively. £51m (2022: £50m) is the total principal repayment due within the next 12 months and the remainder is 
+payable in quarterly instalments until the maturity date. 
+
+(d) These bonds are redeemable at par, indexed for increases in the RPI over the life of the MTN. However, for the LPI-linked bond, the maximum indexation of the principal in any one year is 5%, with 
+
+a minimum of 0%. For the RPI-linked bond, refer to Note 27.  
+
+(e)  These are sustainability-linked bonds referencing the Group’s KPI for Group Greenhouse Gas (GHG) Emissions reduction (Scope 1 and 2, in tCO2e). The Sustainability Performance Target they are 
+
+linked to is to reduce the Group GHG Emissions by 60% by 2025 with respect to a 2015/16 baseline. 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+Tesco PLC Annual Report and Financial Statements 2023
+153 
+
+153
+
+Financial statements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes to the Group financial statements continued 
+
+Note 22 Provisions 
+
+At 26 February 2022 
+Foreign currency translation 
+Reclassifications 
+Amount released in the year 
+Amount provided in the year 
+Amount utilised in the year 
+Unwinding of discount 
+At 25 February 2023 
+
+The balances are analysed as follows: 
+
+Current 
+Non-current 
+
+Property 
+provisions 
+£m 
+213 
+1 
+– 
+(21) 
+37 
+(11) 
+3 
+222 
+
+Restructuring 
+provisions 
+£m 
+44 
+1 
+– 
+(8) 
+147 
+(78) 
+– 
+106 
+
+Legal and 
+regulatory 
+provisions 
+£m 
+44 
+– 
+10 
+(3) 
+7 
+(4) 
+– 
+54 
+
+Operational 
+insurance 
+provisions 
+£m 
+135 
+1 
+– 
+(23) 
+91 
+(46) 
+– 
+158 
+
+Other 
+provisions 
+£m 
+30 
+1 
+(10) 
+(5) 
+8 
+(4) 
+– 
+20 
+
+2023 
+£m 
+366 
+194 
+560 
+
+Total 
+£m 
+466 
+4 
+– 
+(60) 
+290 
+(143) 
+3 
+560 
+
+2022 
+£m 
+283 
+183 
+466 
+
+Provisions are discounted based on the relevant risk-free rate and are risk-adjusted through adjusting the cash flow estimates. Refer to Note 14 
+for details of how risk-free rates are derived. Where material, provisions are discounted based on country-specific nominal risk-free rates, with a 
+weighted average risk-free rate of 3.8% (2022: 1.6%). 
+
+Property provisions 
+Property provisions comprise onerous contracts related to unprofitable stores and vacant properties, decommissioning provisions and 
+remediation works and dilapidations provisions.  
+
+Dilapidations are recognised where there is a present obligation to repair and restore leased properties to their preoccupancy state at the end 
+of
+the lease term. The provision is based on best estimates for individual properties, with reference to previous experience and size of leased 
+property, or specific agreements with the landlord where relevant. The term is measured in accordance with the outstanding length of leases or 
+the expected timing of specific obligations. 
+
+Onerous contract provisions are recognised where the unavoidable costs of meeting the obligations under the contract exceed the economic 
+benefits expected to be received under it. The timing of provisions is determined by reference to the contract giving rise to the obligations.  
+
+Decommissioning provisions reflect the Group’s long-term obligation for site-level environmental remediation works, arising from government 
+regulations and changing consumer habits. The extent and cost of future environmental remediation represents a best estimate applied across 
+the property portfolio based on past experience, the extent of remediation work required and the expected timing of activity, for which there is a 
+high level of uncertainty. 
+
+Amounts provided in the year primarily relate to decommissioning and amounts released in the year primarily relate to releases of dilapidation 
+and similar remediation provisions. 
+
+The expected undiscounted ageing of property provisions as at 25 February 2023: 
+
+Property provisions 
+
+Current 
+£m 
+38 
+
+1 to 5 years 
+£m 
+46 
+
+6 to 10 years 
+£m 
+23 
+
+11 to 15 years 
+£m 
+17 
+
+Over 15 years 
+£m 
+247 
+
+Total 
+£m 
+371 
+
+Restructuring provisions 
+Restructuring provisions of £106m, primarily relating to expected employee costs, are expected to be fully utilised in the following financial year to 
+24 February 2024. The provision is calculated in line with the expected settlement costs of impacted employees and excludes future operating costs.  
+
+Legal and regulatory provisions 
+Legal and regulatory provisions contain balances in relation to either ongoing or expected legal proceedings against the Group, or for costs 
+associated with regulatory matters and/or breaches. Due to the nature of legal and regulatory matters, including unpredictable timings of legal 
+cases or regulatory investigations, there is often uncertainty as to if or when provisions will be fully utilised.  
+
+This balance consists of various individually immaterial provisions. 
+
+Operational insurance provisions 
+Insurance provisions relate to outstanding liabilities from public and employer’s liability and third-party motor claims across the Group’s trading 
+operations, separate to the Tesco Underwriting insurance balances in Note 24. Provisions relate to claims arising from incidents reported prior 
+to
+the reporting date, including an allowance for those currently incurred but not reported. Amounts are measured considering claims history, 
+including claims volume and average cost of claims, with assessment and projection by third-party actuaries. Releases in the year primarily relate 
+to improved estimates of future outflows from revised actuarial valuations. The balance as at the financial year end is expected to be materially 
+utilised within three years from the reporting date.  
+
+Other provisions 
+Other provisions amounts primarily relate to a Tesco Bank expected credit loss provision recognised under IFRS 9 which exceeds the gross 
+carrying amount of the related financial asset, primarily loans to customers. Further information on expected credit losses can be found within 
+Note 27. The remaining balance relates to individually immaterial provisions that do not fall into any of the other categories. 
+
+154
+
+Tesco PLC Annual Report and Financial Statements 2023
+154 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note 23 Loans and advances to customers 
+Tesco Bank has loans and advances to customers, split by maturity, as follows: 
+
+Repayable on demand or at short notice 
+Within three months 
+Greater than three months but less than one year 
+Greater than one year but less than five years 
+After five years 
+
+Expected credit loss allowance for loans and advances to customers 
+Loans and advances to customers 
+Of which:  
+Current 
+Non-current 
+
+Financial statements 
+
+2023 
+£m 
+– 
+4,151 
+178 
+2,667 
+546 
+7,542 
+(461) 
+7,081 
+
+4,052 
+3,029 
+7,081 
+
+2022 
+£m 
+2 
+3,561 
+161 
+2,718 
+537 
+6,979 
+(489) 
+6,490 
+
+3,349 
+3,141 
+6,490 
+
+At 25 February 2023, £2.9bn (2022: £3.0bn) of the credit card portfolio had its beneficial interest assigned to a securitisation special purpose 
+entity, Delamare Cards Receivables Trustee Limited, for use as collateral in securitisation transactions. The total encumbered portion of this 
+portfolio is £1.1bn (2022: £1.2bn). 
+
+At 25 February 2023, Delamare Cards MTN Issuer PLC had £1.8bn (2022: £1.8bn) notes in issue in relation to securitisation transactions.  
+
+At 25 February 2023, £1.6bn (2022: £1.4bn) of the class A retained credit card-backed notes are held within their single collateral pool. 
+
+Fair value hedge adjustments 
+Fair value hedge adjustments amounting to a liability of £75m (2022: liability of £30m) are in respect of fixed rate personal loans. These 
+adjustments are largely offset by derivatives, which are used to manage interest rate risk and are designated as fair value hedges of loans and 
+advances to customers. 
+
+Refer to Note 27 for allowance for expected credit losses disclosures. 
+
+Note 24 Insurance 
+Balances in this note relate to the Group’s subsidiary, Tesco Underwriting Limited (TU), part of the Tesco Bank operating segment.  
+
+Insurance profit/(loss) 
+
+Gross insurance premium income 
+
+Insurance premium income ceded to reinsurers 
+
+Current year claims paid 
+Change in prior year claims provision 
+Additional liabilities arising during the year 
+Insurance claims incurred 
+Reinsurers’ share of claims incurred* 
+Net insurance claims 
+
+Net insurance profit/(loss) 
+
+* 
+
+Includes £20m (2022: £3m) related to reinsurance quota share commission and profit commission. 
+
+Insurance contract provisions and reinsurance assets 
+
+The following tables show the breakdown of the Group’s insurance contract provisions and reinsurance assets: 
+
+Unearned premiums 
+Claims  
+Total insurance contract provisions 
+Of which:  
+Current 
+Non-current 
+
+Gross 
+£m 
+174 
+431 
+605 
+
+570 
+35 
+
+2023 
+
+Reinsurance 
+£m 
+(73) 
+(144) 
+(217) 
+
+(72) 
+(145) 
+
+Net 
+£m 
+101   
+287   
+388   
+
+498   
+(110)  
+
+Gross 
+£m 
+156 
+494 
+650 
+
+623 
+27 
+
+2022 
+
+Reinsurance 
+£m 
+(64) 
+(181) 
+(245) 
+
+(61) 
+(184) 
+
+52 weeks 
+2023 
+£m 
+309 
+
+52 weeks 
+2022 
+£m 
+239 
+
+(139) 
+
+(140) 
+100 
+(135) 
+(175) 
+90 
+(85) 
+
+85 
+
+(105) 
+
+(104) 
+52 
+(98) 
+(150) 
+62 
+(88) 
+
+46 
+
+Net 
+£m 
+92 
+313 
+405 
+
+562 
+(157) 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+Tesco PLC Annual Report and Financial Statements 2023
+155 
+
+155
+
+Financial statements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+Notes to the Group financial statements continued 
+
+Note 24 Insurance continued 
+Gross insurance provisions, unlike reinsurance assets, are classified as current or non-current based on contractual rights to defer settlement 
+for at least 12 months after the reporting period, rather than expected timing of settlement. See Note 27 for the expected cash outflows in 
+relation to these balances. 
+
+Analysis of movement in insurance contract provisions 
+Opening balance 
+Acquired through business combinations 
+Claims (paid)/recovered through insurers 
+Movement in claims outstanding 
+Changes in provisions for unearned premiums  
+Closing balance 
+
+Analysis of movement in provision for gross unearned premiums 
+Opening balance 
+Acquired through business combinations 
+Premiums written during the year  
+Less: premiums earned during the year 
+Closing balance 
+
+Analysis of movement in outstanding claims 
+Opening balance 
+Acquired through business combinations 
+Current period claims  
+Change in prior year claims 
+Current year claims paid 
+Prior year claims paid 
+Closing balance 
+
+Gross 
+£m 
+650 
+– 
+(259) 
+196 
+18 
+605 
+
+2023 
+
+Reinsurance 
+£m 
+(245) 
+– 
+108 
+(71) 
+(9) 
+(217) 
+
+2023 
+Salvage and 
+subrogation 
+recoveries 
+£m 
+(22) 
+– 
+(34) 
+13 
+– 
+– 
+(43) 
+
+Gross 
+£m 
+494 
+– 
+309 
+(113) 
+(140) 
+(119) 
+431 
+
+Net 
+£m 
+405   
+–   
+(151)   
+125   
+9   
+388   
+
+Net 
+£m 
+472   
+–   
+275   
+(100)  
+(140)  
+(119)  
+388   
+
+Gross 
+£m 
+– 
+650 
+(171) 
+156 
+15 
+650 
+
+2022 
+
+Reinsurance 
+£m 
+– 
+(247) 
+66 
+(59) 
+(5) 
+(245) 
+
+2023 
+£m 
+156 
+– 
+327 
+(309) 
+174 
+
+2022 
+Salvage and 
+subrogation 
+recoveries 
+£m 
+– 
+(16) 
+(20) 
+14 
+– 
+– 
+(22) 
+
+Gross 
+£m 
+– 
+509 
+213 
+(57) 
+(104) 
+(67) 
+494 
+
+Net 
+£m 
+– 
+403 
+(105) 
+97 
+10 
+405 
+
+2022 
+£m 
+– 
+141 
+254 
+(239) 
+156 
+
+Net 
+£m 
+– 
+493 
+193 
+(43) 
+(104) 
+(67) 
+472 
+
+Funds withheld 
+Funds withheld of £123m (2022: £115m), included within trade and other payables, represent the balance due to reinsurers arising from Quota 
+Share arrangements, by which a fixed proportion of both premiums and losses are ceded to third-party reinsurers as part of the overall 
+reinsurance protection strategy. 
+
+Process used to determine assumptions 
+The nature of insurance makes it very difficult to predict with certainty the likely outcome of any particular claim and the ultimate cost of notified 
+claims. Each notified claim is assessed on a separate, case‐by‐case basis with due regard to the claim circumstances and historical evidence of 
+the size of similar claims and provisions are based on information currently available. However, the ultimate liabilities may vary as a result of 
+subsequent developments.  
+
+Sources of data 
+The sources of data used as inputs for the assumptions are internal, using detailed studies that are carried out at least annually to ensure that 
+the assumptions are consistent with observable market prices or other published information. When there is insufficient information to make a 
+reliable best estimate of claims development, suitable benchmark assumptions are used. 
+
+Methods 
+The cost of outstanding claims and the incurred but not reported (IBNR) claims provisions are estimated using various statistical methods, which 
+extrapolate the development of paid and incurred claims, average cost per claim and ultimate claim numbers for each accident period based 
+upon observed development of earlier periods, with reference to suitable benchmarks. The key methods are: 
+
+–  development factor methods, which use historical data to estimate the paid and incurred to date as proportions of the ultimate claim cost; 
+–  individual claim assessment methods, which use claim‐specific details for large individual claims to estimate the ultimate claim cost; and 
+–  benchmarking methods, which use the experience of comparable, more mature classes, or market data to estimate the cost of claims. 
+
+To the extent that these methods use historical claims development information, they also assume that the historical claims development 
+pattern will occur again in the future, after allowing (where possible) for instances where this might not be the case, such as changing economic 
+or legal trends. 
+
+156
+
+Tesco PLC Annual Report and Financial Statements 2023
+156 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+Financial statements 
+
+Recoveries 
+The provisions are initially estimated at a gross level and a separate calculation is carried out to estimate the size of reinsurance recoveries.  
+The Group is covered by a variety of excess of loss reinsurance programmes. The methods used by the Group take into account historical data, 
+specific details for individual large claims and details of the reinsurance programme to assess the expected size of reinsurance recoveries. 
+Recoveries through salvage and subrogation are estimated and recorded separately based on a combination of suitable benchmark assumptions 
+and the observed development to date. 
+
+Ogden rate 
+The majority of claims are not discounted as they are expected to settle within four years or less. For long-term personal injury claims the 
+personal injury discount rate (Ogden rate) is used. For claims provisions in relation to periodic payments orders, a long-term expected investment 
+return is used as the discount rate. This is set by the Ministry of Justice and is used by the courts to calculate lump sum personal injury payments. 
+Reserves are assessed at the current rate of (0.25)%. 
+
+Analysis of claims development – gross of reinsurance and net of salvage and subrogation recoveries 
+
+Estimate of gross ultimate claim costs 
+At end of accident year 
+One year later 
+Two years later 
+Three years later 
+Four years later 
+Five years later 
+Six years later 
+Seven years later 
+Eight years later 
+Nine years later 
+Current estimate of cumulative claims 
+Cumulative payments to date 
+Claims outstanding prior to 2013 accident year 
+Current gross claims provision 
+Provision for claims handling costs  
+Fair value adjustment to claims outstanding 
+provisions as a result of TU acquisition 
+Total gross claims outstanding provisions 
+
+2013 
+£m 
+391 
+388 
+373 
+383 
+363 
+360 
+361 
+360 
+360 
+360 
+360 
+(349) 
+– 
+11 
+– 
+– 
+
+2014 
+ £m 
+349 
+353 
+379 
+353 
+360 
+347 
+350 
+343 
+345 
+– 
+345 
+(328) 
+– 
+17 
+– 
+– 
+
+2015 
+£m 
+327 
+343 
+343 
+323 
+311 
+305 
+305 
+306 
+– 
+– 
+306 
+(299) 
+– 
+7 
+– 
+– 
+
+Accident year(a)(b) 
+
+2016 
+£m 
+371 
+372 
+335 
+325 
+323 
+309 
+304 
+– 
+– 
+– 
+304 
+(291) 
+– 
+13 
+– 
+– 
+
+2017 
+£m 
+304 
+299 
+269 
+258 
+253 
+251 
+– 
+– 
+– 
+– 
+251 
+(248) 
+– 
+3 
+– 
+– 
+
+2018 
+£m 
+317 
+297 
+268 
+271 
+259 
+– 
+– 
+– 
+– 
+– 
+259 
+(239) 
+– 
+20 
+– 
+– 
+
+2019 
+£m 
+282 
+288 
+271 
+235 
+– 
+– 
+– 
+– 
+– 
+– 
+235 
+(204) 
+– 
+31 
+– 
+– 
+
+2020 
+£m  
+220 
+209 
+184 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+184 
+(137) 
+– 
+47 
+– 
+– 
+
+2021 
+£m 
+224 
+204 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+204 
+(138) 
+– 
+66 
+– 
+– 
+
+2022 
+£m 
+48 
+278 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+278 
+(162) 
+– 
+116 
+– 
+– 
+
+Total 
+2023 
+£m 
+£m 
+– 
+41 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+41 
+2,767 
+(9)  (2,404) 
+18 
+– 
+381 
+32 
+5 
+– 
+2 
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+388 
+
+(a)  The information in the above claims development table covers the period from which the earliest material claim arose in TU for which there is still uncertainty about the amount and timing of the 
+
+claims payments and therefore reflects claims development in respect of claims arising prior to the acquisition of TU in 2021. 
+
+(b) TU changed its reporting date from 31 December to 28 February during 2022. However, accident years remained consistent with a calendar year. Consequently, the first development year from 
+
+2022 onwards represents only two months of claims development. 
+
+Analysis of claims development – net of reinsurance and net of salvage and subrogation recoveries 
+
+Estimate of ultimate claim costs 
+At end of accident year 
+One year later 
+Two years later 
+Three years later 
+Four years later 
+Five years later 
+Six years later 
+Seven years later 
+Eight years later 
+Nine years later 
+Current estimate of cumulative claims 
+Cumulative payments to date 
+Claims outstanding prior to 2013 accident year 
+Current net claims provision 
+Provision for claims handling costs  
+Fair value adjustment to claims outstanding 
+provisions as a result of TU acquisition 
+Total net claims 
+
+Refer to previous table for footnotes. 
+
+Accident year(a)(b) 
+
+2013 
+£m 
+379 
+380 
+368 
+371 
+359 
+355 
+356 
+355 
+353 
+350 
+350 
+(347) 
+– 
+3 
+– 
+– 
+
+2014 
+ £m 
+336 
+338 
+349 
+343 
+339 
+338 
+340 
+334 
+335 
+– 
+335 
+(323) 
+– 
+12 
+– 
+– 
+
+2015 
+£m 
+320 
+327 
+331 
+315 
+306 
+301 
+301 
+301 
+– 
+– 
+301 
+(295) 
+– 
+6 
+– 
+– 
+
+2016 
+£m 
+310 
+319 
+302 
+292 
+292 
+287 
+287 
+– 
+– 
+– 
+287 
+(280) 
+– 
+7 
+– 
+– 
+
+2017 
+£m 
+276 
+270 
+252 
+242 
+239 
+239 
+– 
+– 
+– 
+– 
+239 
+(236) 
+– 
+3 
+– 
+– 
+
+2018 
+£m 
+259 
+259 
+233 
+247 
+236 
+– 
+– 
+– 
+– 
+– 
+236 
+(220) 
+– 
+16 
+– 
+– 
+
+2019 
+£m 
+236 
+255 
+244 
+222 
+– 
+– 
+– 
+– 
+– 
+– 
+222 
+(197) 
+– 
+25 
+– 
+– 
+
+2020 
+£m  
+144 
+125 
+109 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+109 
+(96) 
+– 
+13 
+– 
+– 
+
+2021 
+£m 
+127 
+119 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+119 
+(84) 
+– 
+35 
+– 
+– 
+
+2022 
+£m 
+37 
+171 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+171 
+(94) 
+– 
+77 
+– 
+– 
+
+2023 
+£m 
+32 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+32 
+(4) 
+– 
+28 
+– 
+– 
+
+Total 
+£m 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+2,401 
+(2,176) 
+12 
+237 
+5 
+2 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+– 
+
+244 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+Tesco PLC Annual Report and Financial Statements 2023
+157 
+
+157
+
+Financial statements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes to the Group financial statements continued 
+
+Note 25 Customer deposits and deposits from banks 
+
+Customer deposits 
+Deposits from banks 
+
+Of which: 
+Current 
+Non-current 
+
+2023 
+£m 
+5,770 
+980 
+6,750 
+
+4,485 
+2,265 
+6,750 
+
+2022 
+£m 
+5,327 
+1,052 
+6,379 
+
+4,729 
+1,650 
+6,379 
+
+Deposits from banks include balances of £906m (2022: £902m) drawn under the Bank of England’s Term Funding Scheme with incentives for 
+small
+and medium-sized enterprises (TFSME). Also included are balances of £74m (2022: £150m) which have been sold under sale and 
+repurchase
+
+agreements. 
+
+Note 26 Financial instruments 
+The Group recognises the following financial instruments on its balance sheet. The Group’s exposure to the risks associated with its financial 
+assets and liabilities is discussed in Note 27. 
+
+At 25 February 2023 
+Financial assets  
+Cash and cash equivalents  
+Short-term investments 
+Trade receivables  
+Other receivables 
+Joint ventures and associates loan receivables 
+Loans and advances to customers  
+Other investments 
+Derivative financial instruments: 
+
+Interest rate swaps 
+Cross-currency swaps 
+Index-linked swaps 
+Foreign currency forward contracts 
+Diesel forward contracts 
+
+Financial liabilities 
+Trade payables  
+Other payables  
+Accruals  
+Borrowings 
+Customer deposits  
+Deposits from banks  
+Lease liabilities 
+Derivative financial instruments: 
+
+Interest rate swaps 
+Cross-currency swaps 
+Foreign currency forward contracts 
+Diesel forward contracts 
+
+At amortised 
+cost 
+£m 
+
+Notes 
+
+At fair value 
+through profit 
+or loss 
+£m 
+
+At fair value 
+through other 
+comprehensive 
+income 
+£m 
+
+18 
+18 
+17 
+17 
+31 
+23 
+15 
+
+19 
+19 
+19 
+21 
+25 
+25 
+12 
+
+2,433 
+968 
+531 
+374 
+106 
+7,081 
+1,093 
+
+– 
+– 
+– 
+– 
+– 
+12,586 
+
+(6,359) 
+(1,886) 
+(877) 
+(7,351) 
+(5,770) 
+(980) 
+(7,727) 
+
+– 
+– 
+– 
+– 
+(30,950) 
+
+32 
+660 
+– 
+– 
+– 
+– 
+20 
+
+123 
+211 
+551 
+41 
+4 
+1,642 
+
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+
+(159) 
+(141) 
+(72) 
+(15) 
+(387) 
+
+– 
+– 
+– 
+– 
+– 
+– 
+579 
+
+– 
+– 
+– 
+– 
+– 
+579 
+
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+
+– 
+– 
+– 
+– 
+– 
+
+Total 
+£m 
+
+2,465 
+1,628 
+531 
+374 
+106 
+7,081 
+1,692 
+
+123 
+211 
+551 
+41 
+4 
+14,807 
+
+(6,359) 
+(1,886) 
+(877) 
+(7,351) 
+(5,770) 
+(980) 
+(7,727) 
+
+(159) 
+(141) 
+(72) 
+(15) 
+(31,337) 
+
+158
+
+Tesco PLC Annual Report and Financial Statements 2023
+158 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial statements 
+
+At amortised 
+cost 
+£m 
+
+Notes 
+
+At fair value 
+through profit 
+or loss 
+£m 
+
+At fair value 
+through other 
+comprehensive 
+income 
+£m 
+
+18 
+18 
+17 
+17 
+31 
+23 
+15 
+
+19 
+19 
+19 
+21 
+25 
+25 
+12 
+
+2,319 
+906 
+457 
+478 
+105 
+6,490 
+857 
+
+– 
+– 
+– 
+– 
+– 
+11,612 
+
+(5,641) 
+(1,905) 
+(827) 
+(7,399) 
+(5,327) 
+(1,052) 
+(7,958) 
+
+– 
+– 
+– 
+(30,109) 
+
+26 
+1,170 
+– 
+– 
+– 
+– 
+25 
+
+55 
+223 
+666 
+44 
+23 
+2,232 
+
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+
+(273) 
+(85) 
+(25) 
+(383) 
+
+– 
+– 
+– 
+– 
+– 
+– 
+597 
+
+– 
+– 
+– 
+– 
+– 
+597 
+
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+
+– 
+– 
+– 
+– 
+
+Total 
+£m 
+
+2,345 
+2,076 
+457 
+478 
+105 
+6,490 
+1,479 
+
+55 
+223 
+666 
+44 
+23 
+14,441 
+
+(5,641) 
+(1,905) 
+(827) 
+(7,399) 
+(5,327) 
+(1,052) 
+(7,958) 
+
+(273) 
+(85) 
+(25) 
+(30,492) 
+
+At 26 February 2022 
+Financial assets  
+Cash and cash equivalents  
+Short-term investments* 
+Trade receivables  
+Other receivables 
+Joint ventures and associates loan receivables 
+Loans and advances to customers  
+Other investments 
+Derivative financial instruments: 
+
+Interest rate swaps 
+Cross-currency swaps 
+Index-linked swaps 
+Foreign currency forward contracts 
+Diesel forward contracts 
+
+Financial liabilities 
+Trade payables  
+Other payables  
+Accruals  
+Borrowings 
+Customer deposits  
+Deposits from banks  
+Lease liabilities 
+Derivative financial instruments: 
+
+Interest rate swaps 
+Cross-currency swaps 
+Foreign currency forward contracts 
+
+*  Comparatives have been re-presented for reclassification of certain short-term investments from amortised cost to fair value through profit or loss.  
+
+The expected maturity of financial assets and liabilities is not considered to be materially different to their current and non-current classification. 
+
+The fair value of assets and liabilities measured at amortised cost and at fair value are shown below.  
+
+Fair value of financial assets and liabilities measured at amortised cost 
+The table excludes cash and cash equivalents, short-term investments, trade receivables/payables, other receivables/payables, accruals and 
+deposits from banks where the carrying values approximate fair value. The levels in the table refer to the fair value measurement.  
+
+Financial assets measured at amortised cost 
+Loans and advances to customers 
+Investments in debt instruments at amortised cost(a) 
+Joint ventures and associates loan receivables(b) 
+Financial liabilities measured at amortised cost 
+Borrowings 
+
+Amortised cost(a) 
+Bonds in fair value hedge relationships 
+
+Customer deposits  
+
+2023 
+
+Carrying 
+value 
+£m 
+
+7,081 
+1,093 
+106 
+
+(5,227) 
+(2,124) 
+(5,770) 
+
+Fair 
+value 
+
+£m   
+
+7,058   
+1,097   
+111   
+
+(5,496)  
+(2,167)  
+(5,640)  
+
+2022 
+
+Carrying 
+value 
+£m 
+
+6,490 
+857 
+105 
+
+(5,057) 
+(2,342) 
+(5,327) 
+
+Fair 
+value 
+£m 
+
+6,566 
+867 
+126 
+
+(5,942) 
+(2,401) 
+(5,296) 
+
+Level 
+
+3 
+1 and 2  
+2 
+
+1  
+1 
+3 
+
+(a)  These are principally Level 1 instruments.  
+(b) Joint ventures and associates loan receivables carrying amounts of £106m (2022: £105m) are presented in the Group balance sheet net of deferred profits of £38m (2022: £38m) historically arising 
+
+from the sale of property assets to joint ventures.  
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+Tesco PLC Annual Report and Financial Statements 2023
+159 
+
+159
+
+Financial statements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+Notes to the Group financial statements continued 
+
+Note 26 Financial instruments continued 
+Fair value measurement by level of fair value hierarchy  
+The following table presents the Group’s financial assets and liabilities that are measured at fair value, by level of fair value hierarchy: 
+
+–  quoted prices (unadjusted) in active markets for identical assets or liabilities (Level 1); 
+–  inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly (that is, as prices) or 
+
+indirectly (that is, derived from prices) (Level 2); and 
+
+–  inputs for the asset or liability that are not based on observable market data (that is, unobservable inputs) (Level 3). 
+
+exchange rates from highly liquid markets. For Level 3 assets and liabilities, uncollateralised derivatives are valued as per Level 2 but 
+
+Level 2 assets are valued by discounting future cash flows using externally sourced market yield curves, including interest rate curves and 
+foreign
+include certain data sources which are significantly less liquid; unlisted investments are valued based on less observable inputs such as 
+recent
+
+funding rounds. 
+
+At 25 February 2023 
+Assets 
+Investments at fair value through other comprehensive income 
+Short-term investments at fair value through profit or loss 
+Cash and cash equivalents at fair value through profit or loss 
+Investments at fair value through profit or loss 
+Derivative financial instruments: 
+
+Interest rate swaps 
+Cross-currency swaps 
+Index-linked swaps 
+Foreign currency forward contracts 
+Diesel forward contracts 
+
+Total assets 
+Liabilities 
+Derivative financial instruments: 
+
+Interest rate swaps 
+Cross-currency swaps 
+Foreign currency forward contracts 
+Diesel forward contracts 
+
+Total liabilities 
+Net assets/(liabilities) 
+
+At 26 February 2022 
+Assets 
+Investments at fair value through other comprehensive income 
+Short-term investments at fair value through profit or loss* 
+Cash and cash equivalents at fair value through profit or loss 
+Investments at fair value through profit or loss 
+Derivative financial instruments: 
+
+Interest rate swaps 
+Cross-currency swaps 
+Index-linked swaps 
+Foreign currency forward contracts 
+Diesel forward contracts 
+
+Total assets 
+Liabilities 
+Derivative financial instruments: 
+
+Interest rate swaps 
+Cross-currency swaps 
+Foreign currency forward contracts 
+
+Total liabilities 
+Net assets/(liabilities) 
+
+Level 1 
+£m 
+
+565 
+660 
+– 
+– 
+
+– 
+– 
+– 
+– 
+– 
+1,225 
+
+– 
+– 
+– 
+– 
+– 
+1,225 
+
+Level 1 
+£m 
+
+585 
+1,170 
+– 
+– 
+
+– 
+– 
+– 
+– 
+– 
+1,755 
+
+– 
+– 
+– 
+– 
+1,755 
+
+Level 2 
+£m 
+
+Level 3 
+£m 
+
+– 
+– 
+32 
+– 
+
+123 
+41 
+119 
+41 
+4 
+360 
+
+(73) 
+(4) 
+(72) 
+(15) 
+(164) 
+196 
+
+14 
+– 
+– 
+20 
+
+– 
+170 
+432 
+– 
+– 
+636 
+
+(86) 
+(137) 
+– 
+– 
+(223) 
+413 
+
+Level 2 
+£m 
+
+Level 3 
+£m 
+
+– 
+– 
+26 
+23 
+
+55 
+25 
+115 
+44 
+23 
+311 
+
+(273) 
+(85) 
+(25) 
+(383) 
+(72) 
+
+12 
+– 
+– 
+2 
+
+– 
+198 
+551 
+– 
+– 
+763 
+
+– 
+– 
+– 
+– 
+763 
+
+Total 
+£m 
+
+579 
+660 
+32 
+20 
+
+123 
+211 
+551 
+41 
+4 
+2,221 
+
+(159) 
+(141) 
+(72) 
+(15) 
+(387) 
+1,834 
+
+Total 
+£m 
+
+597 
+1,170 
+26 
+25 
+
+55 
+223 
+666 
+44 
+23 
+2,829 
+
+(273) 
+(85) 
+(25) 
+(383) 
+2,446 
+
+*  Comparatives have been re-presented for reclassification of certain short-term investments from amortised cost to fair value through profit or loss.  
+
+During the financial year, there were no transfers (2022: no transfers) between Level 1 and Level 2 fair value measurements.  
+
+160
+
+Tesco PLC Annual Report and Financial Statements 2023
+160 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial statements 
+
+Level 3 Instruments 
+During the financial year, there were £nil (2022: £nil) of transfers from Level 3 to Level 2 and £nil (2022: £nil) transfer from Level 3 to Level 1. There 
+were £18m of transfers of unlisted investments (2022: £nil) and £(223)m of derivative liabilities (2022: derivative assets of £749m) to Level 3 from 
+Level 2 and £nil (2022: £nil) to Level 3 from Level 1.  
+
+As part of financial risk management, the Group holds certain uncollateralised derivative financial instruments, including interest rate and 
+inflation swaps, cross-currency swaps and forward contracts. These are valued using relevant inputs which are considered observable (Level 2), 
+such as forward rates and foreign exchange rates from available market data. Unobservable inputs (Level 3) relate to the funding valuation 
+adjustment (FVA), which is the estimate of the adjustment to the fair value that a market participant would make to account for funding costs. 
+These are calculated on the future valuation of the derivative, based on the best estimate available to management of suitable relevant cost of 
+funds. A 10 basis points increase in the cost of funds would increase the FVA by £11m (2022: £18m). 
+
+The following table presents the changes in Level 3 instruments: 
+
+At the beginning of the year 
+Gains/(losses) recognised in finance costs* 
+Gains/(losses) recognised in other comprehensive income not reclassified to the 
+income statement 
+Gains/(losses) recognised in other comprehensive income that may subsequently 
+be reclassified to the income statement 
+Additions 
+Disposals 
+Transfers of assets/(liabilities) into Level 3 
+At the end of the year  
+
+*  All gains or losses are unrealised.  
+
+2023 
+
+2022 
+
+Uncollateralised 
+derivatives 
+£m 
+749 
+(114) 
+– 
+
+6 
+
+– 
+(39) 
+(223) 
+379 
+
+Unlisted 
+ investments 
+
+£m   
+14   
+–   
+2   
+
+–   
+
+–   
+–   
+18   
+34   
+
+Uncollateralised 
+derivatives 
+£m 
+– 
+– 
+– 
+
+Unlisted 
+investments 
+£m 
+11 
+– 
+4 
+
+– 
+
+– 
+– 
+749 
+749 
+
+– 
+
+1 
+(2) 
+– 
+14 
+
+Offsetting of financial assets and liabilities 
+The following tables show those financial assets and liabilities subject to offsetting, enforceable master netting arrangements and 
+similar
+
+agreements: 
+
+At 25 February 2023 
+Financial assets 
+Derivative financial instruments 
+Trade receivables 
+Total assets 
+Financial liabilities 
+Derivative financial instruments 
+Trade payables 
+Repurchases, securities lending and similar agreements 
+Total liabilities 
+
+At 26 February 2022 
+Financial assets 
+Derivative financial instruments 
+Trade receivables 
+Total assets 
+Financial liabilities 
+Derivative financial instruments 
+Trade payables 
+Repurchases, securities lending and similar agreements 
+Total liabilities 
+
+Related amounts not offset in  
+the Group balance sheet 
+
+Gross amounts of 
+recognised 
+financial assets/ 
+(liabilities) 
+£m 
+
+Gross amounts of 
+financial assets/ 
+(liabilities) offset 
+in the Group 
+balance sheet 
+£m 
+
+Net amounts 
+included 
+in the Group 
+balance sheet 
+£m 
+
+Financial 
+instruments 
+£m 
+
+Collateral  
+(received)/ 
+pledged 
+£m 
+
+Net amount 
+£m 
+
+930 
+601 
+1,531 
+
+(387) 
+(6,429) 
+(74) 
+(6,890) 
+
+– 
+(70) 
+(70) 
+
+– 
+70 
+– 
+70 
+
+930 
+531 
+1,461 
+
+(387) 
+(6,359) 
+(74) 
+(6,820) 
+
+(142) 
+– 
+(142) 
+
+142 
+– 
+– 
+142 
+
+(104) 
+– 
+(104) 
+
+– 
+– 
+74 
+74 
+
+684 
+531 
+1,215 
+
+(245) 
+(6,359) 
+– 
+(6,604) 
+
+Related amounts not offset in  
+the Group balance sheet 
+
+Gross amounts of 
+recognised 
+financial assets/ 
+(liabilities) 
+£m 
+
+Gross amounts of 
+financial assets/ 
+(liabilities) offset in 
+the Group 
+balance sheet 
+£m 
+
+Net amounts 
+included 
+in the Group 
+balance sheet 
+£m 
+
+Financial 
+instruments 
+£m 
+
+Collateral  
+(received)/ 
+pledged 
+£m 
+
+Net amount 
+£m 
+
+1,011 
+526 
+1,537 
+
+(383) 
+(5,710) 
+(150) 
+(6,243) 
+
+– 
+(69) 
+(69) 
+
+– 
+69 
+– 
+69 
+
+1,011 
+457 
+1,468 
+
+(383) 
+(5,641) 
+(150) 
+(6,174) 
+
+(246) 
+– 
+(246) 
+
+246 
+– 
+– 
+246 
+
+(18) 
+– 
+(18) 
+
+– 
+– 
+150 
+150 
+
+747 
+457 
+1,204 
+
+(137) 
+(5,641) 
+– 
+(5,778) 
+
+For the financial assets and liabilities subject to enforceable master netting arrangements above, each agreement between the Group and the 
+counterparty allows for net settlement of the relevant financial assets and liabilities when both elect to settle on a net basis. In the absence of 
+such an election, financial assets and liabilities will be settled on a gross basis. However, each party to the master netting agreement or similar 
+agreement will have the option to settle all such amounts on a net basis in the event of default of the other party. 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+Tesco PLC Annual Report and Financial Statements 2023
+161 
+
+161
+
+Financial statements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes to the Group financial statements continued 
+
+Note 27 Financial risk management 
+The Group’s financial risk management is carried out under policies approved and authority delegated by the Board of Directors, including 
+parameters for risk management across the Group. The financial risk management in relation to Retail is carried out by a central treasury 
+department. Tesco Bank has a separate formal structure for reporting, monitoring and managing its financial risks appropriate to the nature of its 
+business as a regulated financial institution.  
+
+The main financial risks faced by the Group, including Retail and Tesco Bank, and the management of these risks are set out below and include 
+market risk (foreign exchange, interest rate, inflation and commodity prices), credit risk, liquidity risk, capital risk and insurance risk. Additional 
+information on the management of the financial risks specifically relating to Tesco Bank is also set out on page 170.  
+
+Tesco Group  
+(a) Market risk  
+Foreign exchange risk management 
+
+the cost of future purchases of 
+
+Description of risks  
+Transactional exposure that arises 
+from
+goods, where those purchases are 
+denominated in a currency other than 
+the functional currency of the 
+purchasing company. 
+
+Translation exposure that arises from 
+exchange rate movements in 
+connection with translating the Group’s 
+foreign subsidiaries’ revenue and 
+expenses, assets and liabilities into 
+Pound Sterling.  
+
+  Management policy  
+  The Group’s policy is to hedge currency exposure that 
+could significantly impact the Group income statement 
+with a minimum (20%) and maximum (80%) hedge level 
+of forecast uncommitted exposure within at least the 
+next 12 months. 
+
+  Translation risk related to foreign subsidiaries is not 
+actively hedged, however to reduce this exposure in 
+relation to the net assets of foreign subsidiaries, net 
+investment hedging is undertaken.  
+
+Loans to and from subsidiaries in 
+currencies other than in the entity’s 
+functional currency. 
+
+  The Group’s policy is that 100% of the foreign exchange 
+risk is hedged.  
+
+Debt issued in a currency other than 
+Pound Sterling. 
+
+  The Group’s policy is to swap 100% of the foreign 
+currency debt back to Pound Sterling, unless there are 
+appropriate matching foreign currency assets.  
+
+  Hedging strategy 
+  Foreign currency forward contracts or purchased 
+currency options, which are designated as cash flow 
+hedges. These are denominated in the same currency 
+as the highly probable future sales and purchases, 
+which are expected to occur within a maximum 24-
+month period, and the hedge ratio is determined 
+to
+
+1:1. 
+
+be
+
+  Euro-denominated borrowings are used to hedge the 
+exposure of a portion of the Group’s net investments in 
+overseas operations which have a
+currency, against changes in value due to changes in 
+foreign exchange rates. The Group has established a 
+hedge ratio of 1:1, as the underlying risk of the hedging 
+instrument is identical to the hedged risk component. 
+
+Euro functional 
+
+  Foreign currency derivatives and borrowings in 
+matching currencies, which are not formally designated 
+as accounting hedges as gains and losses will naturally 
+offset in the income statement. 
+
+  Cross-currency swaps, which are designated as fair 
+value hedges. 
+
+Residual exposure is present arising largely from cash and cash equivalents balances that are not in the functional currency of the entity holding 
+these balances. The Group income statement impact of foreign currency exchange rate movements on these residual balances is disclosed in the 
+sensitivity table on page 164.  
+
+Interest rate risk management 
+
+Description of risks  
+Debt issued at variable interest rates as 
+well as cash deposits and short-term 
+investments, giving rise to cash flow risk, 
+and debt issued at fixed interest rates 
+giving rise to fair value risk.  
+
+  Management policy  
+  The Group’s policy is to manage interest rate risk in 
+total balance sheet debt (including senior unsecured 
+debt, lease liabilities, cash and cash equivalents and 
+investments) to a range of 55%-85% fixed. 
+
+  Hedging strategy  
+  Interest rate swap contracts are used to fix interest 
+rates on senior unsecured debt or investments issued 
+at floating rates, creating a fair value hedge; and for 
+senior unsecured debt or investments issued at fixed 
+rates to generate variable interest exposure, creating a 
+cashflow hedge. The terms of the swap contracts 
+match the terms of the borrowings or investments 
+including notional amounts and maturity, interest 
+settlement and interest rate reset dates, and the 
+Group has established a hedge ratio of 1:1 for the 
+hedging relationships as the underlying risk of the 
+derivative contract is identical to that of the 
+hedged
+
+item.  
+
+Different repricing dates of the assets 
+and liabilities in Tesco Bank’s banking 
+activities and unexpected changes to 
+the yield curve, giving rise to volatility in 
+earnings and economic value of these 
+assets and liabilities. 
+
+  Tesco Bank has established limits for risk appetite and 
+stress tests are performed using sensitivity to 
+fluctuations in underlying interest rates in order to 
+monitor this risk. Tesco Bank also use the capital at risk 
+approach, which assesses the sensitivity of a reduction 
+in the Bank’s capital to movements in interest rates. 
+
+  Tesco Bank uses interest rate swap contracts as fair 
+value hedges, to swap fixed rate exposures of 
+investment securities, loans and advances to 
+customers and customer deposits, back to a 
+benchmark floating rate where no existing offset is 
+available. 
+
+The scenarios considered include both parallel and 
+non-parallel movements of the yield curve and have 
+been designed to assess impacts across a suitable 
+range of severe but plausible movements in 
+interest
+
+rates. 
+
+162
+
+Tesco PLC Annual Report and Financial Statements 2023
+162 
+
+Tesco PLC Annual Report and Financial Statements 2023 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

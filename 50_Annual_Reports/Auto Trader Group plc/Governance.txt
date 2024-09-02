@@ -1,0 +1,3086 @@
+Promoting diversity in the workplace
+
+We want to build a diverse and 
+inclusive workplace where every one 
+of us can be our best and true selves; 
+only with a mix of different ideas  
+and perspectives can we come  
+up with the most exciting new ideas 
+and create the best experience for 
+our customers and consumers.
+
+We have a number of internal 
+networks that support and align with 
+our diversity and inclusion strategy.  
+
+Everyone at Auto Trader is 
+encouraged to join one of our 
+employee-driven networks.  
+These networks and their leaders 
+are a core part of our culture,  
+helping to welcome employees 
+when they join our organisation, 
+empowering team members to 
+thrive and spearheading outreach 
+programmes that support our  
+local communities. 
+
+Forever Manchester
+
+The Auto Trader Community Fund, 
+powered by the charity Forever 
+Manchester, considers applications 
+and awards up to £1,000 aimed  
+at supporting grassroots projects 
+across Greater Manchester,  
+and in London.
+
+During the year we celebrated the 
+sixth anniversary of the Auto Trader 
+Community Fund at Forever 
+Manchester that provides support 
+for a wide range of volunteer-led 
+community projects across 
+Greater Manchester. 
+
+Our representation of women at a total 
+company level increased from 40% to 43%. 
+During the year, the percentage of women 
+on our Operational Leadership Team  
+(‘OLT’) increased from 44% to 56%. We also 
+increased the percentage of women in 
+leadership roles to 40% as at 31 March 2023 
+(March 2022: 38%), as defined by the FTSE 
+Women Leaders Review (formerly the 
+Hampton-Alexander review). 
+
+To increase our representation across all 
+levels of the organisation, we aim to stimulate 
+the flow of diverse talent from early careers 
+through to senior leadership by both targeted 
+development programmes and equipping 
+our leaders to get the very best out of 
+everyone on their team and support their 
+development through the organisation.  
+Our Continuous Leadership Development 
+programme, made up of a range of training 
+interventions, supports our senior leaders 
+and people managers. We have also 
+continued with our Diverse Talent Accelerator 
+programme designed to support the 
+progression of mid-career colleagues.
+
+Making a difference to our 
+communities and the industries 
+we operate in
+Community-minded is one of the values that 
+shapes our culture and we are committed  
+to making a difference and having a positive 
+impact on the communities we operate in. 
+Our Make a Difference Guild is committed  
+to empowering our employees to support  
+our local communities and national charities. 
+During the year we continued our partnership 
+with Forever Manchester to operate the  
+Auto Trader Community Fund that provides 
+support for community projects across 
+Greater Manchester. We also launched  
+a new ‘Your Community Fund’ available  
+to all employees to nominate charities  
+close to their hearts and local communities.  
+We continue to work closely with our charity 
+partner in London and support and promote 
+all Disasters Emergency Committee (‘DEC’)
+appeals. We operate in both the automotive 
+and technology industries. BEN is a key 
+charity supporting the automotive industry 
+with the aim to offer life changing support 
+which empowers people to take control of 
+their mental and physical health. As with all 
+charities, BEN was heavily impacted by the 
+pandemic, making it even more important 
+that we continue to support them.
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+43
+
+Strategic reportGovernanceFinancial statementsBeing a responsible business continued
+
+Our governance  
+& compliance
+
+Uphold the values of good corporate 
+governance and risk management and 
+consider the needs of all our stakeholders 
+in our strategic decision-making.
+
+Comply with our legal and regulatory 
+obligations and behave ethically and  
+with integrity at all times.
+
+Maintain a trusted marketplace for  
+our customers and consumers to find,  
+buy and sell vehicles.
+
+Overview
+To ensure that high standards are 
+embedded across the business and form 
+part of our culture, we have a compliance 
+framework in place, consisting of policies, 
+processes, guidance and training focused 
+on a number of core compliance topics. 
+Details of our Board governance framework 
+and policies can be found in the Governance 
+section (page 58 onwards).
+
+As an online marketplace, cyber security and 
+protecting customer and consumer data are 
+primary areas of focus. They are fundamental 
+to our future success and to build trust with 
+our customers and consumers. As we shift to 
+an accelerated adoption of digital retailing  
+it is paramount that our cyber and data 
+security and infrastructure evolve with our 
+business priorities. 
+
+Cyber security
+Attempts to breach our systems to access 
+our data and the threat of an unauthorised 
+malicious attack on our systems pose a 
+significant and perpetual threat. The nature 
+of cyber-attacks has continued to evolve  
+and changes in ways of working have 
+created more opportunities for cyber 
+criminals, increasing in both frequency  
+and sophistication. A successful breach 
+could lead to significant impairment of our 
+reputation with customers and regulators 
+and could be costly in terms of fraud losses, 
+regulatory sanction or remediation activity – 
+one of our viability scenarios reflects the risk 
+of a data breach (see page 57). 
+
+Whilst cyber security risks cannot be fully 
+mitigated, having an effective cyber security 
+risk and governance framework can help  
+to significantly reduce the impact of such 
+events. We have a security programme in 
+place that covers both our corporate systems 
+and the Auto Trader platform which includes 
+a defined security governance framework, 
+overseen by our Chief Technology Officer. 
+
+NIST Cybersecurity Framework
+We have adopted the NIST Cybersecurity 
+Framework (‘NIST CSF’) to help us understand 
+and define our existing policies, processes 
+and technical measures in place with the aim 
+to better govern our cyber security position.  
+It enables us to identify areas of improvement 
+and focus our efforts by agreeing and setting 
+a target state, with the understanding that 
+the NIST CSF is designed to complement  
+and enhance existing business and cyber 
+security operations. 
+
+Internal Audit function
+We operate a rolling internal audit programme 
+(outsourced to a third party) which includes 
+annual reviews of cyber security. As part  
+of this programme, a review of our NIST 
+Framework has been carried out to validate 
+the status and perform an operating 
+effectiveness review, the purpose of which 
+is to provide confidence that the framework 
+is robust, appropriate and effective.  
+
+44
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+ 
+How we govern this area
+
+6
+
+1
+
+INTERNAL AUDIT
+PROGRAMME
+
+BOARD
+RESPONSIBILITY
+
+5
+
+SECOND LINE
+FORUMS &
+COMMITTEES
+
+2
+
+EXECUTIVE
+RESPONSIBILITY
+
+4
+
+3
+
+AUDIT
+COMMITTEE
+
+OPERATIONAL
+LEADERSHIP
+TEAM
+
+1. BOARD RESPONSIBILITY
+
+Material ESG topics are discussed by the Board including cyber security  
+and GDPR. 
+
+The Corporate Responsibility Committee assists the Board in fulfilling its 
+oversight responsibilities in respect of governance and compliance, where 
+topics have not been covered by the Board. 
+
+2. EXECUTIVE RESPONSIBILITY
+
+Responsibility for assessing and managing our governance and 
+compliance sits at both Executive and Board level. Our Executive Directors 
+have responsibility for ensuring we conduct ourselves with the highest 
+standards of honesty and integrity. 
+
+3. OPERATIONAL LEADERSHIP TEAM
+
+The Group’s Chief Technology Officer, Chris Kelly, is responsible for setting 
+the Group technology strategy, including our cyber security framework.  
+The Group’s Director of Governance, Claire Baty, is responsible for regulatory 
+compliance, customer security, procurement, legal services and risk 
+management. Her remit includes compliance with GDPR and FCA regulation. 
+
+4. AUDIT COMMITTEE
+
+Internal audit reports are reported to the Audit Committee and monitored to 
+ensure recommendations are actioned. 
+
+5. SECOND LINE FORUMS & COMMITTEES
+
+We operate the following second line forums and committees: 
+
+• Risk Forum.
+
+• FCA Governance Committee.
+
+• GDPR Steering.
+
+• Cyber Security working group.
+
+• Trust forum.
+
+• Health & Safety Committee.
+
+6. INTERNAL AUDIT PROGRAMME
+
+We operate a rolling internal audit programme which provides independent 
+and objective assurance activities relating to the Group’s governance, risk 
+management and internal control processes. The programme includes 
+regular reviews of cyber security, enterprise risk management, GDPR 
+compliance and FCA compliance. 
+
+We have successfully adopted the practical 
+elements of the NIST CSF effectively.
+
+Policies and procedures
+•  A proactive awareness programme to 
+
+educate all employees on cyber security risks.
+•  A dedicated security operations team to 
+detect and respond to security incidents 
+in line with our cyber security incident 
+management procedures.
+
+•  Enhanced backup solutions have been 
+implemented across consumer facing 
+and internal systems, to guard against 
+the increasing threat of ransomware.
+•  All employee accounts are protected  
+by multi-factor authentication (‘MFA’) 
+regardless of device and location, providing 
+enhanced authentication protection.
+•  Major incident response simulations  
+
+and business continuity tests are carried 
+out periodically.
+
+•  System vulnerability and penetration testing 
+is carried out regularly by both external and 
+internal resources, including: application 
+vulnerability testing; penetration testing  
+of our platform and infrastructure; and Red 
+team testing to ensure our processes for 
+responding to a cyber incident are robust 
+and fit for purpose.
+
+•  All aspects of our applications are designed 
+
+and deployed with security in mind so  
+that Auto Trader can deliver a secure and 
+trusted platform for our customers.
+
+Protecting our customer  
+and consumer data 
+Data is at the heart of everything we do and 
+data compliance and protection is therefore 
+of critical importance to Auto Trader.  
+We operate a structured framework which 
+supports us in meeting our compliance 
+obligations, the expectations of customers 
+and clients, fulfil privacy rights and mitigate 
+the risks of a data breach. We comply with the 
+Data Protection Act 2018 (‘DPA 2018’), and the 
+UK General Data Protection Regulation (‘UK 
+GDPR’) as our benchmark for data protection. 
+
+When it comes to collecting and storing 
+personal data, be that for consumers, 
+customers or our employees, we have  
+a comprehensive set of policies which 
+reflect the applicable privacy legislation 
+and abide by a clear set of principles.  
+We act as data processor for our customers 
+and a data controller for the personal  
+data of our people.  
+
+We are committed to ensuring that the 
+personal information we collect is used for 
+the appropriate purpose, which does not 
+constitute an invasion of privacy and is held 
+securely, responsibly and transparently in 
+accordance with our privacy notices which 
+govern all our platforms and subsidiaries.
+
+To ensure we are meeting our compliance 
+obligations we have a dedicated team  
+that is responsible for data privacy, data 
+breach prevention and reporting, policy 
+compliance, record keeping and data 
+subject rights. We have an assurance 
+framework in place to monitor compliance 
+with data privacy laws and to ensure any 
+breaches are dealt with in a robust manner. 
+
+We hold GDPR Steering meetings bimonthly, 
+attended by data owners from all business 
+areas. The meeting is a central point of 
+communication and coordination and 
+provides guidance on the governance  
+of our data strategy and ongoing 
+compliance with relevant data security  
+and privacy regulations.
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+45
+
+Strategic reportGovernanceFinancial statements 
+Being a responsible business continued
+
+All Auto Trader employees, including 
+part-time employees, contractors and all 
+Board members, are required to complete 
+annual data privacy and security training and 
+we have established processes to cover all 
+aspects of the GDPR: Data Protection Impact 
+Assessments (‘DPIAs’). These are conducted 
+to help identify and minimise any data 
+protection risks for new or changed products 
+or services; and all processes are recorded 
+and records of processing activity (‘ROPAs’) 
+are reviewed quarterly by data owners. These 
+include the lawful basis for processing and 
+data retention periods; our privacy notices 
+are reviewed and updated regularly. We have 
+separate notices for consumers, employees 
+and retailers; and we have processes in place 
+to respond to Subject Access Requests (‘SAR’) 
+and Erasure requests. 
+
+Where required, Auto Trader obtains consent 
+from consumers to gather personal data to 
+service their enquiries for products, services 
+or vehicles advertised on the site. Explicit 
+consent (gathered separately) is also obtained 
+to contact consumers for marketing purposes. 
+Where we pass personal data to third-party 
+service providers contracted to Auto Trader  
+in the course of dealing with customers or 
+employees, we carefully vet any third parties 
+that we share data with, and they are obliged 
+to keep it securely, and use it only to fulfil the 
+service they provide on our behalf. 
+
+We record all instances of data loss and 
+have a rigorous incident management 
+process in the unlikely event a breach 
+occurs. This includes reporting notifiable 
+breaches to the relevant regulatory 
+authorities without undue delay and within 
+stipulated deadlines. Where required we 
+take remedial action as soon as possible.
+
+Maintaining a trusted marketplace 
+As a leading online marketplace, we strive to provide a  
+marketplace that is relevant, reliable and fair. It is important  
+to our customers and our consumer audience that adverts 
+displayed on Auto Trader are accurate and genuine. Our goal  
+is also to provide a valuable service for our customers and 
+consumers and provide an engaging user experience.
+
+Retailer feedback
+We actively seek retailer feedback  
+in all aspects of product and service 
+development to ensure that we continue  
+to provide market-leading solutions and 
+support to our retailer partners. We also 
+actively monitor consumer sentiment 
+across our various products and channels, 
+and our teams review thousands of items 
+of feedback a week.
+
+Product research and testing
+When we bring a product to market, we go 
+through a rigorous process of discovery 
+to ensure solutions meet the varied  
+needs of both our retailer partners and 
+consumers. Retailers are involved at all 
+stages of product development, including 
+beta testing prior to scaling solutions. 
+
+Sentiment tracking
+We survey retailers on a monthly basis 
+through marketing channels to capture 
+structured feedback on our relationship 
+with retailers to ensure we’re meeting their 
+needs and gauge sentiment towards our 
+brand. This ensures we can keep an eye on 
+overall satisfaction, value for money and 
+the partnership we aim to foster.
+
+Voice of the customer
+We actively monitor feedback which our 
+Retailer Development and Support teams 
+capture from retailers during the course of 
+the thousands of inbound and outbound 
+calls we field per week, ensuring we keep  
+a good gauge on retailer sentiment and 
+can react to market challenges facing our 
+retailers quickly.
+
+Consumer sentiment
+We’ve maintained extremely positive 
+feedback scores across external review 
+platforms including Trustpilot (4.7/5 based 
+on 80,453 reviews), iOS App Store (4.8/5 
+based on 165,159 reviews) and Android Play 
+Store (4.7/5 based on 67,967 reviews).
+
+TAG verification
+We have achieved verification by TAG 
+(‘Trustworthy Accountability Group’), 
+achieving the Brand Safety Recognition 
+seal. TAG is the world’s leading 
+programme to fight criminal activity  
+and protect brand safety in digital 
+advertising. They have established best 
+in class global standards that protect 
+the industry from potentially harmful 
+threats around fraud, malware and 
+brand safety. Obtaining our TAG status  
+is recognition that we meet the high 
+standards required by TAG and our 
+contribution towards fighting criminal 
+activity and increasing trust and 
+transparency in digital advertising.
+
+VSTAG forum
+We continue to actively participate in  
+the Vehicle Safe Trading Advisory Group 
+(‘VSTAG’), an industry forum we founded 
+over 15 years ago. The forum brings 
+together the UK’s leading online 
+automotive advertising companies, 
+advisors from the Metropolitan Police, 
+Get Safe Online and Action Fraud to work 
+together to reduce online vehicle crime 
+and help protect buyers and sellers of 
+pre-owned vehicles from fraud.
+
+FCA compliance
+Auto Trader Limited, the main trading subsidiary 
+of the Group, is authorised by the FCA for 
+consumer credit and insurance intermediary 
+activities. Our activities primarily relate to 
+providing finance and insurance introductions 
+to consumers for third parties, be it retailers 
+or commercial partners. We are developing 
+and trialling consumer journeys for some  
+of our regulated activities as part of the 
+business’s wider digital retailing proposition 
+using the technology of Blue Owl Limited 
+(trading as ‘AutoConvert’), a wholly owned 
+subsidiary. AutoConvert became an Authorised 
+Representative of Auto Trader Limited in 
+2022 in respect of consumer credit activities. 
+
+Autorama UK Limited (trading as ‘Vanarama’), 
+acquired in 2022, is authorised by the FCA  
+for consumer credit and insurance activities.  
+The activities relate to brokering vehicle 
+leasing to retail and trade customers and  
+we also arrange General Insurance Services 
+under the trading name Vanarama Insurance 
+Services. We are developing and trialling 
+consumer journeys where consumers start 
+their journey on Auto Trader and complete an 
+onward journey with Vanarama.
+
+We have specialist internal resource within  
+our Governance, Risk and Compliance  
+team with significant experience of working 
+in FCA regulated businesses, and we have 
+developed a detailed governance framework 
+to ensure that we comply with the principles, 
+rules and guidance applicable to our 
+activities. We have implemented the Senior 
+Managers & Certification Regime, which 
+came into effect in December 2019. Senior 
+Managers at Auto Trader are Nathan Coe, 
+Catherine Faiers, Jamie Warner and Claire 
+Baty. Certain members of the Operational 
+Leadership Team hold Certified Functions. 
+Senior Managers at Vanarama are members 
+of the company’s board and other members 
+of the Vanarama senior leadership team.  
+All of these individuals have been assessed 
+and certified as Fit and Proper. All employees 
+are subject to the Conduct Rules and have 
+received appropriate training and guidance. 
+We have a comprehensive suite of policies, 
+training and monitoring procedures to ensure 
+awareness of and compliance with the 
+requirements, including financial promotions, 
+product change management, complaint 
+handling, vulnerable customers and 
+transparency. Our Customer Charter outlines 
+our commitment to Treating Customers Fairly. 
+
+We also have in place a comprehensive 
+implementation plan in respect of ensuring 
+our compliance with the FCA’s forthcoming 
+Consumer Duty.
+
+46
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+Business ethics and compliance
+We have a zero tolerance approach to bribery, 
+corruption and other financial crime within  
+our business and/or in any dealings with our 
+customers, suppliers and other third parties 
+who we deal with in the course of our business. 
+We require regular compliance training for  
+all Auto Trader employees and contractors, 
+including all Board members. We have a well 
+established online training and awareness 
+programme which includes compliance 
+modules for information security, GDPR, 
+anti-bribery and corruption, the corporate 
+criminal offence of facilitating tax evasion, 
+anti-money laundering, modern slavery  
+and whistleblowing to ensure all employees 
+uphold our ethical standards in their  
+day-to-day decision-making and actions, 
+remain up to date and are alert to unethical 
+practices and potential risks to our consumers 
+or customers. We do not conduct business 
+with any service provider, customer or supplier 
+which does not meet the principles of our 
+policies with respect to these areas. 
+
+Human rights
+We are opposed to all forms of discrimination 
+with respect to employment and occupation, 
+modern slavery, human trafficking, forced 
+or compulsory labour and child labour,  
+in our business and our supply chain. We are 
+committed to supporting human rights 
+through our compliance with national laws 
+and through our internal policies which 
+adhere to internationally recognised human 
+rights principles. In line with our commitment 
+to creating a diverse and inclusive culture, 
+our internal policies require respect and 
+equal and fair treatment of all persons  
+we come into contact with. All employees  
+are paid in excess of the Real Living Wage, 
+ensuring that all employees and contractors 
+working in our offices receive at least the 
+Living Wage. We are an accredited Living 
+Wage Employer. We safeguard our 
+employees through a framework of policies 
+and statements including Modern Slavery, 
+Gender Pay, Flexible Working, Equal 
+Opportunities and Inclusion Policies.
+
+Modern slavery 
+We are committed to preventing slavery 
+and human trafficking in our business  
+and supply chains. We require the highest 
+standards of honesty and integrity in all our 
+business dealings and relationships. We will 
+not tolerate the mistreatment of people in 
+our employment and, wherever possible, 
+employed in our supply chain. During 2023, 
+no incidents of modern slavery or human 
+rights abuse have been identified in our 
+business or supply chain.
+
+Tax transparency
+Auto Trader is committed to being a 
+responsible taxpayer acting in a transparent 
+manner at all times. Our detailed tax policy 
+includes further transparency on our approach 
+to risk management and governance. In 2023, 
+our total tax contribution was £175.4m  
+(2022: £143.5m). Taxes borne by the Group 
+totalled £69.4m (2022: £63.8m) and consist 
+of corporation tax, employer’s NICs and 
+stamp duty. Taxes collected by the Group 
+totalled £106.0m (2022: £79.7m) and consist 
+of PAYE deductions, employees’ NICs and 
+net VAT collected.
+
+Supplier ESG engagement 
+We hold ourselves and our suppliers to the 
+highest standards of behaviour. We want to 
+engage suppliers that share our values and 
+collaborate with them to build a stronger, 
+more responsible supply chain. We have an 
+established supplier engagement strategy 
+and the information we collect through our 
+supplier engagement/onboarding process 
+provides us with greater insight into numerous 
+aspects of our suppliers’ performance, 
+including Environmental, Social and 
+Governance practices such as: how they 
+are engaging the communities they are 
+based in; what charitable activities they 
+are undertaking; how they identify and 
+improve diversity and inclusion; what 
+governance they have in place to ensure 
+good practice and limit instances of 
+modern slavery, bribery or breaches of 
+other relevant legislation; and sustainability. 
+As part of our environmental strategy,  
+we have expanded our discussions on 
+sustainability with our highest spending 
+suppliers to deep dive into understanding 
+where our suppliers are on their own 
+sustainability journey. We have published  
+a supplier code of conduct which outlines 
+Auto Trader’s stance on important matters 
+and our expectations of our suppliers. 
+
+Grievance reporting  
+or escalation procedures
+We aim to create a working environment  
+in which all individuals enjoy coming to  
+work, where they can perform at their best, 
+and where they are free from discrimination 
+or harassment. 
+
+We foster a culture of open and healthy 
+conversations, mutual appreciation and 
+respect. We treat any behaviour that 
+undermines this aim as totally unacceptable 
+and it will not be tolerated. We are committed 
+to a culture where staff can freely report  
+any issue that needs attention and access 
+support via the escalation procedures we 
+have in place. Our grievance policy sets out 
+both informal and formal avenues for 
+addressing concerns.
+
+Whistleblowing 
+We are committed to carrying out all 
+business activities in an honest and open 
+manner and strive to apply high ethical 
+standards in all our business dealings.  
+We actively cultivate a transparent and 
+open culture, encouraging our employees 
+to speak up whenever they have concerns, 
+if they suspect anything inappropriate  
+or experience any serious malpractice  
+or wrongdoing in our business. We believe 
+this contributes to a fairer and transparent 
+marketplace where customers and 
+consumers know that we can be trusted. 
+We have an internal reporting facility for 
+employees to discuss concerns and we also 
+operate an anonymous and confidential 
+whistleblowing helpline through an 
+independent organisation. Reports are 
+directed to the Audit Committee Chair  
+and the Company Secretary or via the 
+independent hotline.
+
+Further information
+To find out more about all of our governance  
+& compliance policies, please go online:
+
+plc.autotrader.co.uk
+
+careers.autotrader.co.uk
+
+autotrader.co.uk
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+47
+
+Strategic reportGovernanceFinancial statementsHow we manage risk
+
+ Our risk management arrangements
+
+The Board is collectively responsible for determining the nature and extent of  
+the principal risks the Group is willing to take in achieving its strategic objectives.
+
+Risk management and internal control
+The Company does not have a separate Risk Committee; instead the 
+Board as a whole is collectively accountable for determining the 
+nature and extent of the principal risks Auto Trader is willing to take 
+in achieving its strategic objectives.  
+
+The Board is also accountable for establishing and maintaining  
+the Group’s system of risk management and internal controls.  
+It receives regular reports from management identifying and 
+evaluating our response to key risks. Our risk management 
+framework is described opposite.
+
+Our risk management process
+Effective risk management is critical if we are to achieve our strategic 
+objectives, to achieve sustainable long-term growth, and ultimately 
+to achieve our purpose of Driving Change Together. Responsibly. 
+
+A four-step process is adopted to help us manage our principal  
+risks. OLT members are responsible for identifying, assessing, 
+
+mitigating and monitoring risks, and reporting against these risks. 
+The Governance, Risk and Compliance function facilitates this process 
+and supports the OLT in designing responses to risks, thereby ensuring 
+that the response is aligned to the Group’s risk appetite. The risk 
+management process can be summarised as follows:
+
+1  Identify risks 
+
+2  Assess and quantify risks 
+
+A top-down and bottom-up approach is used to identify 
+principal risks across the business. Whilst the Board has overall 
+accountability for the effectiveness of internal control and risk 
+management, the day-to-day management of risk is delegated 
+to the OLT. Independent support is provided to the OLT by the 
+Governance, Risk and Compliance function.
+
+Risks are evaluated to establish the root causes, the impact  
+and the likelihood of occurrence. Risks are categorised as:
+•  Existential risks, being those which have the potential  
+
+to lead to fundamental change within our organisation  
+and wider industry.
+
+•  Operational risks, being those arising out of the existing 
+
+business activities.
+
+•  Emerging risks, being those which relate to new initiatives, 
+
+new products, and new laws and regulations.
+
+EFFECTIVE 
+RISK 
+MANAGEMENT
+
+4  Monitor and review 
+
+3  Respond to, manage and mitigate risks
+
+The OLT is responsible for monitoring the effectiveness of 
+controls and mitigating actions, with continuous independent 
+challenge provided by the Group’s Governance, Risk and 
+Compliance function, and Internal Audit. The Board reviews the 
+Group’s risk register and assesses the adequacy of mitigating 
+actions to ensure that risks are being managed in a manner 
+consistent with our risk appetite.
+
+After identifying the root cause of a risk, owners must consider 
+whether the existing mitigations reduce the risk to an acceptable 
+level, with this assessment challenged independently by the 
+Governance, Risk, and Compliance function. The level of acceptable 
+risk is guided by our Group risk appetite. If the residual level of risk 
+after mitigation remains above our risk appetite, then further 
+mitigating actions are implemented. 
+
+Risk appetite
+The Board has considered the nature and extent of the principal risks Auto Trader currently faces, the potential risks we expose 
+ourselves to as we proceed with our strategy, and the wider market, economy and business environment. The Board has set its risk 
+appetite accordingly, which can be summarised as follows:
+
+Flexible
+Auto Trader acknowledges that, in some 
+circumstances, fast-paced and innovative 
+development of new products within the 
+technology space presents significant 
+opportunities and taking advantage of these 
+opportunities may result in financial loss.  
+We consider the opportunities can outweigh  
+the downside risks, and therefore, in pursuit of 
+our strategic objectives, we are flexible about 
+taking risks which relate to product innovation, 
+addressing competitive threats, and/or making 
+the most of market opportunities.
+
+Cautious
+As we pursue our strategic objectives, we must 
+remain cognisant of the potential for them to 
+have conflicting impacts on our stakeholders, 
+including employees, suppliers and third parties, 
+and the environment. Owing to the potential for 
+these risks to have significant knock-on impacts 
+across a wide range of categories, we are cautious 
+about taking risks in relation to such areas.
+
+Averse
+We are averse to taking risks which conflict with our 
+values; risks which could damage our reputation; 
+risks which threaten the security of our systems 
+and technology; risks leading to a breach of laws, 
+regulations or financial covenants; and/or risks 
+which could compromise the organisation’s going 
+concern status. Across these categories we  
+take all reasonable steps to ensure our business 
+activities do not give rise to significant risk of 
+damage to our stakeholders, and in pursuing our 
+strategic objectives we are averse to exposing 
+ourselves to higher levels of risk knowingly.
+
+48
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+Our risk management framework 
+The Group’s principal risks are recorded within a risk register which 
+captures details of each risk and the root causes; likelihood of the 
+risk occurring; the impact if it does occur; and details of the actions 
+being taken to manage the risk. 
+
+The Board considers whether, given the strategy and risk appetite of 
+the Group, the mitigations are reducing the risk to an acceptable level.
+
+Driving Change Together. 
+Responsibly.
+
+AUTO TRADER GROUP PLC BOARD
+
+AUDIT 
+COMMITTEE
+
+THIRD LINE
+
+EXTERNAL 
+AUDITOR
+
+INTERNAL 
+AUDITOR
+
+OTHER   
+EXTERNAL 
+ASSURANCE
+
+SUBSIDIARY BOARDS
+
+OPERATIONAL LEADERSHIP TEAM & SENIOR LEADERS
+
+SECOND LINE FORUMS   
+AND COMMITTEES
+
+RISK FORUM:  
+SCOPE OF RISK FORUM 
+INCLUDES CLIMATE
+
+FCA GOVERNANCE 
+COMMITTEE
+
+HEALTH & SAFETY 
+COMMITTEE
+
+SECOND LINE   
+FUNCTIONS
+
+RISK MANAGEMENT
+
+INTERNAL CONTROL
+
+FCA COMPLIANCE
+
+GDPR STEERING
+
+GDPR COMPLIANCE
+
+DISASTER RECOVERY 
+STEERING
+
+CYBER SECURITY 
+WORKING GROUP
+
+TRUST FORUM
+
+LEGAL TEAM
+
+PROCUREMENT
+
+CYBER SECURITY TEAM
+
+Our risk assessment matrix
+The risk landscape has continued to evolve 
+over the last 12 months, and we expect 
+changes to continue in the coming year.  
+Our view in 2023 is that the principal risks to 
+Auto Trader are a) those which could result  
+in fundamental changes to the automotive 
+retail industry, and b) those which could 
+prevent us achieving our strategic objectives. 
+Accordingly, our strategy is linked intrinsically 
+to our principal risks. We have taken great 
+strides in the last year to manage these risks. 
+Examples include the launch of Deal Builder 
+and improvements to our core marketplace 
+products. However, to execute our strategy,  
+it is crucial we protect ourselves against the 
+threats to achieving our strategic objectives.
+
+The following pages provide detail on each  
+of our 10 principal risks and how we are 
+responding to each risk.
+
+)
+n
+o
+i
+t
+a
+g
+i
+t
+i
+
+m
+
+r
+e
+t
+f
+a
+(
+d
+o
+o
+h
+i
+l
+e
+k
+
+i
+
+L
+
+1
+
+1
+
+8
+
+8
+
+3
+
+4
+
+5
+
+5
+
+2
+
+3
+
+4
+
+9
+
+6
+
+9
+
+7
+
+7
+
+2
+
+6
+
+10
+
+10
+
+Business impact (after mitigation)
+
+1.  Automotive economy, market  
+and business environment
+
+6.    Failure to innovate: disruptive technologies 
+
+and changing consumer behaviours 
+
+ Current year
+ Previous year
+
+2.  Climate change
+3.  Employees
+4.  Reliance on third parties  
+
+and partners
+
+5.  IT systems and cyber security
+
+7.  Legal and regulatory compliance
+8.  Competition
+9.  Brand and reputation
+10. External catastrophic and geo-political events
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+49
+
+REMUNERATION COMMITTEEDISCLOSURE COMMITTEENOMINATION COMMITTEECORPORATE RESPONSIBILITY COMMITTEEENVIRONMENTAL STRATEGYSUSTAINABILITY NETWORKENVIRONMENTAL STRATEGY WORKING GROUPNET ZERO  WORKING  GROUPEMPLOYEE GUILDS & NETWORKSCAREER  KICKSTART  NETWORKFAMILY  NETWORKETHNICITY  NETWORKLGBT+  NETWORKDISABILITY & NEURODIVERSITY NETWORK MAKE A  DIFFERENCE  GUILDWOMEN’S  NETWORK WELLBEING  GUILDAGE  NETWORKSOCIAL MOBILITY NETWORKBOARD  ENGAGEMENT GUILDStrategic reportGovernanceFinancial statements 
+ 
+Principal risks and uncertainties
+
+ How we mitigate our principal risks
+
+Identifying, assessing, responding to and monitoring 
+the Group’s principal risks.
+
+The Board has carried out a robust assessment of the principal risks 
+facing the Group, including those that would threaten its business 
+model, future performance, solvency or liquidity. 
+
+The principal risks and uncertainties are detailed in this section. 
+Additional risks and uncertainties to the Group, including those that 
+are not currently known or that the Group currently deems immaterial, 
+may individually or cumulatively also have a material effect on the 
+Group’s business, results of operations and/or financial condition.
+
+1   Automotive economy, market and business environment
+
+  Unchanged
+
+Risk and potential impact
+
+Key changes and outlook
+
+How we manage the risk
+
+An adverse change in supply  
+and demand in the new/used  
+car market could lead to reduced 
+retailer profitability and reduced 
+retailer wallets, resulting in  
+reduced advertising spend.  
+Adverse movements in supply  
+and demand of vehicles could  
+also lead to a contraction in the 
+number of retailers. 
+
+In addition, we continue to see  
+the movement towards an agency 
+model whereby retailers facilitate 
+OEM sales directly to consumers. 
+This could lead to a loss of revenue 
+from our retailer customers.
+
+•  The low level of supply of new vehicles since 2020 has 
+continued for much of the last year. However, new car 
+registrations in Q1 (January to March) 2023 increased by 18% 
+compared to Q1 2022. Looking to the future, more reliable 
+supply of new vehicles will be important to the success of 
+Autorama’s integration into the Auto Trader Group.
+
+•  The low level of new car supply since 2020 will likely affect 
+
+the availability of used car stock in the coming years.  
+In contrast, consumer demand remains high and retailer 
+profitability, in the main, remains high. In March 2023,  
+used car retail prices increased by 2% year on year,  
+being the 36th consecutive month of price growth. 
+
+•  In 2023 some OEMs begin operating an agency model.  
+
+We are aware that each OEM encounters unique challenges  
+if they switch to an agency model and we have been working 
+with OEMs to develop bespoke solutions. 
+
+•  Overall, the risks posed by changes to the automotive 
+economy, market and business environment continue  
+to evolve, however metrics and performance indicators 
+suggest that we are managing these risks to an acceptable 
+level through our strategic actions.
+
+•  We monitor new and used car transactions 
+closely, using data from SMMT and DVLA, 
+observing behaviour on our marketplace,  
+and from engaging closely with our customers 
+and consumers.
+
+•  Our agile culture enables us to respond quickly  
+to new and emerging threats. We continuously 
+develop new products and enhance existing 
+products. We are making significant progress 
+with our digital retailing strategy which aims  
+to bring more of the car buying journey online. 
+•  We use our own Auto Trader Retail Price Index  
+
+and valuations data to monitor the pricing trends 
+of used cars by trade sellers.
+
+•  We are progressing well with integrating 
+Autorama into our business and are now 
+leveraging their leasing capabilities. Autorama 
+will diversify our business by providing a leasing 
+proposition to consumers, as well as helping us  
+to achieve our strategy relating to digital retailing 
+on new cars.
+
+•  We have also maintained a strong balance sheet, 
+and our low leverage should enable us to respond 
+in the event of major threats crystallising.
+
+50
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+Our purpose-driven strategy P10
+
+Being a responsible business P26
+
+OUR STRATEGIC PRIORITIES
+
+  Classified marketplace
+
+  Platform
+
+  Digital retailing
+
+  Being a responsible business
+
+2   Climate change
+
+  Decreasing
+
+Risk and potential impact
+
+Key changes and outlook
+
+How we manage the risk
+
+The automotive industry is intrinsically 
+linked to climate change and there  
+is increasing pressure from consumers 
+and government for the industry  
+to reduce its impact on the climate. 
+However, failure to deliver on our 
+environmental commitments will 
+negatively impact our brand as a 
+responsible business and may result in 
+legal exposure or regulatory sanctions.
+
+Failure to overcome the uncertainty 
+created by the shift from internal 
+combustion engine (‘ICE’) to electric 
+vehicles (‘EVs’) could inhibit their 
+take-up, potentially leading to 
+changes in buying behaviours. 
+Factors include the high purchase 
+price of most EVs, potential for 
+improvement in public transport,  
+new and expanded emissions  
+zones, increasing EV running costs, 
+and consumer uncertainty over  
+the residual value of used EVs.
+
+Changing and more stringent 
+regulatory requirements could 
+increase our cost base, and 
+increased frequency and severity  
+of extreme weather events  
+could lead to heightened costs, 
+including heating/air-conditioning, 
+insurance, and cloud infrastructure. 
+Extreme weather events could  
+also lead to short-term closure  
+of retailer forecourts (for example, 
+due to flooding).
+
+•  Updates to our website in the last year position us as 
+
+•  We are evolving our product offering and 
+
+front-runners in the switch to EVs and enable us to respond 
+to potential changes in OEM and retailer business models.
+
+•  There is still a relatively small amount of data informing  
+the residual values of used EVs. We have positioned 
+ourselves well by leveraging Autorama’s capabilities, 
+providing those consumers switching to EVs for the first 
+time a viable alternative to outright purchase. 
+
+•  Despite ongoing uncertainty surrounding EVs, data from 
+our website shows the electric share of ad-views has  
+a gradual upwards trend. Supply in the used EV market 
+increased this year as those EVs purchased on three-  
+and four-year agreements enter the used EV market. 
+•  Looking ahead, widespread take-up of EVs could be 
+
+affected by: 
+
+ – the availability of public charging for drivers unable  
+
+to access private charging,
+
+ – EV purchase costs, which are still around 37% more 
+
+expensive than ICE equivalents on a like-for-like basis.
+ – Increases in EV running costs owing to increased taxation 
+and charging costs (especially those EV drivers without 
+private charging).
+
+•  Further regulation and legislation are likely, such as the 
+
+introduction of new clean air zones and congestion charges. 
+
+•  At Autorama, some vehicles are pre-registered and held 
+temporarily on the balance sheet. Consequently, we 
+capture the lifetime emissions of these vehicles when 
+calculating the Group’s carbon emissions. This has led  
+to a material increase in our reported carbon emissions. 
+
+•  Overall, the risks associated with climate change have 
+
+decreased in the last year owing to the actions we continue 
+to take. Nevertheless, looking to the future, the impact  
+of climate change means that managing these risks 
+effectively remains a key strategic priority. More detail 
+about the risks associated with climate change and the 
+mitigations is contained on pages 32 and 33.
+
+marketplace to provide consumers with more 
+information about EVs. A cross-functional 
+working group is focusing on helping consumers 
+make more environmentally friendly vehicle 
+choices. Our ongoing integration of Autorama 
+adds digital retailing and leasing capabilities  
+on new cars, including EVs. This places us in an 
+optimal position to provide a viable alternative  
+to consumers who are anxious about making 
+outright purchases. 
+
+•  Our Corporate Responsibility Committee 
+
+oversees our environmental commitments and 
+work is ongoing to reduce our carbon emissions 
+across all scopes.
+
+•  As part of our climate commitments, we are 
+
+focusing not just on our own carbon footprint,  
+but positively supporting the industry. Our 
+partnership with the Carbon Literacy Trust,  
+for example, provides training and insights  
+to employees and external stakeholders.
+•  We regularly meet with various government 
+departments, including HM Treasury and  
+the Department for Transport’s Office for  
+Zero Emission Vehicles, to share our data and 
+insights to help guide policy around the topic. 
+
+•  The climate records and commitments of suppliers 
+
+is a key factor in our procurement processes.
+
+•  Development and evolution of our digital retailing 
+products provides customers and consumers with 
+purchasing options should extreme weather events 
+lead to short-term retailer forecourt closures.
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+51
+
+Strategic reportGovernanceFinancial statementsPrincipal risks and uncertainties continued
+
+3   Employees
+
+  Increasing
+
+Risk and potential impact
+
+Key changes and outlook
+
+How we manage the risk
+
+To enable us to achieve our  
+strategic objectives it is important  
+that we attract, retain and motivate  
+a highly skilled workforce, including 
+those with specialist skillsets in data 
+and technology. 
+
+Delivery of our strategy is also 
+dependent on us building a diverse 
+and inclusive workforce, and a 
+supportive, collaborative culture, 
+conducted in a safe environment,  
+all of which will enable optimum 
+performance from all our employees.
+
+•  Our Glassdoor rating based on anonymous reviews is 4.4 out 
+of 5 and in our latest Culture Amp survey, 91% of respondents 
+said that they are proud to work at Auto Trader. This year 
+our employee turnover has remained low.
+
+•  We now operate a Connected Working model where 
+
+employees are in the office for two ‘fixed’ days per week 
+plus an additional ‘flex’ day per week on a day which suits 
+them best. The aim of this working model is to increase 
+efficiency, collaboration and innovation whilst also 
+allowing flexibility and maximising inclusion. 
+
+•  Connected Working also includes a ‘remote first’ policy.  
+
+For periods in July, August, and December, employees can 
+work fully remotely to increase flexibility at times when 
+there are increased levels of annual leave.
+
+•  The cost of living crisis and skills shortages in the market 
+continue to affect workforce costs. We monitor the  
+market proactively to ensure that our salaries are fair, 
+proportionate and aligned to market rates. In 2022  
+we made a cost-of-living payment to all employees  
+(except for the OLT and the Board) and increased the  
+size of our annual salary review.
+
+•  A values-led culture which is embedded  
+throughout the recruitment, induction,  
+training and appraisal processes.
+
+•  Long-term incentive plans for senior and key 
+staff, including incentives with respect to 
+diversity and inclusion and Auto Trader’s 
+environmental impact.
+
+•  Regular employee engagement surveys and 
+
+monitoring of Glassdoor ratings. We have regular 
+business updates, networks, guilds, and 
+all-employee conferences.
+
+•  We continue to monitor the impact Connected 
+Working is having on engagement, inclusion, 
+employee safety and productivity, with reference 
+to both pandemic and pre-pandemic levels.  
+Any overseas working during the Remote First 
+periods must be reviewed and approved by 
+People Operations to ensure the safety of our 
+employees, security of our systems and compliance 
+with all relevant laws and regulations.
+•  Active succession planning and career 
+
+•  In the marketplace, employees have increasing expectations 
+of their employers to act in a fair, responsible and sustainable 
+manner and we remain committed to ensuring that we 
+conduct our business in a morally responsible way. 
+
+development plans to retain and develop our 
+executives. Talent development is part of the 
+Terms of Reference of the Nomination Committee.
+•  Diverse Talent Accelerator, Inclusive Leadership, 
+
+•  Overall, the employee-related risks remain a principal risk 
+and we acknowledge that managing this risk effectively  
+is crucial to achieving our strategic objectives.
+
+and Continuous Leadership Development 
+programmes aim to equip our employees, people 
+leaders and future leaders with the skills to lead, 
+manage and work within diverse teams.
+
+4   Reliance on third parties and partners
+
+  Decreasing
+
+Risk and potential impact
+
+Key changes and outlook
+
+How we manage the risk
+
+To achieve our strategic objectives, 
+we are reliant on partners engaging 
+with the changes we are introducing 
+to the industry. Getting lenders 
+on-board with our digital retailing 
+aspirations, for example, is a  
+key dependency. 
+
+We also rely on third parties to 
+support our technology infrastructure, 
+supply of data about vehicles and 
+their financing, and in the fulfilment 
+of some of our revenue generating 
+products. Consequently, it is important 
+that we manage relationships with, 
+and performance of, key suppliers 
+and key strategic partners. 
+
+•  We have implemented a refreshed onboarding and 
+
+monitoring process for critical suppliers. Despite the 
+threats posed to our suppliers in the external environment, 
+we have not experienced any material disruptions in the 
+last year. 
+
+•  As we progress further into digital retailing, we are likely  
+to see an increased reliance on third parties. Some of  
+the products we intend to launch will rely on partners and 
+lenders, and these could be barriers to growth should these 
+partners not engage with us. Ensuring that we manage  
+our relationships with these third parties will be crucial. 
+•  Overall, our significant strategic initiatives in relation to 
+
+platform and commercial data represent good progress  
+in reducing the level of reliance we have on third parties. 
+However, we remain aware of the importance of our 
+partners in achieving our aspirations in digital retailing.
+
+•  Where possible, we limit reliance on single 
+suppliers to reduce single points of failure.
+•  We have identified key suppliers and have  
+plans in place to respond to disruption.
+
+•  Contracts and service level agreements are in 
+
+place with all key suppliers. New relationships go 
+through a robust procurement and legal review 
+process and are subject to regular review.
+
+•  We carry out due diligence on our key suppliers 
+and partners at the onset of the relationship  
+and throughout the life of these relationships. 
+This includes financial viability, resilience and 
+alignment with our values and culture.
+•  We seek to develop strong commercial 
+
+relationships with our partners and regularly 
+explore ways of working together even more 
+effectively. We monitor the performance of 
+partners and suppliers to ensure continued 
+quality and uptime.
+
+52
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+5   IT systems and cyber security
+
+  Unchanged
+
+Risk and potential impact
+
+Key changes and outlook
+
+How we manage the risk
+
+As a digital business, we rely on  
+our IT infrastructure to provide our 
+services. A disruptive cyber security 
+and/or business continuity event 
+could lead to downtime of our 
+systems and infrastructure. 
+
+Execution of our strategy also  
+relies on us making appropriate 
+investments in secure systems  
+and technologies. Failure to invest  
+in appropriate technology and 
+safeguards could lead to us failing  
+to achieve our objectives. 
+
+Delivery of our strategic objectives 
+also relies on us using data to provide 
+valuable insights to customers.  
+A significant data breach, whether 
+because of our own failures or a 
+malicious cyber-attack, would lead 
+to a loss in confidence by the public, 
+retailers and advertisers.
+
+•  We have completed a multi-year migration of our applications 
+to the cloud. This increases the resilience of our systems and 
+the security of our data. 
+
+•  Development of new products carries the threat of cyber-attack 
+and with digital retailing the impact of a potential data breach 
+is likely to increase. We are therefore developing systems which 
+provide not just the best customer and consumer experience, 
+but all necessary security to ensure we remain resilient. 
+
+•   Integration of Autorama’s leasing deals onto the Auto Trader 
+
+platform is complex, and we are mindful of IT and cyber 
+security threats during the integration. We are also committed 
+to continuously reviewing, testing and updating Autorama’s 
+IT disaster recovery and business continuity arrangements.
+
+•  Whilst we have used artificial intelligence (‘AI’) for many  
+
+years, the recent emergence of generative AI poses a great 
+opportunity for us to enhance our products, customer and 
+consumer experience, and to improve efficiency. However,  
+it is important we use AI in a manner which does not expose 
+us to excessive security, compliance and or reputational risks. 
+
+•    AI could be used by criminals maliciously in future.  
+
+Deepfake technology, for example, increases the risks  
+of social engineering against stakeholders. 
+
+•   The cyber security landscape is constantly evolving.  
+
+We continue to make significant investments in safeguarding 
+our systems and data, as well as implementing best-in-class 
+systems to support the achievement of our strategic objectives.
+
+•  We have a disaster recovery and business 
+continuity plan which is regularly reviewed  
+and tested.
+
+•  We continuously monitor the availability and 
+
+resilience of processing systems and services. 
+The migration to the cloud has improved to the 
+efficiency of our systems and improved our ability 
+to respond to an incident in a timely manner.
+•  We have dedicated security teams, including 
+
+white hat hackers, and carry out regular penetration 
+testing of key systems to identify vulnerabilities.
+•  All employees are required to undergo IT security 
+awareness training on at least an annual basis.
+•  We use two-factor authentication for all our car 
+retailers and employees to access our network.
+
+•  We have now adopted the National Institute  
+
+of Standards and Technology (‘NIST’) 
+Cybersecurity Framework to manage and  
+reduce cyber security risks.
+
+•  Our digital retailing teams regularly review  
+the IT systems and infrastructure required  
+to deliver our strategy.
+
+6    Failure to innovate: disruptive technologies  
+
+and changing consumer behaviours
+
+  Decreasing
+
+Risk and potential impact
+
+Key changes and outlook
+
+How we manage the risk
+
+The automotive industry is changing 
+at unprecedented pace. Should we 
+fail to innovate our business and 
+product offerings, we could lose 
+relevance with our key stakeholders, 
+including consumers and customers. 
+It is crucial that we develop and 
+implement new products, services 
+and technologies, and adapt to 
+changing consumer behaviour 
+towards car buying and ownership. 
+
+Failure to provide both customers 
+and consumers with the best 
+possible products and online  
+journey, including an online buying 
+experience, could lead to reduced 
+website traffic and loss of revenue. 
+
+•  We continue to develop new products in our marketplace, 
+platform and digital retailing. In the last year we have 
+launched a trial of Deal Builder with a small number of 
+retailers. This provides consumers with an omni-channel 
+buying journey where they can find, reserve, finance,  
+and part exchange online. 
+
+•   Leveraging Autorama’s systems, we launched a leasing 
+check-out journey on the Auto Trader website. Providing 
+consumers with a leasing option positions us to meet their 
+needs as buying behaviours change, particularly those 
+consumers wary about buying an EV for the first time. 
+•   We have continued to develop our AT Connect solution.  
+This online tool leverages our platform and data to  
+provide retailers with real-time connections to Auto Trader 
+systems which can be used to inform vehicle valuations, 
+maintain stock on our website in real-time and access our 
+vehicle taxonomy. 
+
+•   Our data has been recognised nationally through the provision 
+
+of our market pricing data to the ONS. We also work with 
+government to provide information about EV demand to 
+inform potential locations for EV chargers. 
+
+•   Overall, we have continued to manage the risks well over the 
+last year and continue to provide new and updated solutions 
+to both customers and consumers.
+
+•  Continuous research into changing consumer 
+
+behaviour, regular horizon scanning and 
+monitoring of emerging trends, use of external 
+resources where needed, and regular contact  
+with similar businesses around the world to  
+enable peer-to-peer sharing of good practice.
+
+•   An inclusive and diverse workforce enables  
+us to maximise creativity and performance, 
+leading to innovation.
+
+•   An agile and collaborative culture, as well  
+as continuous investment in technology, 
+maximises innovation.
+
+•   Dedicated workstreams as part of all our  
+
+strategic priorities. These workstreams are  
+aimed at developing the best products to meet  
+the needs of the consumer and customer.
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+53
+
+Strategic reportGovernanceFinancial statementsPrincipal risks and uncertainties continued
+
+7   Legal and regulatory compliance
+
+  Increasing
+
+Risk and potential impact
+
+Key changes and outlook
+
+How we manage the risk
+
+The Group operates in a complex 
+regulatory environment. As we 
+progress in executing our strategy, 
+we are likely to be exposed to 
+increased legal and regulatory  
+risks, particularly those relating  
+to FCA and GDPR. 
+
+There is a risk that the Group,  
+or its subsidiaries, fail to comply with  
+legal and regulatory requirements. 
+This could lead to reputational 
+damage, financial or criminal 
+penalties and impact on our ability  
+to do business.
+
+•  Providing consumers with an online car buying journey  
+
+•  We have dedicated internal expertise responsible 
+
+will increase our exposure to regulatory risks, in particular 
+the amount of personal information we collect and in the 
+provision of the online finance application journey. 
+
+for identifying, assessing and responding to 
+upcoming changes in laws and regulations, and 
+we utilise external specialists where necessary.
+
+•  Integrating Autorama exposes us to increased FCA and 
+GDPR risks. This relates to both the leasing journey itself,  
+as well as the ancillary products offered as part of leasing, 
+such as gap insurance. Our compliance teams have been 
+working to ensure that Autorama’s policies and procedures 
+are compliant. 
+
+•  We have a mature governance framework  
+to oversee our legal and regulatory risks. 
+Governance forums receive regular internal 
+reporting on our compliance with the principles, 
+rules and guidance applicable to our regulated 
+activities.
+
+•  We are regularly ‘horizon scanning’ to prepare us for 
+upcoming changes to regulations and legislation. 
+Upcoming legislative and regulatory changes which may 
+affect us, albeit to varying degrees, include the UK Online 
+Safety Bill Digital Markets, Competition and Consumers Bill, 
+Data Protection and Digital Information Bill, the UK Audit 
+Reform Bill, FCA Consumer Duty regulations, and changes 
+to the UK Corporate Governance Code. 
+
+•  In the last year, in both response to, and in anticipation of, 
+
+changes in regulatory risk, we have increased our resource 
+in relation to risk and compliance monitoring, and increased 
+headcount in our Governance, Risk and Compliance function. 
+Overall, we consider the level of risk has increased.
+
+•  A comprehensive suite of policies is reviewed 
+
+regularly. Additionally, training and monitoring 
+ensures awareness of, and compliance with, 
+regulatory requirements, including information 
+security, data protection, financial promotions, 
+product change management, complaints 
+handling and vulnerable customers. 
+
+•  The regulated entities within the Group continue 
+to comply with the FCA’s Senior Managers & 
+Certification Regime. The relevant individuals 
+have been assessed and certified as Fit and 
+Proper. All employees are subject to the FCA’s 
+Conduct Rules and have received appropriate 
+training and guidance.
+
+•  We have increased headcount in our Governance, 
+
+Risk and Compliance function.
+
+8   Competition
+
+  Unchanged
+
+Risk and potential impact
+
+Key changes and outlook
+
+How we manage the risk
+
+Our data continues to show that 
+there is a low competitive threat  
+in our classified marketplace. 
+Nevertheless, we remain wary of the 
+risk that competitors could develop  
+a superior consumer experience or 
+superior retailer products. This could 
+lead to loss of market share. 
+
+Further, as the automotive industry 
+evolves, an agency model could 
+change the way that vehicles are 
+bought and sold. Under an agency 
+model, cars are sold by OEMs directly 
+to consumers via retailers. As we 
+progress with our own objectives 
+surrounding digital retailing, an 
+agency model could mean that 
+OEMs themselves emerge as a  
+direct competitor in the vehicle  
+retail industry. Failure to manage  
+this emerging threat could inhibit  
+our ability to achieve our objectives.
+
+•  Large technology companies such as Facebook, eBay and 
+Amazon continue to operate in the automotive marketplace. 
+In the last year, however, we maintained our position as the 
+UK’s largest and most engaged automotive marketplace 
+for new and used cars, with over 75% of all minutes spent  
+on automotive classified sites spent on Auto Trader. 
+
+•  On Boxing Day 2022 we launched a new marketing 
+
+campaign which focuses on helping consumers to find the 
+right car for them. This was supported by social media and 
+digital audio content. We estimated that our advertising 
+reached 99% of the UK population between Boxing Day and 
+31 March 2023. 
+
+•  In 2023 we worked with certain OEMs to provide them  
+with advertising solutions following their switch to an 
+agency model. 
+
+•  Continued investment in our brand helps us to 
+protect and grow our audience, to ensure that  
+we remain the most influential website for 
+consumers when purchasing a vehicle. 
+
+•  Working with OEMs to develop solutions to enable 
+them to advertise their new car pipeline stock on 
+our website.
+
+•  We monitor competitor activity closely through 
+
+monthly reporting and formal quarterly competitor 
+reviews, and regularly review this at OLT and 
+Board level.
+
+•  We continue to invest in and develop our product 
+offering to ensure we offer value to consumers, 
+retailers and manufacturers.
+
+•  We work in an agile way which enables us to 
+
+•  Overall, we continue to see retailers and manufacturers 
+
+respond quickly to emerging competitive threats.
+
+evolving their online offerings, and as we diversify our own 
+product offering, we broaden our competitive landscape, 
+potentially leading to exposure to increased competition.  
+It therefore remains imperative that we are innovative 
+across our classified marketplace, our platform and  
+digital retailing. 
+
+54
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+9   Brand and reputation
+
+  Decreasing
+
+Risk and potential impact
+
+Key changes and outlook
+
+How we manage the risk
+
+Our brand is one of our biggest 
+assets. Our research shows that  
+we are the largest and most trusted 
+automotive classified brand in the 
+UK. Failure to maintain and protect 
+our brand, and/or negative publicity 
+affecting our reputation could 
+diminish the confidence that 
+retailers, consumers and advertisers 
+have in our products and services. 
+This could result in a reduction in 
+audience and revenue.
+
+•  Our research shows that Auto Trader has c.90% prompted 
+brand awareness with consumers. We are also voted 
+regularly as the most influential automotive website  
+by consumers in the car buying process. 
+
+•  We are supporting digital retailing product development 
+
+with marketing to ensure that consumers see us as the most 
+suitable place to transact online. 
+
+•  Owing to measures and monitoring techniques used by  
+our security team, we continue to see very low levels of 
+fraudulent and misleading adverts on our website. We use  
+a customer watch list which aims to manage our platforms 
+proactively in line with our values and relevant regulations, 
+to identify and stop customer behaviour that could harm 
+consumers, retailers or the Auto Trader brand. 
+
+•  To date, the trial of our Deal Builder product has been 
+
+provided to only a select number of retailers. All retailers 
+trialling this new product undergo enhanced checks  
+before being granted access, including reviews on 
+consumer feedback. 
+
+•  Overall, we consider there to be a decreasing risk to our 
+
+brand and reputation.
+
+•  We have a clear and open culture with a focus  
+
+on trust and transparency.
+
+•  We have a dedicated customer security team, 
+who closely monitor our site to identify and 
+quickly remove fraudulent or misleading adverts. 
+Customer security also work proactively with 
+retailers and the wider industry to flag potential 
+security concerns.
+
+•  We invest in new and innovative marketing 
+campaigns and new ways of engaging car  
+buyers to continue to maintain brand awareness, 
+and to change perceptions of Auto Trader to  
+be a destination for new cars as well as used.
+
+•  To get access to Deal Builder, retailers are 
+
+required to sign up to and adhere to a Seller 
+Promise. Seller Promise prescribes minimum 
+levels of consumer service and advertising. 
+
+•  Our approach to cyber security and data 
+protection helps to protect us from the  
+adverse impact of a significant data breach  
+or cyber-attack.
+
+•  We have well developed breach reporting and 
+crisis management programmes that enable  
+us to identify, escalate and appropriately  
+handle any emerging issues that could result  
+in reputational damage.
+
+10   External catastrophic and geo-political events
+
+  Unchanged
+
+Risk and potential impact
+
+Key changes and outlook
+
+How we manage the risk
+
+In a connected, global industry,  
+we are increasingly prone to the 
+impacts of external events around 
+the globe, as are our customers and 
+consumers. We consider there to be  
+a threat to the short-to-mid-term 
+performance of our business  
+posed by external, unpreventable, 
+catastrophic and geo-political 
+events. Such events could result in 
+our customers being unable to trade, 
+leading to loss of revenue, stock, 
+audience and market share.
+
+•  In the last year, adverse market reaction to UK Government 
+policy, the enduring impacts of COVID-19 and the conflict  
+in Ukraine have all led to high inflation. Should the resultant 
+rise in the cost of living be sustained for a lengthy period,  
+it could have an impact on the ownership model of vehicles, 
+potentially with a lower volume of vehicles per household. 
+However, our exposure to high interest rates is minimal 
+owing to our low levels of debt.
+
+•  We monitor external events continuously and 
+assess the ways in which our business could  
+be impacted, both in the short term and in the 
+longer term.
+
+•  Our Crisis Response team includes senior leadership 
+and internal experts. Where necessary we also 
+have external advisors available to support us  
+in our response.
+
+•  It is of paramount importance to the resilience of our 
+
+•  Our business continuity plan, IT disaster  
+
+business that we can anticipate, and respond quickly to,  
+the impacts of external events, particularly those which 
+impact on our customers. We are therefore continuously 
+reviewing our business continuity and crisis management 
+arrangements to ensure that they consider the impacts  
+of external events. 
+
+•  Overall, we have performed well despite the uncertain 
+
+national economy. Nevertheless, we remain wary of the 
+threats posed by external events, and we continue to review 
+our crisis and business continuity arrangements regularly. 
+
+recovery plan, and wider crisis management 
+arrangements all set out the key steps required 
+for us to respond to major events and restore 
+operations in the event of downtime.
+
+•  We have identified the key internal stakeholders 
+
+who are responsible for crisis management 
+across all areas of the business. We have  
+also nominated delegates to minimise single 
+person dependencies.
+
+•  Our crisis management arrangements are  
+tested regularly via simulated ‘war games’ 
+scenarios. All key stakeholders within the 
+organisation are involved and we capture  
+lessons learned to continually improve our  
+crisis management arrangements.
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+55
+
+Strategic reportGovernanceFinancial statementsPrincipal risks and uncertainties continued
+
+ Viability statement
+
+In accordance with the UK Corporate Governance Code 2018  
+(the ‘Code’), the Directors have assessed the prospects and 
+viability of the Group over a period significantly longer than  
+12 months from the approval of these financial statements.
+
+Assessment of prospects
+The Group’s overall strategy and business model, as set out on pages 
+10 to 13, and pages 8 and 9, respectively, are central to assessing its 
+future prospects. The Group’s aim is to grow both its car buying and 
+selling audiences, thereby strengthening its core advertising business. 
+It will change how the UK shops for cars by providing the best online 
+car buying experience and enabling all retailers to sell online.
+
+As such, key factors likely to affect the future development, 
+performance and position of the Group are:
+
+•  data and technology: continuous investment is made in 
+
+developing platform technologies which lead to improvements 
+for consumers, retailers and manufacturers;
+
+•  market position: the Group is the UK’s largest digital automotive 
+marketplace, with the largest volume of in-market car buyers  
+and the most influential website a consumer visits when 
+purchasing a vehicle; and
+
+•  people: continued success and growth are dependent on the 
+
+ability to attract, retain and motivate a highly skilled workforce, 
+with a particular focus on specialist technological and data skills.
+
+The Board has determined that a period of five years to March 2028 is 
+the most appropriate period to provide its viability statement as:
+
+•  it allows consideration of the longer-term viability of the Group;
+•  it being more aligned with the Group’s strategic planning process; and
+•  it reflects reasonable expectations in terms of the reliability  
+
+and accuracy of operational forecasts.
+
+The Group’s prospects are assessed primarily through its strategic 
+planning process. This process includes an annual review of  
+the ongoing plan, led by the Group CEO and CFO through the 
+Operational Leadership Team and in conjunction with relevant 
+functions. The Board participates fully in the annual process and 
+has the task of considering whether the plan continues to take 
+appropriate account of the external environment including 
+technological, social and macro-economic changes.
+
+The output of the annual review process is a set of objectives which 
+collectively form our three strategic priorities and our Environmental, 
+Social and Governance (‘ESG’) strategy, an analysis of the risks that 
+could prevent the plan being delivered, and the annual financial 
+budget. The latest updates to the plan were finalised in March 2023, 
+which considered the Group’s current position and its prospects 
+over the forthcoming years. Progress against these plans is reviewed 
+monthly by both the Operational Leadership Team and the Board. 
+
+The Group will be able to 
+continue in operation and 
+meet its liabilities as they  
+fall due over the five-year 
+period ending March 2028.
+
+Detailed financial forecasts that consider customer numbers, stock 
+levels, ARPR, revenue, profit, cash flow and key financial ratios have 
+been prepared for the five-year period to March 2028. Funding 
+requirements have also been considered, with particular focus on 
+the ongoing compliance with the covenants attached to the Group’s 
+Syndicated Revolving Credit Facility (‘Syndicated RCF’). The first 
+year of the financial forecasts is based off the Group’s 2024 annual 
+financial budget. The following years are prepared in detail and are 
+flexed based on the actual results in year one.
+
+The key assumptions in the financial forecasts, reflecting the overall 
+strategy, include:
+
+•  continued growth in our core marketplace, as we develop  
+our advertising platform and we continue to invest in our  
+search experience;
+
+•  growth in digital retailing, as we continue to evolve both  
+our products and consumer experience, bringing more  
+of the car buying journey online;
+
+•  growth in the use of our data, being the industry standard 
+
+platform and further embedding our data into the industry, 
+giving buyers and retailers up-to-date insight; and
+
+•  increase in costs through salaries as the Group continues  
+
+to grow, supporting and developing new products.
+
+These key assumptions are reflected in the Group’s principal risks  
+and uncertainties, which are set out on pages 50 to 55. The purpose  
+of the principal risks is primarily to summarise those matters that could 
+prevent the Group from delivering on its strategy. A number of other 
+aspects of the principal risks – because of their nature or potential 
+impact – could also threaten the Group’s ability to continue in business 
+in its current form if they were to occur. This was considered as part  
+of the assessment of the Group’s viability, as explained opposite.
+
+56
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+Assessment of viability
+The output of the Group’s strategic and financial planning process detailed previously reflects the Board’s best estimate of the future 
+prospects of the business. To make the assessment of viability, however, additional scenarios have been modelled over and above  
+those in the ongoing plan, based upon a number of the Group’s principal risks and uncertainties which are documented on pages 50 to 55.  
+These scenarios were overlaid into the plan to quantify the potential impact of one or more of these crystallising over the assessment period. 
+
+While each of the Group’s principal risks has a potential impact and has therefore been considered as part of the assessment, only those 
+that represent severe but plausible scenarios have been modelled through the plan. These were as follows: 
+
+Scenario modelled
+
+Scenario 1: Severe economic downturn
+Given the increase in the cost of living and steep rise in interest rates, the impact of a severe economic downturn has been 
+considered. This would likely suppress consumer confidence, pressuring the used and new car markets, with retailers 
+impacted due to an increase in their cost of capital. In the longer term, this landscape could be a catalyst for structural 
+changes in the ownership model of vehicles, potentially including a rise in subscription-based models.
+
+Revenue assumptions: Approximately one third of retailers are lost, with underlying ARPR reducing through a loss of stock 
+resulting in a 45% decrease in Trade revenue. A 40% decrease in all other revenue streams, including Autorama, was assumed 
+due to reduced demand. Modest recovery was assumed for the financial year March 2026. 
+
+Cost assumptions: Cost of sales and marketing decreased in line with revenue.
+
+Scenario 2: Data breaches
+The impact of any regulatory fines has been considered. The biggest of these is the General Data Protection Regulation 
+(‘GDPR’) fine for data breaches, which was enacted in May 2018. This scenario assumes a data breach resulting in the 
+maximum fine (4% of Group revenue), coupled with a significant level of reputational damage to the Group’s brand. 
+
+Revenue assumptions: A severe reduction was modelled through Trade revenue, resulting in an initial 45% decrease in revenue 
+driven by lost retailers. A 45% decrease in Consumer Services, Manufacturer and Agency and Autorama revenue was also 
+assumed through the loss of consumer and partner confidence. Modest recovery was assumed for the financial year 
+March 2025.
+
+Cost assumptions: Cost of sales and marketing decreased in line with revenue.
+
+Links to principal risks
+
+Risk 1: 
+
+ Automotive economy, 
+market and business 
+environment
+
+Risk 10:   External catastrophic 
+
+and geo-political 
+events affecting 
+customer and 
+consumer behaviours
+
+Risk 5: 
+
+ IT systems and  
+cyber security
+
+Risk 7: 
+
+ Legal and regulatory 
+compliance
+
+Risk 9:  Brand and reputation
+
+Scenario 3: Banning the sale of diesel cars
+The impact of climate change has been considered through the potential ban of diesel cars. The government has outlined 
+plans to ban the sale of new conventional petrol and diesel cars from 2030. This scenario assumes the government brings 
+forward the ban of diesel cars, and also applies it to used cars, in the financial year to March 2026. This would result in a 
+significant impact on stock available as well as a loss of retailers who cannot operate viably without the sale of diesel cars. 
+
+Revenue assumptions: Approximately one third of retailers are lost, with underlying ARPR reducing through a loss of stock, 
+resulting in a 40% decrease in Trade revenue. A 16% decrease in Consumer Services revenue was assumed through lost 
+private diesel car volumes. A modest impact to Manufacturer and Agency revenue was assumed with Manufacturers well 
+progressed into the transition to selling electric vehicles. Autorama revenue decline of 30% due to reduction in volumes. 
+Modest recovery was assumed through retailers for the financial year March 2027 and beyond.
+
+Risk 1: 
+
+ Automotive economy, 
+market and business 
+environment
+
+Risk 2:  Climate change 
+
+Risk 6: 
+
+ Failure to innovate: 
+disruptive technologies 
+and changing 
+consumer behaviours
+
+Cost assumptions: Cost of sales and marketing decreased in line with revenue. 
+
+Scenario 4: Combination of all three scenarios as above
+This is seen as a worst-case scenario, and highly unlikely.
+
+All of the above
+
+The war in Ukraine
+The war in Ukraine has the potential to materially impact the 
+automotive value chain. As Russia is an exporter of key metals  
+and other materials used in parts production, and Ukraine makes 
+components used in production such as wiring harnesses, there is  
+a direct disruption and rising price risk. The supply chain is already 
+impacted by semi-conductor supply issues, and there could be a 
+further impact to new car transactions. This scenario has not been 
+modelled as the Group does not feel there is likely to be significant 
+impact than that already seen, however it will continue to monitor 
+the situation.
+
+Syndicated Revolving Credit facility (‘Syndicated RCF’)
+The above scenarios consider the bi-annual covenants attached  
+to the Group’s Syndicated RCF, ensuring thresholds are met. The 
+scenarios are hypothetical and severe for the purpose of creating 
+outcomes that have the ability to threaten the viability of the Group. 
+
+The results of the stress testing demonstrated that due to the Group’s 
+significant free cash flow, access to the Syndicated RCF and the 
+Board’s ability to adjust the discretionary share buyback programme, 
+it would be able to withstand the impact of any of these scenarios, 
+remain cash generative and meet the obligations of its debt facility. 
+
+Viability statement
+Based on their assessment of prospects and viability above, the 
+Directors confirm that they have a reasonable expectation that  
+the Group will be able to continue in operation and meet its liabilities 
+as they fall due over the five-year period ending March 2028. 
+
+Going concern 
+The Directors also considered it appropriate to prepare the financial 
+statements on the going concern basis, as explained in the Basis  
+of preparation paragraph in note 1 to the financial statements.
+
+The Company’s Strategic report, set out on pages 2 to 57,  
+was approved by the Board on 1 June 2023 and signed  
+on its behalf by:
+
+Nathan Coe
+Chief Executive Officer  
+1 June 2023
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+57
+
+Strategic reportGovernanceFinancial statementsGovernance overview
+
+These reports explain our governance policies and procedures in detail 
+and describe how we have applied the principles contained in the UK 
+Corporate Governance Code 2018 (the ‘Code’).
+
+Percentage of independent Directors 
+on the Board: 57.1%
+Independent
+
+Non-independent
+
+Independence1
+
+Number of Directors as at 31 March 20232
+
+5
+
+3
+
+Percentage of independent Directors 
+on the Board: 62.5%
+Independent
+
+Non-independent
+
+Gender diversity
+
+Number of Directors as at 31 March 20232
+
+5
+
+4
+
+4
+
+3
+
+4
+
+4
+
+Percentage of women on the Board: 50.0%
+
+Percentage of women on the Board: 55.6%
+
+Women
+
+Men
+
+Women
+
+Men
+
+Annual General Meeting
+Our Annual General Meeting (‘AGM’) will be 
+held at 10:00am on Thursday 14 September 
+2023 at 4th Floor, 1 Tony Wilson Place, 
+Manchester, M15 4FN. Myself and the other 
+Directors will join the meeting either in person 
+or by telephone. We strongly encourage  
+all shareholders to cast their votes by proxy, 
+and to send any questions in respect of AGM 
+business to ir@autotrader.co.uk.
+
+Ed Williams
+Chair 
+1 June 2023
+
+Dear shareholders
+
+Compliance with the Corporate 
+Governance Code
+The reports on the following pages, 
+including the Committee reports,  
+set out the governance arrangements  
+we have in place, and detail how we have 
+met the Code requirements. Once again,  
+the Company complied with all provisions 
+set out in the Code for the period. 
+
+Board succession planning
+Succession planning has been a major  
+focus area during the year. The Board has 
+approved the appointment of Matt Davies  
+as Chair Designate with effect from 1 July 2023,  
+to succeed me as Chair prior to the conclusion 
+of the 2023 AGM. Two of our Non-Executive 
+Directors (David Keens and Jill Easterbrook) 
+will reach the end of their third three-year 
+terms in 2024, the ninth anniversary of Auto 
+Trader Group plc’s admission to the London 
+Stock Exchange’s official list. Jeni Mundy will 
+reach the end of her third three-year term in 
+2025. The Nomination Committee report sets 
+out in some detail the succession plan for 
+these changes, including the overarching 
+goals, skills and experience requirements  
+and the expected timelines. The Company 
+will continue to update on our progress at  
+the appropriate time, as suitable candidates 
+are identified and appointments are made.
+
+Ethnic diversity3
+
+Number of Directors as at 31 March 20232
+
+1
+
+8
+
+Ethnically diverse 
+
+White
+
+Length of tenure4
+
+Number of Directors as at 31 March 2023
+
+1
+
+4
+
+4
+
+0–3 years
+
+3–6 years 
+
+6–9 years 
+
+1.  Excluding the Chair.
+2.  No change from 31 March 2022.
+3.  As per the Parker Review, a Director was 
+
+defined as being ethnically diverse if they 
+identified as Asian, Black, Mixed or Other.
+4.  Refers to the period since appointment 
+
+to the PLC Board.
+
+58
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+Compliance with the 2018 Code
+
+The Company has complied in full with all 
+provisions of the 2018 Corporate Governance 
+Code during the year as referenced below:
+
+1
+
+Board leadership and company purpose
+
+The Board is responsible for setting the Group’s purpose,  
+for determining the basis on which the Group generates value 
+over the long term and developing a strategy for delivering  
+the objectives of the Group. The Strategic report, which  
+can be found on pages 2 to 57, sets out the Group’s purpose, 
+strategy, objectives and business model. Details of how the 
+Board assesses and monitors culture can be found on page 62.
+
+The Board’s engagement with employees, shareholders and 
+other stakeholders is described in detail on pages 14 to 17 and 
+page 62.
+
+2
+
+Division of responsibilities
+
+The responsibilities of the Chair, Chief Executive Officer,  
+Senior Independent Director, Non-Executive Directors and 
+Company Secretary are set out on page 63. The Board has 
+adopted a formal schedule of matters reserved for its 
+approval and has delegated other specific responsibilities  
+to its Committees. The schedule sets out key aspects of the 
+affairs of the Company which the Board does not delegate 
+and is reviewed at least annually. Each Committee has 
+formally approved Terms of Reference which are reviewed 
+and approved at least annually, or more frequently as 
+circumstances require. Details are published on our website 
+at plc.autotrader.co.uk/investors.
+
+At the date of this report, the Board consists of the Non-Executive 
+Chair, five Independent Non-Executive Directors and three 
+Executive Directors. Refer to page 64 for details of Board and 
+Committee meetings and attendance, and to the biographies  
+on pages 60 and 61 for details of Board members’ external 
+commitments, all of which were approved by the Board.
+
+A robust corporate governance framework
+
+3
+
+Composition, succession  
+and evaluation
+
+The Board has established a Nomination 
+Committee, chaired by Ed Williams,  
+with all other members comprising 
+Independent Non-Executive Directors. 
+The main responsibilities of this 
+Committee are to keep under review  
+the structure, size and composition  
+of the Board and its Committees;  
+to identify and nominate candidates  
+for appointment to the Board; and to 
+ensure that there are formal and orderly 
+succession plans in place.  
+
+During the year, the Committee focused 
+on implementation of the succession plan 
+for the Chair and Non-Executive Directors 
+who are reaching their nine-year tenure. 
+The Committee also led an evaluation 
+of the Board, the Committees and each 
+individual Director. The work of the 
+Committee is described on pages 66 to 69. 
+The Board and its Committees have an 
+appropriate balance of skills, experience 
+and knowledge of the Group to enable 
+them to discharge their respective  
+duties and responsibilities effectively. 
+Biographies of all members of the 
+Board appear on pages 60 and 61.
+
+4
+
+Audit, risk and internal 
+control
+
+The Board has established an Audit 
+Committee, chaired by David Keens  
+and comprised entirely of Independent 
+Non-Executive Directors. The Chair is not a 
+member of the Committee. The Committee 
+has defined Terms of Reference which 
+include assisting the Board in discharging 
+many of its responsibilities with respect  
+to financial and business reporting,  
+risk management, internal control,  
+internal audit and external audit.
+
+The work of the Committee is described 
+on pages 70 to 75.
+
+The Company does not have a separate 
+Risk Committee; the Board is collectively 
+responsible for determining risk 
+appetite, and the nature and extent of 
+the principal risks it is willing to take in 
+achieving its strategic objectives. Refer 
+to page 73 for details of the evaluation 
+of the risk management and internal 
+control framework, and to pages 48 to 
+55 for details of risk management and 
+the principal risks facing the Company. 
+
+5
+
+Remuneration
+
+The Board has established a 
+Remuneration Committee, chaired by 
+Jill Easterbrook and comprised entirely 
+of Independent Non-Executive 
+Directors. The Remuneration 
+Committee is responsible for 
+determining the Remuneration Policy, 
+
+and for setting remuneration for the 
+Executive Directors, the Chair and  
+senior employees; for monitoring the 
+remuneration policies for the wider 
+organisation; and for ensuring the 
+alignment of reward with the culture  
+of the organisation. The work of the 
+Committee is described on pages  
+80 to 93. 
+
+Driving Change Together.  
+Responsibly.
+
+AUTO TRADER GROUP PLC BOARD
+
+AUDIT 
+COMMITTEE
+
+NOMINATION 
+COMMITTEE
+
+REMUNERATION 
+COMMITTEE
+
+CORPORATE 
+RESPONSIBILITY 
+COMMITTEE
+
+DISCLOSURE 
+COMMITTEE
+
+SUBSIDIARY BOARDS
+
+OPERATIONAL LEADERSHIP TEAM & SENIOR LEADERS
+
+FURTHER DETAIL
+For the full detail on how we govern ESG:
+
+Being a responsible business P26
+
+How we manage risk P48
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+59
+
+EXTERNAL AUDITORINTERNAL AUDITOROTHER  EXTERNAL ASSURANCERISK FORUM – SCOPE OF RISK FORUM INCLUDES CLIMATEFCA GOVERNANCE COMMITTEEHEALTH & SAFETY COMMITTEEGDPR STEERINGDISASTER RECOVERY STEERINGCYBER SECURITY WORKING GROUPTRUST FORUMRISK MANAGEMENTINTERNAL CONTROLFCA COMPLIANCEGDPR COMPLIANCELEGAL TEAMPROCUREMENTCYBER SECURITY TEAMSECOND LINE  FUNCTIONSTHIRD LINEENVIRONMENT STRATEGYSUSTAINABILITY NETWORKAUTOMOTIVE NETWORKNET ZERO  WORKING  GROUPEV WORKING GROUPEMPLOYEE GUILDS & NETWORKSCAREER  KICKSTART NET-WORKFAMILY  NETWORKBAME  NETWORKLGBT+  NETWORKDISABILITY & NEURODIVERSITY NETWORKMAKE A DIFFER-ENCE  GUILDWOMEN’S NET-WORK WELLBEING  GUILDAGE  NETWORKBOARD  ENGAGEMENT GUILDSECOND LINE FORUMS  AND COMMITTEESStrategic reportGovernanceFinancial statementsBoard of Directors
+
+Ed Williams
+Chair
+
+Nathan Coe
+Chief Executive Officer
+
+Catherine Faiers
+Chief Operating Officer
+
+Jamie Warner
+Chief Financial Officer
+
+David Keens
+Senior Independent  
+Non-Executive Director
+
+60
+
+Biography
+Ed was appointed as Chair of Auto 
+Trader Group plc in February 2015. 
+
+He was the founding Chief Executive 
+of Rightmove plc, serving in that 
+capacity from November 2000  
+until his retirement from the business 
+in April 2013. Rightmove plc was 
+floated on the London Stock 
+Exchange in February 2006. 
+
+Prior to Rightmove, Ed spent  
+the majority of his career as a 
+management consultant with 
+Accenture and McKinsey & Co.
+
+Ed holds an MA in Philosophy, 
+Politics and Economics from St 
+Anne’s College, Oxford.
+
+Appointed to PLC Board 
+February 2015
+
+Independent on appointment?
+Yes
+
+External appointments 
+•  Baltic Classifieds Group plc
+
+Committee memberships
+
+N
+
+Biography
+Nathan was first appointed to  
+the Board as Chief Operating  
+Officer (‘COO’) in April 2017 and  
+as Chief Financial Officer (‘CFO’)  
+in July 2017. Nathan was appointed 
+Chief Executive Officer (‘CEO’) 
+ in March 2020, following the 
+announcement of former CEO  
+Trevor Mather’s retirement.
+
+Nathan joined Auto Trader in 2007  
+to oversee the transition from a 
+
+magazine business to a pure digital 
+company. Prior to his appointment 
+to the Board, Nathan was the  
+joint Operations Director, sharing 
+responsibility for the day-to-day 
+operations of the business.
+
+Prior to joining Auto Trader, Nathan 
+was at Telstra, Australia’s leading 
+telecommunications company, where 
+he led Mergers and Acquisitions  
+and Corporate Development for its 
+media and internet businesses.  
+
+He was previously a consultant at PwC, 
+having graduated from the University 
+of Sydney with a B.Com (Hons).
+
+Appointed to PLC Board 
+April 2017
+
+Independent on appointment?
+N/A
+
+External appointments 
+None
+
+Committee memberships
+
+D
+
+Biography
+Catherine joined Auto Trader in 
+August 2017 and was appointed as 
+Chief Operating Officer (‘COO’) in 
+May 2019. Catherine is responsible 
+for the day-to-day operations of 
+Auto Trader’s business. She is also 
+focused on guiding the Group’s 
+strategy and development.
+
+Prior to this, Catherine was Chief 
+Operating Officer at Addison Lee, 
+Corporate Development Director  
+at Trainline and a Director at Close 
+Brothers Corporate Finance.
+
+Catherine graduated from the 
+University of Durham with a  
+BA in Economics and is a qualified 
+Chartered Accountant, training  
+at PwC. 
+
+Appointed to PLC Board 
+May 2019
+
+Independent on appointment?
+N/A
+
+External appointments 
+•  Allegro.eu Group
+
+Committee memberships 
+None
+
+Biography
+Jamie was appointed Chief 
+Financial Officer (‘CFO’) in March 
+2020. Prior to this he was Auto Trader’s 
+CFO-Designate and Deputy CFO. 
+During his time at Auto Trader,  
+Jamie has worked in a variety  
+of different roles across finance, 
+covering commercial finance, 
+financial reporting, pricing and 
+investor relations.
+
+Jamie initially worked as a freight 
+derivatives broker for inter-dealer 
+broker GFI. Jamie left to join a start-up 
+company, Swapit, developing a 
+children’s online swapping and trading 
+community, that was subsequently 
+acquired by Superawesome.  
+He then joined Auto Trader in 2012.
+
+Jamie graduated from Bristol 
+University with a BSc in Economics and 
+Economic History and is a qualified 
+Chartered Management Accountant.
+
+Appointed to PLC Board 
+March 2020
+
+Independent on appointment?
+N/A
+
+External appointments 
+None
+
+Committee memberships
+
+D
+
+Biography
+David was appointed as a 
+Non-Executive Director on 1 May 2015. 
+
+David was previously Group Finance 
+Director of NEXT plc (1991 to 2015) and 
+its Group Treasurer (1986 to 1991). He 
+was a Non-Executive Director and 
+Audit Chair of J Sainsbury plc (2015  
+to 2021), and most recently has taken 
+up the role as Senior Independent 
+Non-Executive Director and Audit 
+Chair of Moonpig Group plc. 
+
+Previous management experience 
+includes nine years in the UK and 
+overseas operations of multinational 
+food manufacturer Nabisco (1977  
+to 1986) and prior to that seven years 
+in the accountancy profession.
+
+David is a member of the 
+Association of Chartered Certified 
+Accountants and of the Association 
+of Corporate Treasurers.
+
+Appointed to PLC Board 
+May 2015
+
+Independent on appointment?
+Yes
+
+External appointments 
+•  Moonpig Group plc
+
+Committee memberships
+
+A
+
+CR
+
+N
+
+R
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+Biography
+Jill was appointed as a Non-Executive 
+Director to the Board on 1 July 2015.  
+Jill is also a Non-Executive Director  
+of Ashtead Group plc, the FTSE 100 
+international equipment rental 
+company; a Non-Executive Director  
+of UP Global Sourcing Holdings plc,  
+a FTSE small cap consumer goods 
+business; a Non-Executive Director of 
+Tracsis plc, an AIM listed provider of 
+software, hardware, data analytics/
+
+GIS and services for the transport 
+industries; and is Chair of Headland,  
+a PR and Communications agency.
+
+Jill brings strong digital experience 
+within retail environments to the 
+Board. Previously, Jill was a member of 
+the Executive Committee at Tesco Plc 
+where she held a variety of senior roles, 
+and was the Chief Executive Officer  
+of JP Boden & Co. She also spent time  
+as a management consultant having 
+started her career at Marks & Spencer.
+
+Appointed to PLC Board 
+July 2015
+
+Independent on appointment?
+Yes
+
+External appointments 
+•  Ashtead Group plc
+•  UP Global Sourcing Holdings plc
+•  Verde Bidco Limited (Headland)
+•  Tracsis plc
+
+Committee memberships
+
+R
+
+A
+
+CR
+
+N
+
+Biography
+Jasvinder was appointed as  
+a Non-Executive Director on  
+1 January 2022.
+
+within Direct Line including most 
+recently Chief Strategy Officer  
+and before that, Managing Director 
+of Direct Line for Business.
+
+Appointed to PLC Board 
+January 2022
+
+Independent on appointment?
+Yes
+
+Jasvinder is currently Managing 
+Director of Motor at Direct Line Group, 
+leading Motor Insurance strategy and 
+business delivery across household 
+names such as Direct Line, Churchill 
+and Privilege, and is a member of the 
+Direct Line Group Executive Team.  
+Prior to this, she held a number of roles 
+
+Jasvinder is a champion of gender 
+diversity and women in top positions  
+in business. She has been named on 
+Green Park’s BAME 100 Board Talent 
+Index, on the Cranfield University Top 
+100 women to watch in 2018 list and  
+also featured on the Northern Power 
+Women list of ‘Top 50 Women to Watch’.
+
+External appointments 
+•  UK Insurance Business  
+
+Solutions Limited
+
+Committee memberships
+
+A
+
+CR
+
+N R
+
+Biography
+Jeni was appointed as a Non-Executive 
+Director on 1 March 2016.
+
+Jeni is currently Visa Inc’s SVP Global 
+Head of Merchant Sales and Acquirers 
+responsible for driving the growth  
+of digital commerce for the world’s 
+sellers. She joined Visa in 2018 as  
+the Managing Director for UK  
+and Ireland. Jeni was previously  
+at Vodafone Plc (1998 to 2017).  
+Most recently she held Group 
+
+Director roles across product 
+management and sales. Prior to  
+that she was Chief Technology 
+Officer on the UK and New Zealand 
+Executive Boards.
+
+Jeni started her career as a 
+Telecommunications Engineer  
+in New Zealand and holds an MSc  
+in Electronic Engineering from  
+Cardiff University.
+
+Appointed to PLC Board 
+March 2016
+
+Independent on appointment?
+Yes
+
+External appointments 
+None
+
+Committee memberships
+
+CR A
+
+N R
+
+Biography
+Sigga was appointed as a 
+Non-Executive Director to the  
+Board effective 1 November 2019.
+
+Sigga is currently part of the UK 
+executive team at Experian and  
+is responsible for their UK Direct  
+to Consumer Business. Sigga has 
+worked in the financial services 
+industry since 2001, pioneering 
+digital transformation at both 
+American Express and Santander 
+
+UK. She was responsible for the 
+development and launch of Asto,  
+a Santander Fintech business, 
+providing innovative cash flow 
+solutions to small businesses.
+
+Sigga holds a doctorate in 
+Leadership and Innovation from 
+Manchester Business School, an 
+MBA from IESE Business School as 
+well as a BS degree in Marketing from 
+the University of South Carolina.
+
+Appointed to PLC Board 
+November 2019
+
+Independent on appointment?
+Yes
+
+External appointments 
+•  Frumtak Ventures
+
+Committee memberships
+
+A
+
+CR
+
+N R
+
+Biography
+Claire joined Auto Trader in  
+July 2015 and is Company Secretary 
+and Director of Governance.  
+She is responsible for corporate 
+governance; legal services; 
+regulatory compliance;  
+customer security; procurement;  
+and risk management.
+
+Group plc and prior to that was 
+Company Secretary at Centaur 
+Media plc.
+
+Claire is a qualified accountant,  
+a member of the Institute of 
+Chartered Secretaries and 
+Administrators and holds an MBA 
+from Manchester Business School.
+
+Committee memberships
+
+Claire was previously Deputy 
+Company Secretary at Betfair 
+
+D  
+
+Committee memberships 
+
+A   Audit 
+
+CR   Corporate Responsibility
+
+D   Disclosure
+
+N   Nomination
+
+R   Remuneration
+
+  Chair
+
+Jill Easterbrook
+Independent  
+Non-Executive Director
+
+Jasvinder Gakhal
+Independent  
+Non-Executive Director
+
+Jeni Mundy
+Independent  
+Non-Executive Director
+
+Sigga Sigurdardottir
+Independent  
+Non-Executive Director
+
+Claire Baty
+Company Secretary
+
+Auto Trader Group plc  Annual Report and Financial Statements 2023
+
+61
+
+Strategic reportGovernanceFinancial statements

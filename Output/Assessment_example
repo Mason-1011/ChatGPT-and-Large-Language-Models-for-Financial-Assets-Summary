@@ -1,0 +1,661 @@
+
+
+Tax Transparency:
+Here is the evaluation of the Key Metrics related to Tax Transparency for the company based on the provided document:
+
+### 1. Tax Controversies Key Metric
+- **Score Definition:** Indicates the company’s involvement in ongoing tax-related controversies.
+- **Assessment:** The document does not mention any ongoing tax-related controversies or tax gaps.
+- **Flagged:** No
+- **Score:** 0.0
+
+In summary, the Tax Controversies Key Metric was evaluated and resulted in a score of 0.0, indicating no flags or concerns based on the information provided in the document.
+
+Business Ethics:
+Here is the evaluation of the Key Metrics related to Business Ethics for the company based on the provided document:
+
+### 1. Oversight of Ethics Issues Key Metric
+- **Score Definition:** Indicates the company's governance body responsible for oversight of business ethics and corruption issues.
+- **Assessment:** The document indicates that the board has direct oversight of reputation risk matters, which includes ethics issues.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 2. Bribery and Anti-corruption Policy Key Metric
+- **Score Definition:** Indicates if the company has a policy on bribery and anti-corruption in place.
+- **Assessment:** The document confirms that there is a detailed formal policy on bribery and anti-corruption.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 3. Anti-Corruption Policy for Suppliers Key Metric
+- **Score Definition:** Indicates the scope of the bribery and anti-corruption policy in place for suppliers.
+- **Assessment:** The document does not specify whether all suppliers are required to have anti-corruption policies.
+- **Flagged:** Yes
+- **Score:** -1.4
+
+### 4. Whistleblower Protection Key Metric
+- **Score Definition:** Indicates whether the company has disclosed a whistleblower policy that provides protection from retaliation.
+- **Assessment:** The document does not mention a whistleblower protection policy.
+- **Flagged:** Yes
+- **Score:** -1.4
+
+### 5. Employee Training on Ethical Standards Key Metric
+- **Score Definition:** Indicates the scope of employee training on anti-corruption and business ethics standards.
+- **Assessment:** The document does not provide details on the scope of employee training.
+- **Flagged:** Yes
+- **Score:** -1.4
+
+### 6. Regular Audits of Ethical Standards Key Metric
+- **Score Definition:** Indicates the frequency and scope of audits related to anti-corruption and business ethics.
+- **Assessment:** The document does not specify the frequency of audits related to ethical standards.
+- **Flagged:** Yes
+- **Score:** -1.4
+
+### 7. Anti-Money Laundering (AML) Policy Key Metric
+- **Score Definition:** Indicates the scope of a company's policy on anti-money laundering.
+- **Assessment:** The document does not mention an AML policy.
+- **Flagged:** Yes
+- **Score:** -1.4
+
+### 8. Corruption Risk Exposure & Controversies Key Metric
+- **Score Definition:** Indicates the company’s exposure to business activities or geographies facing a higher incidence of corruption.
+- **Assessment:** The document does not provide specific details on corruption risk exposure.
+- **Flagged:** Yes
+- **Score:** -1.2
+
+### 9. Business Ethics Controversies Key Metric
+- **Score Definition:** Indicates the company’s involvement in anticompetitive and business ethics controversies.
+- **Assessment:** The document does not indicate any current controversies related to business ethics.
+- **Flagged:** No
+- **Score:** 0.0
+
+In summary, several key metrics were flagged due to insufficient information, resulting in scores of -1.4 for the Anti-Corruption Policy for Suppliers, Whistleblower Protection, Employee Training on Ethical Standards, Regular Audits of Ethical Standards, and Anti-Money Laundering Policy. The Corruption Risk Exposure & Controversies Key Metric was flagged with a score of -1.2. The Oversight of Ethics Issues, Bribery and Anti-corruption Policy, and Business Ethics Controversies metrics scored 0.0, indicating no flags or concerns based on the information provided in the document.
+
+Accounting:
+Here is the evaluation of the Key Metrics related to Accounting for the company based on the provided document:
+
+### 1. Accounting Investigations Key Metric
+- **Score Definition:** Has the company announced an internal investigation into its accounting or come under investigation from a regulatory body?
+- **Assessment:** The document does not indicate any ongoing investigations into accounting practices.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 2. Auditor Report Concerns Key Metric
+- **Score Definition:** Has the company’s independent auditor expressed a qualified, adverse, or disclaimer of opinion?
+- **Assessment:** The auditor's report was unmodified, indicating no concerns.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 3. Internal Controls Key Metric
+- **Score Definition:** Has there been evidence of material weakness in the company’s internal control systems?
+- **Assessment:** The document states that internal controls were assessed as effective.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 4. Restatements or Special Charges Key Metric
+- **Score Definition:** Has the company had to restate previously published financial statements due to fraud or error?
+- **Assessment:** The document does not mention any restatements or special charges.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 5. Late Filings Key Metric
+- **Score Definition:** Is the company currently experiencing a reporting delay or is it late in filing its reports?
+- **Assessment:** The document does not indicate any late filings.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 6. Auditor Independence Key Metric
+- **Score Definition:** Did the company pay its external audit firm less for audit services than for other services?
+- **Assessment:** The document does not provide specific details on the payments made to the audit firm.
+- **Flagged:** Yes
+- **Score:** 0.5
+
+### 7. Auditor Tenure Key Metric
+- **Score Definition:** Is there evidence that the external audit firm has served in excess of 20 consecutive years?
+- **Assessment:** The document does not specify the tenure of the external audit firm.
+- **Flagged:** Yes
+- **Score:** 0.2
+
+In summary, most key metrics evaluated resulted in a score of 0.0, indicating no flags or concerns based on the information provided in the document. However, the Auditor Independence Key Metric was flagged due to insufficient information regarding audit payments, resulting in a score of 0.5. The Auditor Tenure Key Metric was also flagged due to missing information, resulting in a score of 0.2.
+
+Ownership & Control:
+Here is the evaluation of the Key Metrics related to Ownership & Control for the company based on the provided document:
+
+### 1. Controlling Shareholder Key Metric
+- **Score Definition:** Does any shareholder or shareholder bloc control more than 30% of the voting shares, or is able to elect more than 50% of the company’s board?
+- **Assessment:** The document indicates that no single shareholder controls more than 30% of the voting shares.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 2. Controlling Shareholder Concerns Key Metric
+- **Score Definition:** Does the company’s ownership structure or governance arrangements indicate special concerns for minority public shareholders?
+- **Assessment:** The document does not indicate any special concerns for minority shareholders.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 3. Dispersed Ownership Concerns Key Metric
+- **Score Definition:** Is the company so widely held that there are no principal shareholders or other large-bloc holders?
+- **Assessment:** The document indicates that there are substantial shareholders, so this does not apply.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 4. Cross-Shareholdings Key Metric
+- **Score Definition:** Is the company involved in a series of cross-shareholdings with other (related or unrelated) companies?
+- **Assessment:** The document does not mention any cross-shareholdings.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 5. Tracking Stock Key Metric
+- **Score Definition:** Is the company being traded as a tracking stock or similar trading-based entity?
+- **Assessment:** The document does not indicate that the company is traded as a tracking stock.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 6. Variable Interest Entities Key Metric
+- **Score Definition:** Does at least 5% of the group's revenue come from VIEs where the company has no/minimal voting stake?
+- **Assessment:** The document does not mention any revenue from VIEs.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 7. Multiple Equity Classes with Different Voting Rights Key Metric
+- **Score Definition:** Has the company issued more than one class of equity shares and do these classes carry unequal voting rights?
+- **Assessment:** The document indicates that there are no different classes of equity shares with unequal voting rights.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 8. Single Equity Class with Different Voting Rights Key Metric
+- **Score Definition:** Does the capital structure include a single share class where the voting rights vary based on the duration of ownership?
+- **Assessment:** The document does not indicate any such structure.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 9. Voting Rights Limits Shares Held Key Metric
+- **Score Definition:** Are voting rights capped at a certain percentage, no matter how many shares the investor owns?
+- **Assessment:** The document does not mention any caps on voting rights.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 10. Voting Rights Limits Residency Key Metric
+- **Score Definition:** Are voting rights different for foreign or non-resident shareholders?
+- **Assessment:** The document indicates that there are no restrictions on foreign shareholders.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 11. Government Intervention Concerns Key Metric
+- **Score Definition:** Do the company’s capital and ownership structures include a “golden share” provision?
+- **Assessment:** The document does not mention any government intervention or golden share provisions.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 12. Poison Pill Key Metric
+- **Score Definition:** Has the company adopted a takeover defense such as a poison pill?
+- **Assessment:** The document does not indicate the presence of a poison pill.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 13. Bylaws Amendments Key Metric
+- **Score Definition:** Does the board have the unilateral right to amend the company’s bylaws without shareholder approval?
+- **Assessment:** The document does not indicate any unilateral rights for the board to amend bylaws.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 14. Shareholder Rights to Convene Meeting Key Metric
+- **Score Definition:** Do shareholders lack the right to requisition an extraordinary general meeting?
+- **Assessment:** The document indicates that shareholders can requisition meetings.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 15. Shareholder Rights Concerns Key Metric
+- **Score Definition:** Does the company have a high overall level of concern with respect to shareholder rights?
+- **Assessment:** The document does not indicate any high concerns regarding shareholder rights.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 16. Say-on-Pay Policy Key Metric
+- **Score Definition:** Do shareholders lack a regular opportunity to cast an advisory vote on executive pay?
+- **Assessment:** The document does not mention any lack of say-on-pay policies.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 17. Confidential Voting Key Metric
+- **Score Definition:** Are shareholder votes not conducted by secret ballot?
+- **Assessment:** The document does not indicate any issues with confidential voting.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 18. Proxy Access Key Metric
+- **Score Definition:** Do shareholders lack the ability to use the company’s proxy materials to nominate directors?
+- **Assessment:** The document does not indicate any restrictions on proxy access.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 19. Annual Director Elections Key Metric
+- **Score Definition:** Are directors not elected annually?
+- **Assessment:** The document indicates that directors are elected annually.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 20. Strong Classified Board Combination Key Metric
+- **Score Definition:** Does the board have a combination of restrictive factors?
+- **Assessment:** The document does not indicate any combination of restrictive factors.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 21. Majority Voting Key Metric
+- **Score Definition:** Are directors elected by a plurality rather than a majority of votes cast?
+- **Assessment:** The document indicates that directors are elected by majority voting.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 22. Cumulative Voting Key Metric
+- **Score Definition:** Do shareholders lack cumulative voting rights for the election of directors?
+- **Assessment:** The document does not mention any lack of cumulative voting rights.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 23. Director Removal Without Cause Key Metric
+- **Score Definition:** Do shareholders lack the ability to remove directors without cause?
+- **Assessment:** The document indicates that shareholders can remove directors without cause.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 24. Constituency Provision Key Metric
+- **Score Definition:** Does the board have the ability to consider the interests of non-shareholder constituencies?
+- **Assessment:** The document does not indicate any constituency provisions.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 25. Business Combination Provision Key Metric
+- **Score Definition:** Do shareholders face supermajority voting requirements for approving business combinations?
+- **Assessment:** The document does not mention any supermajority voting requirements.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 26. Fair Bid Treatment Provisions Key Metric
+- **Score Definition:** Do shareholders face barriers to equitable treatment in takeover bids?
+- **Assessment:** The document does not indicate any barriers to equitable treatment.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 27. Ownership Structure Assessment Key Metric
+- **Score Definition:** Assessment of overall ownership structure.
+- **Assessment:** The document indicates a balanced ownership structure without significant concerns.
+- **Flagged:** No
+- **Score:** 0.0
+
+In summary, all key metrics evaluated resulted in a score of 0.0, indicating no flags or concerns based on the information provided in the document.
+
+Pay:
+Here is the evaluation of the Key Metrics related to pay for the company based on the provided document:
+
+### 1. CEO Equity Policy Key Metric
+- **Score Definition:** Evaluates whether the CEO holds shares with a value below 5x salary and if the company has failed to adopt either effective stock ownership guidelines or an equity retention policy for the CEO.
+- **Assessment:** The CEO holds shares equivalent to 227% of his Fixed Pay, which meets the requirement.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 2. CEO Equity Changes Key Metric
+- **Score Definition:** Assesses whether the number of shares held by the CEO has decreased year over year by 10% or more.
+- **Assessment:** There is no mention of a decrease in shares held by the CEO.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 3. Long-Term Pay Performance Key Metric
+- **Score Definition:** Determines if the CEO’s equity pay fails to reflect the company’s TSR performance over the last three and five years.
+- **Assessment:** The document does not indicate that the CEO's equity pay fails to reflect TSR performance.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 4. Long-Term Pay Performance Versus Peers Key Metric
+- **Score Definition:** Evaluates whether the CEO’s equity pay reflects the company’s TSR performance relative to its Pay Peer Group.
+- **Assessment:** The document does not indicate any issues with the CEO's equity pay relative to peers.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 5. Short-Term Pay Performance Key Metric
+- **Score Definition:** Assesses if the CEO’s annual incentives align with annual performance for the last reported period.
+- **Assessment:** The annual incentives align with performance metrics.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 6. Pay Linked to Sustainability Key Metric
+- **Score Definition:** Evaluates if the company has incorporated links to sustainability performance in its executive pay policies.
+- **Assessment:** The document mentions that sustainability is a strategic priority, indicating some linkage.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 7. Clawbacks & Malus Key Metric
+- **Score Definition:** Assesses whether the company has adopted a clawback policy applicable to both annual and long-term incentives.
+- **Assessment:** The company has a formal clawback policy in place.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 8. Golden Hellos Key Metric
+- **Score Definition:** Evaluates if there has been public criticism of golden hellos provided to the CEO or other senior executives.
+- **Assessment:** There is no mention of public criticism regarding golden hellos.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 9. Pay Controversy Key Metric
+- **Score Definition:** Assesses if the company’s pay policies or practices have attracted adverse public comment.
+- **Assessment:** The document does not indicate any adverse public comments on pay policies.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 10. Significant Vote Against Pay Practices Key Metric
+- **Score Definition:** Evaluates if the company received a negative vote in excess of 10% on its pay policies and practices.
+- **Assessment:** There is no mention of a significant vote against pay practices.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 11. Executive Pay Disclosure Key Metric
+- **Score Definition:** Assesses if the company has disclosed specific pay totals for its top executives.
+- **Assessment:** The document provides detailed pay disclosures for executives.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 12. CEO Pay Total Realized Key Metric
+- **Score Definition:** Evaluates if the CEO’s realized pay falls into an extreme range relative to the company’s pay peer group.
+- **Assessment:** The CEO's realized pay is not indicated to be in the top decile.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 13. CEO Pay Total Awarded Key Metric
+- **Score Definition:** Assesses if the CEO’s awarded pay falls into an extreme range relative to the company’s pay peer group.
+- **Assessment:** The CEO's awarded pay is not indicated to be in the top decile.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 14. CEO Pay Total Fixed Key Metric
+- **Score Definition:** Evaluates if the CEO’s fixed pay falls into an extreme range relative to the company’s pay peer group.
+- **Assessment:** The CEO's fixed pay is not indicated to be in the top decile.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 15. CEO Pay Perks & Other Pay Key Metric
+- **Score Definition:** Assesses if the CEO’s perquisites and other pay exceed specified thresholds.
+- **Assessment:** The document does not indicate that perks exceed thresholds.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 16. CEO Pay NQDC Key Metric
+- **Score Definition:** Evaluates if the pension contribution rate made by the company on behalf of the CEO is excessive relative to the company’s pay peer group.
+- **Assessment:** The pension contribution rate is not indicated to be in the top decile.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 17. CEO Pay Pension Key Metric
+- **Score Definition:** Assesses if the CEO’s accumulated pension figure is excessive relative to the company’s pay peer group.
+- **Assessment:** The CEO's pension figure is not indicated to be in the top decile.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 18. Internal Pay Equity Key Metric
+- **Score Definition:** Evaluates if the CEO’s total awarded pay exceeds the median pay for other named executive officers by more than 3x.
+- **Assessment:** The document does not indicate that the pay ratio exceeds 3x.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 19. Golden Parachutes Key Metric
+- **Score Definition:** Assesses if the CEO’s potential cash severance pay exceeds five times their annual pay.
+- **Assessment:** The document does not indicate that severance pay exceeds five times annual pay.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 20. Severance Vesting Key Metric
+- **Score Definition:** Evaluates if unvested equity awards are still eligible for vesting when the CEO's employment is terminated.
+- **Assessment:** The document does not mention unvested awards being eligible for vesting.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 21. Dilution Concerns Key Metric
+- **Score Definition:** Assesses if the potential dilution in the company’s traded shares is 10% or greater.
+- **Assessment:** The document does not indicate any dilution concerns.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 22. Run Rate Concerns Key Metric
+- **Score Definition:** Evaluates if the company’s current run rate is 2% or more.
+- **Assessment:** The document does not mention any run rate concerns.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 23. Director Equity Policy Key Metric
+- **Score Definition:** Assesses if the company has adopted specific stock ownership guidelines for non-executive directors.
+- **Assessment:** The document does not indicate the presence of stock ownership guidelines for non-executive directors.
+- **Flagged:** Yes
+- **Score:** 0.1
+
+In summary, all key metrics evaluated resulted in a score of 0.0, except for the Director Equity Policy Key Metric, which was flagged due to the absence of specific stock ownership guidelines, resulting in a score of 0.1.
+
+Board:
+Based on the provided document, here is the evaluation of the Key Metrics for the company:
+
+### 1. Independent Chair Key Metric
+- **Score Definition:** Is the non-executive chair classified as not independent of management or not independent of other interests (links to employees, government, or major owners) based on MSCI ESG Research criteria?
+- **Assessment:** The document indicates that the Chair is independent on appointment.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 2. Combined CEO/Chair Key Metric
+- **Score Definition:** Does the company have a combined CEO/chair?
+- **Assessment:** The document does not indicate a combined CEO/Chair.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 3. Leadership Concerns Key Metric
+- **Score Definition:** Are there concerns that there is a leader with excessive influence?
+- **Assessment:** No excessive influence concerns are mentioned.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 4. Chair Not Independent & No Independent Lead Director Key Metric
+- **Score Definition:** For companies with a non-independent chair, has the company failed to designate an independent lead director?
+- **Assessment:** The Chair is independent, so this does not apply.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 5. Board Majority Independent of Management Key Metric
+- **Score Definition:** Are less than a majority of directors independent of management?
+- **Assessment:** The document states that a majority of the Board comprises independent Non-Executive Directors.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 6. Board Majority Independent of Other Interests Key Metric
+- **Score Definition:** Are less than a majority of directors independent of other interests?
+- **Assessment:** The document confirms that a majority of directors are independent.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 7. Executives on Board Key Metric
+- **Score Definition:** Does 30% or more of the board comprise executive directors?
+- **Assessment:** The document does not indicate that 30% or more of the board are executives.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 8. No Independent Directors Key Metric
+- **Score Definition:** Is the board composed entirely of directors who do not meet the criteria for independence?
+- **Assessment:** The board includes independent directors.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 9. Related-Party Transactions Key Metric
+- **Score Definition:** Have there been any disclosed related-party transactions in the two most recently reported financial years?
+- **Assessment:** The document does not mention any related-party transactions.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 10. Flagged Directors on Board Key Metric
+- **Score Definition:** Are any of the board members Flagged Directors?
+- **Assessment:** No flagged directors are mentioned.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 11. Overboarded Non-Exec Directors Key Metric
+- **Score Definition:** Do any of the company’s non-executive board members serve on the boards of three or more additional issuers?
+- **Assessment:** The document does not indicate any overboarded non-executive directors.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 12. Overboarded Exec Directors Key Metric
+- **Score Definition:** Do any of the company’s executive board members serve on the boards of two or more additional issuers?
+- **Assessment:** No overboarded executive directors are mentioned.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 13. Significant Votes Against Directors Key Metric
+- **Score Definition:** Are there directors who received a negative or withheld shareholder vote in excess of 10%?
+- **Assessment:** The document does not mention any significant votes against directors.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 14. Entrenched Board Key Metric
+- **Score Definition:** Does the percentage of long-tenured, aging directors suggest a problem with board entrenchment?
+- **Assessment:** The document mentions ongoing assessments of director independence and tenure.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 15. CEOs on Board Key Metric
+- **Score Definition:** Is more than 30% of the board composed of currently active corporate CEOs from other companies?
+- **Assessment:** The document does not indicate that more than 30% are active CEOs.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 16. No Female Directors Key Metric
+- **Score Definition:** Does the composition of the board fail to include any female directors?
+- **Assessment:** The board includes female directors (38%).
+- **Flagged:** No
+- **Score:** 0.0
+
+### 17. Not 30% Female Directors Key Metric
+- **Score Definition:** Does the composition of the board fail to include at least 30% female directors?
+- **Assessment:** The board has 38% female directors.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 18. Risk Management Expertise Key Metric
+- **Score Definition:** Does the board lack at least one non-executive member with expertise in risk management?
+- **Assessment:** The document indicates that the board has members with risk management expertise.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 19. Audit Board/Committee Independence Key Metric
+- **Score Definition:** Has the company failed to establish an audit committee comprising only independent directors?
+- **Assessment:** The audit committee consists of independent directors.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 20. Executives on Audit Board/Committee Key Metric
+- **Score Definition:** Are there company executives serving on the audit committee?
+- **Assessment:** The document does not mention any executives on the audit committee.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 21. Audit Committee Financial Expert Key Metric
+- **Score Definition:** Does the audit committee lack at least one non-executive member with expertise in accounting or financial management?
+- **Assessment:** The audit committee includes members with financial expertise.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 22. Audit Committee Industry Expert Key Metric
+- **Score Definition:** Does the audit committee lack at least one non-executive member with substantial industry knowledge?
+- **Assessment:** The audit committee includes members with industry knowledge.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 23. Overboarded Audit Committee Members Key Metric
+- **Score Definition:** Do any independent members of the audit committee serve on the boards of three or more additional companies?
+- **Assessment:** The document does not indicate any overboarded audit committee members.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 24. Pay Committee Independence Key Metric
+- **Score Definition:** Are there directors serving on the pay committee who are not independent of management?
+- **Assessment:** The document does not mention any non-independent directors on the pay committee.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 25. Executives on Pay Committee Key Metric
+- **Score Definition:** Are there company executives serving on the pay committee?
+- **Assessment:** The document does not mention any executives on the pay committee.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 26. No Pay Committee & Execs on Board Key Metric
+- **Score Definition:** Does the company lack a standing pay committee, and are current company executives serving on its board?
+- **Assessment:** The document indicates that there is a pay committee.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 27. Pay Committee Concerns Key Metric
+- **Score Definition:** Does the composition of the pay committee raise concerns about active CEOs?
+- **Assessment:** The document does not indicate any concerns regarding the pay committee.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 28. No Nomination Committee Key Metric
+- **Score Definition:** Does the company lack a standing nomination committee?
+- **Assessment:** The document indicates that there is a nomination committee.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 29. Nomination Committee Chair Independence Key Metric
+- **Score Definition:** Is the nomination committee chair not independent of management or other interests?
+- **Assessment:** The nomination committee chair is independent.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 30. Nomination Committee Independence Key Metric
+- **Score Definition:** Are less than a majority of nomination committee members independent?
+- **Assessment:** The document indicates that the majority of the nomination committee members are independent.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 31. Bankruptcy or Liquidation Key Metric
+- **Score Definition:** Is the company, or a material subsidiary, currently in receivership, under bankruptcy protection, or facing liquidation?
+- **Assessment:** The document does not indicate any bankruptcy or liquidation.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 32. Debt Covenant Concerns Key Metric
+- **Score Definition:** Has the company, or a material subsidiary, recently breached the terms of its debt covenants?
+- **Assessment:** The document does not mention any breaches of debt covenants.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 33. Financing Difficulties Key Metric
+- **Score Definition:** Have concerns been identified regarding the going-concern assumption?
+- **Assessment:** The document does not indicate any financing difficulties.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 34. Capital Management Concerns Key Metric
+- **Score Definition:** Have concerns been raised regarding the treatment of security holders?
+- **Assessment:** The document does not mention any capital management concerns.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 35. Securities Violations Key Metric
+- **Score Definition:** Has the company faced allegations regarding investor access to basic facts?
+- **Assessment:** The document does not mention any securities violations.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 36. Threat of Delisting Key Metric
+- **Score Definition:** Is the issuer currently in breach of its continuing obligations that may threaten listing?
+- **Assessment:** The document does not indicate any threats of delisting.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 37. Executive Misconduct Key Metric
+- **Score Definition:** Has a current or recent member of the board or a senior executive allegedly failed to act with honesty and integrity?
+- **Assessment:** The document does not mention any allegations of executive misconduct.
+- **Flagged:** No
+- **Score:** 0.0
+
+### 38. Other High-Impact Governance Events Key Metric
+- **Score Definition:** Has the company faced situations that may distract the board from focusing on business operations?
+- **Assessment:** The document does not indicate any high-impact governance events.
+- **Flagged:** No
+- **Score:** 0.0
+
+In summary, all key metrics evaluated resulted in a score of 0.0, indicating no flags or concerns based on the information provided in the document.
